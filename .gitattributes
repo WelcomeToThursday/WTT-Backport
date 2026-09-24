@@ -1,0 +1,4 @@
+/WTT-ContentBackport/Resources/bundles/assets/content/audio/phrases/bear_06_anton_voice.bundle filter=lfs diff=lfs merge=lfs -text
+/WTT-ContentBackport/Resources/bundles/assets/content/audio/phrases/usec_09_tony_voice.bundle filter=lfs diff=lfs merge=lfs -text
+/WTT-ContentBackport/Resources/bundles/assets/content/audio/phrases/usec_10_garrett_voice.bundle filter=lfs diff=lfs merge=lfs -text
+/WTT-ContentBackport/Resources/bundles/assets/content/audio/phrases/vsrf_02_voice.bundle filter=lfs diff=lfs merge=lfs -text

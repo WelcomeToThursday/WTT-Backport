@@ -1,0 +1,2227 @@
+{
+  "68f25da3b84c6e1f8a09cffb": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_fence",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_fence",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_fence/item_barter_tarko_fence.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_fence",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Fence figurine",
+        "shortName": "Fence",
+        "description": "The limited Tarko figurine is as mysterious as Fence himself."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 450000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f11224197b61ffe703b16f": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_prestige_06",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": true,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_prestige_06",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_prestige_06/item_barter_tarko_prestige_06.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_prestige_06",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.3,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Hardened PMC figurine",
+        "shortName": "Hardened",
+        "description": "A Tarko figurine depicting a truly seasoned PMC operator who's been around for a while and seen some shit."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 82000,
+    "handbookPriceRoubles": 75000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f25f1201fb9de974058be4": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_mechanic",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_mechanic",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_mechanic/item_barter_tarko_mechanic.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_mechanic",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Mechanic figurine",
+        "shortName": "Mechanic",
+        "description": "Even in a Tarko figurine depiction, Mechanic remains a true weapons specialist."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 124000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f25eef19a2b503d70dc291": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_peacekeeper",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_peacekeeper",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_peacekeeper/item_barter_tarko_peacekeeper.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_peacekeeper",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Peacekeeper figurine",
+        "shortName": "Peacekeeper",
+        "description": "Even as a limited Tarko figurine, Peacekeeper seems ready to help and… no, nevermind, he's still just earning money for himself."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 142000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f25eba19a2b503d70dc28f": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_skier",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_skier",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_skier/item_barter_tarko_skier.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_skier",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Skier figurine",
+        "shortName": "Skier",
+        "description": "The creator of this limited Tarko figurine clearly knows Skier well. Otherwise, how could they capture his character so perfectly?"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 1000000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f119c6121d878a2303eee3": {
+    "itemTplToClone": "5d235b4d86f7742e017bc88a",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_barter_valuable_bitcoin_part_left",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "item_barter_valuable_bitcoin_part_left",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_valuable_bitcoin_part/item_barter_valuable_bitcoin_part_left.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_barter_valuable_bitcoin_part_left",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.05,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Right half of a Physical Bitcoin",
+        "shortName": "BTC",
+        "description": "The right half of the physical equivalent of the Bitcoin cryptocurrency. It's unclear who decided to destroy an entire fortune and why."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 42000,
+    "handbookPriceRoubles": 12357,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "smallTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f25ce9b2b53abd200b9551": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_therapist",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_therapist",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_therapist/item_barter_tarko_therapist.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_therapist",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Therapist figurine",
+        "shortName": "Therapist",
+        "description": "This limited Tarko figurine depicts Therapist, ready to save a few unfortunate souls. Or take your money for questionable medical services."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 506944,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "690c70a2a1461a01d605a1bd": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f4",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "item_barter_tarko_elvisvista",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "item_barter_tarko_elvisvista",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_elvisvista/item_barter_tarko_elvisvista.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Superrare",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_barter_tarko_elvisvista",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Elvisvista figurine",
+        "shortName": "Elvisvista",
+        "description": "The creator of this Tarko figurine depicted someone from the past, when life in Tarkov was calmer. It seems the person was an artist, but that's not certain."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 51448,
+    "handbookPriceRoubles": 50000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f26124b84c6e1f8a09cfff": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_tank",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_tank",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_tank/item_barter_tarko_tank.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_tank",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Walking Tank figurine",
+        "shortName": "Tank",
+        "description": "A Tarko collectible figurine depicting an operative in a special loadout based on the advice from knowledgeable people. Please do not try this loadout at home."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 87000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f2608301fb9de974058be6": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_btr",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_btr",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_btr/item_barter_tarko_btr.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_btr",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "BTR figurine",
+        "shortName": "BTR",
+        "description": "A collectible figurine from an unknown creator, showcasing the best means of transportation in all of Tarkov."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 94000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f25f3a5d977110860c3350": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_ragman",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_ragman",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_ragman/item_barter_tarko_ragman.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_ragman",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Ragman figurine",
+        "shortName": "Ragman",
+        "description": "Even as a Tarko figurine, Ragman looks every bit the true businessman."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 104000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f11adfcd0babab2c0fb003": {
+    "itemTplToClone": "5d235b4d86f7742e017bc88a",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_barter_valuable_bitcoin_part_right",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "item_barter_valuable_bitcoin_part_right",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_valuable_bitcoin_part/item_barter_valuable_bitcoin_part_right.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_barter_valuable_bitcoin_part_right",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.05,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Left half of a Physical Bitcoin",
+        "shortName": "BTC",
+        "description": "The left half of the physical equivalent of the Bitcoin cryptocurrency. It's unclear who decided to destroy an entire fortune and why."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 37000,
+    "handbookPriceRoubles": 12357,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "smallTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f25faa22c8979ee308f4da": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_jaeger",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_jaeger",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_jaeger/item_barter_tarko_jaeger.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_jaeger",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Jaeger figurine",
+        "shortName": "Jaeger",
+        "description": "The creator of this figurine captured Jaeger with incredible precision, even conveying the depth of emotion in his eyes."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 99000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f26063b2b53abd200b9553": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_ref",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_ref",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_ref/item_barter_tarko_ref.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_ref",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Ref figurine",
+        "shortName": "Ref",
+        "description": "The figurine Ref looks just like the real one, always on the lookout for new fighters for the Arena."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 115000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f260d7b84c6e1f8a09cffd": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_cat",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_cat",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_cat/item_barter_tarko_cat.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_cat",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Hideout Cat figurine",
+        "shortName": "Cat",
+        "description": "This cat was destined to become part of the Tarko figurine collection."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 172000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f25fdf928cd23ddf0471fb": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_lightkeeper",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_lightkeeper",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_lightkeeper/item_barter_tarko_lightkeeper.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_lightkeeper",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Lightkeeper figurine",
+        "shortName": "Lightkeeper",
+        "description": "This limited Tarko figurine shows Tarkov’s Gray Cardinal. Some people know what Lightkeeper looks like only thanks to this figurine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 120000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f26161b84c6e1f8a09d001": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_prestige_09",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_prestige_09",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_prestige_09/item_barter_tarko_prestige_09.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_prestige_09",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Escape figurine",
+        "shortName": "Escape",
+        "description": "A Tarko collectible figurine depicting a PMC operative who went through fire, water and copper pipes."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 69420,
+    "handbookPriceRoubles": 85000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f261f6928cd23ddf0471fd": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_scav_mastexin",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_scav_mastexin",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_scav_06/item_barter_tarko_scav_06.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Superrare",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_scav_mastexin",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Mastichin figurine",
+        "shortName": "Mastichin",
+        "description": "A limited Tarko figurine depicting a Tarkov resident."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 71899,
+    "handbookPriceRoubles": 50000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "68f25c64b2b53abd200b954f": {
+    "itemTplToClone": "655c66e40b2de553b618d4b8",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+    "overrideProperties": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "violet",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "Item_barter_tarko_prapor",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 100,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 2,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "jewelry",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Item_barter_tarko_prapor",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/barter/item_barter_tarko_prapor/item_barter_tarko_prapor.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Item_barter_tarko_prapor",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.2,
+      "Width": 1,
+      "MaxResource": 0,
+      "Resource": 0
+    },
+    "locales": {
+      "en": {
+        "name": "Prapor figurine",
+        "shortName": "Prapor",
+        "description": "This limited Tarko figurine shows Prapor in his best mood."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 130000,
+    "handbookPriceRoubles": 100000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_BANK_SAFE_4X4",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_SAFE",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_DUFFLE_BAG",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_SUPPLY_CRATE_2",
+        "probability": 15
+      }
+    ],
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": true,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+
+    "addtoTraders": false,
+    "traders": {}
+  }
+}

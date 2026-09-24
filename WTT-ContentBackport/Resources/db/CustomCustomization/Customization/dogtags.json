@@ -1,0 +1,246 @@
+{
+  "68f15e9fcacd763bbc0e2bd8": {
+    "_id": "68f15e9fcacd763bbc0e2bd8",
+    "_name": "dogtags_square_tarkov2025",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtags_square_tarkov2025",
+      "Name": "dogtags_square_tarkov2025",
+      "ProfileVersions": [],
+      "ShortName": "dogtags_square_tarkov2025",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "68f15cf222c8979ee308f495",
+      "UsecTemplateId": "68f15dbab2b53abd200b9378"
+    }
+  },
+  "68fb36c5f91674307c06674d": {
+    "_id": "68fb36c5f91674307c06674d",
+    "_name": "dogtag_bear_immortal",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_bear_immortal",
+      "Name": "dogtag_bear_immortal",
+      "ProfileVersions": [],
+      "ShortName": "dogtag_bear_immortal",
+      "Side": [
+        "Bear"
+      ],
+      "BearTemplateId": "68fb412b0760c7891606613e",
+      "UsecTemplateId": ""
+    }
+  },
+  "68fb35fb2cff66eb7a008ea8": {
+    "_id": "68fb35fb2cff66eb7a008ea8",
+    "_name": "dogtag_usec_immortal",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_usec_immortal",
+      "Name": "dogtag_usec_immortal",
+      "ProfileVersions": [],
+      "ShortName": "dogtag_usec_immortal",
+      "Side": [
+        "Usec"
+      ],
+      "BearTemplateId": "",
+      "UsecTemplateId": "68fb4157b280c103230e3b3c"
+    }
+  },
+  "68f15ed4edf2ab313f093498": {
+    "_id": "68f15ed4edf2ab313f093498",
+    "_name": "dogtags_melted_tarkov2025",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtags_melted_tarkov2025",
+      "Name": "dogtags_melted_tarkov2025",
+      "ProfileVersions": [],
+      "ShortName": "dogtags_melted_tarkov2025",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "68f15e26f1aa7e100a0ca208",
+      "UsecTemplateId": "68f15e53103c5d9d4f022c78"
+    }
+  },
+  "68f155ead4bee20384008afc": {
+    "_id": "68f155ead4bee20384008afc",
+    "_name": "dogtags_twitch",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtags_twitch",
+      "Name": "dogtags_twitch",
+      "ProfileVersions": [],
+      "ShortName": "dogtags_twitch",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "68f153aa7da590b6df0515da",
+      "UsecTemplateId": "5b9b9020e7ef6f5716480215"
+    }
+  },
+  "68dfb00742e96f583d042bd2": {
+    "_id": "68dfb00742e96f583d042bd2",
+    "_name": "dogtag_story_04_for_humanity",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_story_04_for_humanity",
+      "Name": "dogtag_story_04_for_humanity",
+      "ProfileVersions": [],
+      "ShortName": "dogtag_story_04_for_humanity",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "68df9927a38a5e37d80df6c9",
+      "UsecTemplateId": "68df99c05d4e135b130392cc"
+    }
+  },
+  
+  "68dfafeadfaadbd4eb06539a": {
+    "_id": "68dfafeadfaadbd4eb06539a",
+    "_name": "dogtag_story_02_in_the_darkness",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_story_02_in_the_darkness",
+      "Name": "dogtag_story_02_in_the_darkness",
+      "ProfileVersions": [],
+      "ShortName": "dogtag_story_02_in_the_darkness",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "68df991142e96f583d042b8a",
+      "UsecTemplateId": "68df99a614ca2428b2017cd8"
+    }
+  },
+  "68f11478a1e799f1c3027c77": {
+    "_id": "68f11478a1e799f1c3027c77",
+    "_name": "dogtag_prestige_6",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_prestige_6",
+      "Name": "dogtag_prestige_6",
+      "ProfileVersions": [],
+      "ShortName": "dogtag_prestige_6",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "68f0f63c645c14a02104142a",
+      "UsecTemplateId": "68f0f662859ebec8d501b76a"
+    }
+  },
+  "68dfaffe3c5a40e30f0e55b0": {
+    "_id": "68dfaffe3c5a40e30f0e55b0",
+    "_name": "dogtag_story_03_didnt_escape_from_yourself",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_story_03_didnt_escape_from_yourself",
+      "Name": "dogtag_story_03_didnt_escape_from_yourself",
+      "ProfileVersions": [],
+      "ShortName": "dogtag_story_03_didnt_escape_from_yourself",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "68df991dbeba86572e097ceb",
+      "UsecTemplateId": "68df99b2f716906506098308"
+    }
+  },
+  "68fb36ac1494ff5562048865": {
+    "_id": "68fb36ac1494ff5562048865",
+    "_name": "dogtag_usec_acolyte",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_usec_acolyte",
+      "Name": "dogtag_usec_acolyte",
+      "ProfileVersions": [],
+      "ShortName": "dogtag_usec_acolyte",
+      "Side": [
+        "Usec"
+      ],
+      "BearTemplateId": "",
+      "UsecTemplateId": "68fb4143a854bc7ae80fad3e"
+    }
+  },
+  "68dfafd82d57066c0d011c86": {
+    "_id": "68dfafd82d57066c0d011c86",
+    "_name": "dogtag_story_01_and_survived",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_story_01_and_survived",
+      "Name": "dogtag_story_01_and_survived",
+      "ProfileVersions": [],
+      "ShortName": "dogtag_story_01_and_survived",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "68df9908972cf1e1ec07256a",
+      "UsecTemplateId": "68df99975d4e135b130392ca"
+    }
+  },
+  "68fb36dbd34d546909014ca7": {
+    "_id": "68fb36dbd34d546909014ca7",
+    "_name": "dogtag_bear_acolyte",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_bear_acolyte",
+      "Name": "dogtag_bear_acolyte",
+      "ProfileVersions": [],
+      "ShortName": "dogtag_bear_acolyte",
+      "Side": [
+        "Bear"
+      ],
+      "BearTemplateId": "68fb41120760c7891606613c",
+      "UsecTemplateId": ""
+    }
+  },
+  "68f113af8c147e61f50fb520": {
+    "_id": "68f113af8c147e61f50fb520",
+    "_name": "dogtag_prestige_5",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_prestige_5",
+      "Name": "dogtag_prestige_5",
+      "ProfileVersions": [],
+      "ShortName": "dogtag_prestige_5",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "68f0f60a121d878a2303eedb",
+      "UsecTemplateId": "68f0f64f183146ea530330aa"
+    }
+  }
+}

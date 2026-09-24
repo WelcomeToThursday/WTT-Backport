@@ -1,0 +1,564 @@
+{
+  "68fb6a28f0b98c76ea0dc313": {
+    "_id": "68fb6a28f0b98c76ea0dc313",
+    "_name": "ForgottenWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "ForgottenWall",
+      "Name": "ForgottenWall",
+      "ProfileVersions": [],
+      "ShortName": "ForgottenWall",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_forgotten.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": false
+    }
+  },
+  "68f6159355deae75be0f3bb6": {
+    "_id": "68f6159355deae75be0f3bb6",
+    "_name": "TargetAxeman",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetAxeman",
+      "Name": "TargetAxeman",
+      "ProfileVersions": [],
+      "ShortName": "TargetAxeman",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetAxeman"
+      }
+    }
+  },
+  "68f151258e0bff44ce023f20": {
+    "_id": "68f151258e0bff44ce023f20",
+    "_name": "TargetTagilla",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetTagilla",
+      "Name": "TargetTagilla",
+      "ProfileVersions": [],
+      "ShortName": "TargetTagilla",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetTagilla"
+      }
+    }
+  },
+  "68f1516fd4bee20384008afa": {
+    "_id": "68f1516fd4bee20384008afa",
+    "_name": "TargetZryachiy",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetZryachiy",
+      "Name": "TargetZryachiy",
+      "ProfileVersions": [],
+      "ShortName": "TargetZryachiy",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetZryachiy"
+      }
+    }
+  },
+  "68f151bf79e73568c40a7938": {
+    "_id": "68f151bf79e73568c40a7938",
+    "_name": "TargetKnight",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetKnight",
+      "Name": "TargetKnight",
+      "ProfileVersions": [],
+      "ShortName": "TargetKnight",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetKnight"
+      }
+    }
+  },
+  "68df9aa45d4e135b130392d0": {
+    "_id": "68df9aa45d4e135b130392d0",
+    "_name": "Story03DidntEscapeFromYourselfCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story03DidntEscapeFromYourselfCeiling",
+      "Name": "Story03DidntEscapeFromYourselfCeiling",
+      "ProfileVersions": [],
+      "ShortName": "Story03DidntEscapeFromYourselfCeiling",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_ending_03.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "68df9aaf637781242a0b22fa": {
+    "_id": "68df9aaf637781242a0b22fa",
+    "_name": "Story04ForHumanityCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story04ForHumanityCeiling",
+      "Name": "Story04ForHumanityCeiling",
+      "ProfileVersions": [],
+      "ShortName": "Story04ForHumanityCeiling",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_04_for_humanity.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "68fb6a7cf91c87952f0c4fe5": {
+    "_id": "68fb6a7cf91c87952f0c4fe5",
+    "_name": "EchoOfBattleFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "EchoOfBattleFloor",
+      "Name": "EchoOfBattleFloor",
+      "ProfileVersions": [],
+      "ShortName": "EchoOfBattleFloor",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_echo_of_battle.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": false
+    }
+  },
+  "68df9a2d3772634bf40f4f1a": {
+    "_id": "68df9a2d3772634bf40f4f1a",
+    "_name": "Story04ForHumanityFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story04ForHumanityFloor",
+      "Name": "Story04ForHumanityFloor",
+      "ProfileVersions": [],
+      "ShortName": "Story04ForHumanityFloor",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_04_for_humanity.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "68df9ac5a38a5e37d80df6cd": {
+    "_id": "68df9ac5a38a5e37d80df6cd",
+    "_name": "Story02InTheDarknessWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story02InTheDarknessWall",
+      "Name": "Story02InTheDarknessWall",
+      "ProfileVersions": [],
+      "ShortName": "Story02InTheDarknessWall",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_02_in_the_darkness.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "68df9a14972cf1e1ec07256c": {
+    "_id": "68df9a14972cf1e1ec07256c",
+    "_name": "Story02InTheDarknessFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story02InTheDarknessFloor",
+      "Name": "Story02InTheDarknessFloor",
+      "ProfileVersions": [],
+      "ShortName": "Story02InTheDarknessFloor",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_02_in_the_darkness.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "68f11506a1e799f1c3027c79": {
+    "_id": "68f11506a1e799f1c3027c79",
+    "_name": "TargetCockerel",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetCockerel",
+      "Name": "TargetCockerel",
+      "ProfileVersions": [],
+      "ShortName": "TargetCockerel",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetCockerel"
+      }
+    }
+  },
+  "68f1500a8e0bff44ce023f1e": {
+    "_id": "68f1500a8e0bff44ce023f1e",
+    "_name": "TargetKilla",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetKilla",
+      "Name": "TargetKilla",
+      "ProfileVersions": [],
+      "ShortName": "TargetKilla",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetKilla"
+      }
+    }
+  },
+  "68fb6aa63545a39de907326f": {
+    "_id": "68fb6aa63545a39de907326f",
+    "_name": "ForgottenCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "ForgottenCeiling",
+      "Name": "ForgottenCeiling",
+      "ProfileVersions": [],
+      "ShortName": "ForgottenCeiling",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_forgotten.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "68df9abc5d4e135b130392d2": {
+    "_id": "68df9abc5d4e135b130392d2",
+    "_name": "Story01AndSurvivedWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story01AndSurvivedWall",
+      "Name": "Story01AndSurvivedWall",
+      "ProfileVersions": [],
+      "ShortName": "Story01AndSurvivedWall",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_01_and_survived.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "68fb6abe365db7fe8a0e25ef": {
+    "_id": "68fb6abe365db7fe8a0e25ef",
+    "_name": "EchoOfBattleCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "EchoOfBattleCeiling",
+      "Name": "EchoOfBattleCeiling",
+      "ProfileVersions": [],
+      "ShortName": "EchoOfBattleCeiling",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_echo_of_battle.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "68df9a925d4e135b130392ce": {
+    "_id": "68df9a925d4e135b130392ce",
+    "_name": "Story01AndSurvivedCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story01AndSurvivedCeiling",
+      "Name": "Story01AndSurvivedCeiling",
+      "ProfileVersions": [],
+      "ShortName": "Story01AndSurvivedCeiling",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_01_and_survived.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "68fb6a703545a39de9073267": {
+    "_id": "68fb6a703545a39de9073267",
+    "_name": "ForgottenFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "ForgottenFloor",
+      "Name": "ForgottenFloor",
+      "ProfileVersions": [],
+      "ShortName": "ForgottenFloor",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_forgotten.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": false
+    }
+  },
+  "68df9a053772634bf40f4f18": {
+    "_id": "68df9a053772634bf40f4f18",
+    "_name": "Story01AndSurvivedFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story01AndSurvivedFloor",
+      "Name": "Story01AndSurvivedFloor",
+      "ProfileVersions": [],
+      "ShortName": "Story01AndSurvivedFloor",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_01_and_survived.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "68f615b0c7592f88510b1c32": {
+    "_id": "68f615b0c7592f88510b1c32",
+    "_name": "TargetAceOfSpades",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetAceOfSpades",
+      "Name": "TargetAceOfSpades",
+      "ProfileVersions": [],
+      "ShortName": "TargetAceOfSpades",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetAceOfSpades"
+      }
+    }
+  },
+  "68df9b2642e96f583d042b8c": {
+    "_id": "68df9b2642e96f583d042b8c",
+    "_name": "Story03DidntEscapeFromYourselfWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story03DidntEscapeFromYourselfWall",
+      "Name": "Story03DidntEscapeFromYourselfWall",
+      "ProfileVersions": [],
+      "ShortName": "Story03DidntEscapeFromYourselfWall",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_ending_03.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "68df9b2e3772634bf40f4f1c": {
+    "_id": "68df9b2e3772634bf40f4f1c",
+    "_name": "Story04ForHumanityWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story04ForHumanityWall",
+      "Name": "Story04ForHumanityWall",
+      "ProfileVersions": [],
+      "ShortName": "Story04ForHumanityWall",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_04_for_humanity.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "68df9a9ba38a5e37d80df6cb": {
+    "_id": "68df9a9ba38a5e37d80df6cb",
+    "_name": "Story02InTheDarknessCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story02InTheDarknessCeiling",
+      "Name": "Story02InTheDarknessCeiling",
+      "ProfileVersions": [],
+      "ShortName": "Story02InTheDarknessCeiling",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_02_in_the_darkness.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "68df9a222e6cd294e908d1eb": {
+    "_id": "68df9a222e6cd294e908d1eb",
+    "_name": "Story03DidntEscapeFromYourselfFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "Story03DidntEscapeFromYourselfFloor",
+      "Name": "Story03DidntEscapeFromYourselfFloor",
+      "ProfileVersions": [],
+      "ShortName": "Story03DidntEscapeFromYourselfFloor",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_ending_03.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "68fb6a584e7ecdb1220adfa5": {
+    "_id": "68fb6a584e7ecdb1220adfa5",
+    "_name": "EchoOfBattleWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "EchoOfBattleWall",
+      "Name": "EchoOfBattleWall",
+      "ProfileVersions": [],
+      "ShortName": "EchoOfBattleWall",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": true,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_echo_of_battle.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": false
+    }
+  }
+}

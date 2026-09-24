@@ -1,0 +1,107 @@
+{
+  "6a354c9673339990030ca46d": {
+    "_id": "6a354c9673339990030ca46d",
+    "_name": "dogtags_blackdivision_ferrum",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtags_blackdivision_ferrum",
+      "Name": "dogtags_blackdivision_ferrum",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "dogtags_blackdivision_ferrum",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "6a354a30652075cf460944c6",
+      "UsecTemplateId": "6a354a077e4ccdbe95005266"
+    }
+  },
+  "6a354cdc993ed2447e01bc08": {
+    "_id": "6a354cdc993ed2447e01bc08",
+    "_name": "dogtags_blackdivision_green",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtags_blackdivision_green",
+      "Name": "dogtags_blackdivision_green",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "dogtags_blackdivision_green",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "6a354a9a9cd7a91b45027a89",
+      "UsecTemplateId": "6a354a6240e6797a930312e5"
+    }
+  },
+  "6a354f75e68cab523a076007": {
+    "_id": "6a354f75e68cab523a076007",
+    "_name": "dogtags_blackdivision_old",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtags_blackdivision_old",
+      "Name": "dogtags_blackdivision_old",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "dogtags_blackdivision_old",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "6a354abe73339990030ca469",
+      "UsecTemplateId": "6a354a7e6632508bd10476d8"
+    }
+  },
+  "6a354d09bc8aada000066566": {
+    "_id": "6a354d09bc8aada000066566",
+    "_name": "dogtags_blackdivision_red",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtags_blackdivision_red",
+      "Name": "dogtags_blackdivision_red",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "dogtags_blackdivision_red",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "6a354aa56632508bd10476dc",
+      "UsecTemplateId": "6a354a6f8d465a55c70065c8"
+    }
+  },
+  "6a354c14bc8aada00006655f": {
+    "_id": "6a354c14bc8aada00006655f",
+    "_name": "dogtags_double",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtags_double",
+      "Name": "dogtags_double",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "dogtags_double",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "6a3549435288a3fe6e085224",
+      "UsecTemplateId": "6a3548e72a963bcdd8098649"
+    }
+  }
+}

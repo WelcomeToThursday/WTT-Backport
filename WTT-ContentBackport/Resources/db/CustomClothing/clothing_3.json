@@ -1,0 +1,94 @@
+[
+  {
+    "type": "top",
+    "suiteId": "697a1bed4fd85417be07c5a6",
+    "outfitId": "697a1bed4fd85417be07c5a6",
+    "topId": "697a1a642706743ec00766d3",
+    "handsId": "697a1b40e614e1b1e006f648",
+    "locales": {
+      "en": {
+        "name": "USEC Fahrenheit",
+        "description": "Tactical jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_usec_winterset_2.bundle",
+    "handsBundlePath": "assets/content/hands/hands_usec_winterset_2/hands_usec_winterset_2.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "side": ["Usec"],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "697a1c1fd753995683085542",
+    "outfitId": "697a1c1fd753995683085542",
+    "topId": "697a1a3801958b2b7b0cce7a",
+    "handsId": "697a1ae6e418da3bd10ca7b8",
+    "locales": {
+      "en": {
+        "name": "BEAR Arktika",
+        "description": "Tactical jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bear_winterset_2.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bear_winterset_2/hands_bear_winterset_2.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "side": ["Bear"],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "697a1c654fd85417be07c5a8",
+    "outfitId": "697a1c654fd85417be07c5a8",
+    "bottomId": "697a1abc93250c9ec90b74ae",
+    "locales": {
+      "en": {
+        "name": "USEC Fahrenheit",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_winterset_2.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "side": ["Usec"],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "697a1c34cd967770800e8029",
+    "outfitId": "697a1c34cd967770800e8029",
+    "bottomId": "697a1a91dd691ac297075dde",
+    "locales": {
+      "en": {
+        "name": "BEAR Arktika",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_winterset_2.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "side": ["Bear"],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  }
+]

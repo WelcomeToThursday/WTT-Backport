@@ -1,0 +1,1104 @@
+[
+  {
+    "type": "top",
+    "suiteId": "68bc315be6068f34a7016e94",
+    "outfitId": "694c14f7a745487130a150fa",
+    "topId": "68bc29c8b50500fb3d079f3e",
+    "handsId": "68bc2de3e6068f34a7016e92",
+    "locales": {
+      "en": {
+        "name": "Champion upper",
+        "description": "Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_champion.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_champion/hands_arena_champion.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 1500000,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68bc32aaa808761af80b3f62",
+    "outfitId": "694c14f85fab0bb97cd502e8",
+    "topId": "68bc2c7fe6068f34a7016e90",
+    "handsId": "68bc2e8d5997832aa10e08fe",
+    "locales": {
+      "en": {
+        "name": "Rash guard (Ice Dragon)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_3_icedragon.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_3/hands_arena_rusguard_3_icedragon.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 1500000,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68d2847ec93aab45de0a625a",
+    "outfitId": "694c14fae0ed405191c7d931",
+    "topId": "68d1b03b2859303af00eb233",
+    "handsId": "68d1b13d7cebb8b1540671c3",
+    "locales": {
+      "en": {
+        "name": "USEC Digital Miami",
+        "description": "Hawaiian shirt"
+      }
+    },
+    "side": [
+      "Usec"
+    ],
+    "topBundlePath": "assets/content/characters/character/prefabs/top_usec_kit_upper_hawaii_miami.bundle",
+    "handsBundlePath": "assets/content/hands/hands_usec_kit_upper_hawaii_miami/hands_usec_kit_upper_hawaii_miami.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68dbb43cb59e2c0b7e08e4e1",
+    "outfitId": "694c14fcc5cace8823189706",
+    "topId": "68dbae11d3604076f90b18b9",
+    "handsId": "68dbae61f35e3e0b350c8a59",
+    "locales": {
+      "en": {
+        "name": "USEC Legionnaire Olive",
+        "description": "Combat shirt"
+      }
+    },
+    "side": [
+      "Usec"
+    ],
+    "topBundlePath": "assets/content/characters/character/prefabs/top_usec_clawgear_olive_drab.bundle",
+    "handsBundlePath": "assets/content/hands/hands_usec_clawgear/hands_usec_clawgear_olive_drab.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["6948996f192a4d4fc09a56f7"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68bc32ccf99c8b6606062771",
+    "outfitId": "694c14fd254331f1c2f705da",
+    "topId": "68bc2c9692326cea6703ee9d",
+    "handsId": "68bc2ea96e187357d10932ef",
+    "locales": {
+      "en": {
+        "name": "Rash guard (Blue Moss)",
+        "description": "Sportswear"
+      }
+    },
+    "side": ["Bear"],
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_4_bear.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_4/hands_arena_rusguard_4_bear.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 1500000,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68bc31cedc0a9c7cea0d71e0",
+    "outfitId": "694c14ffc6734387f15db5ce",
+    "topId": "68bc2bdcd988da9e98031993",
+    "handsId": "68bc2e245997832aa10e08fc",
+    "locales": {
+      "en": {
+        "name": "USEC Gladiator",
+        "description": "Tank hoodie"
+      }
+    },
+    "side": [
+      "Usec"
+    ],
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_intermediate_usec.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_intermediate/hands_arena_intermediate_usec.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68d284d36b7283dfe90ea838",
+    "outfitId": "694c1502bc06e52bf1106fbe",
+    "topId": "68d1ad1f37e13fe7d20b5d08",
+    "handsId": "68d1b0ad34ff97b722076d4d",
+    "locales": {
+      "en": {
+        "name": "BEAR Miami Brushstroke",
+        "description": "Hawaiian shirt"
+      }
+    },
+    "side": ["Bear"],
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bear_kit_upper_hawaii_miami.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bear_kit_upper_hawaii_miami/hands_bear_kit_upper_hawaii_miami.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68dbfa6d005715f7470f7869",
+    "outfitId": "694c15032cf7eb9da9dd620d",
+    "topId": "68dbf93dfe547b515a0db953",
+    "handsId": "68dbf8e9d3604076f90b18ca",
+    "locales": {
+      "en": {
+        "name": "BEAR Sumrak Reverse Side",
+        "description": "Camo jacket"
+      }
+    },
+    "side": ["Bear"],
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bear_sumrak_reverse_side.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bear_sumrak/hands_bear_sumrak_reverse_side.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["6948996f192a4d4fc09a56f7"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68bc33a1d5e8d55c7d0d5233",
+    "outfitId": "694c1506c3822a5ee0e53150",
+    "topId": "68bc2cd56e187357d10932ed",
+    "handsId": "68bc2ee3f90f9465d4062508",
+    "locales": {
+      "en": {
+        "name": "Skeleton longsleeve (Black)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_5_black.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_5/hands_arena_rusguard_5_black.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68bc33b292326cea6703eea1",
+    "outfitId": "694c1508e4a6c3509271126a",
+    "topId": "68bc2ce992326cea6703ee9f",
+    "handsId": "68bc2ef6d988da9e98031997",
+    "locales": {
+      "en": {
+        "name": "Skeleton longsleeve (Green)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_5_green.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_5/hands_arena_rusguard_5_green.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68be8b9c6b0736bebc012ad1",
+    "outfitId": "694c150b592bbaa0f390a2dd",
+    "topId": "68be877aaf253218c00ebba9",
+    "handsId": "68be884813febe37b20e7e09",
+    "locales": {
+      "en": {
+        "name": "Red Hawaii",
+        "description": "Hawaii shirt"
+      }
+    },
+    "side": ["Bear"],
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bear_hawaii_02.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bear_hawaii_02/hands_bear_hawaii_02.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68be8bc9a48c3c320808abbe",
+    "outfitId": "694c150d4f7c3222983c082d",
+    "topId": "68be87b9a48c3c320808abbb",
+    "handsId": "68be882ec89ccaee060c81ca",
+    "locales": {
+      "en": {
+        "name": "Orange Hawaii",
+        "description": "Hawaiian shirt"
+      }
+    },
+    "side": [
+      "Usec"
+    ],
+    "topBundlePath": "assets/content/characters/character/prefabs/top_usec_hawaii_02.bundle",
+    "handsBundlePath": "assets/content/hands/hands_usec_hawaii_02/hands_usec_hawaii_02.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68bc33746e187357d10932f1",
+    "outfitId": "694c150e2aada1e899067dff",
+    "topId": "68bc2cb4f90f9465d4062506",
+    "handsId": "68bc2ec1f0fd79e3a206900e",
+    "locales": {
+      "en": {
+        "name": "Rash Guard (Tiger Stripe)",
+        "description": "Sportswear"
+      }
+    },
+    "side": [
+      "Usec"
+    ],
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_4_usec.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_4/hands_arena_rusguard_4_usec.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 1500000,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68bc3258e6068f34a7016e96",
+    "outfitId": "694c1511e33e36c688304cfb",
+    "topId": "68bc2c4eb50500fb3d079f40",
+    "handsId": "68bc2e64d5e8d55c7d0d5231",
+    "locales": {
+      "en": {
+        "name": "Rash guard (Voron)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_1_whitevoron.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_1/hands_arena_rusguard_1_whitevoron.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68bc32410cd5c938e90a0afe",
+    "outfitId": "694c15125cb6ca7d4247fe79",
+    "topId": "68bc2bfaa808761af80b3f60",
+    "handsId": "68bc2e51b50500fb3d079f46",
+    "locales": {
+      "en": {
+        "name": "Rash guard (Tatau)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_1_tatau.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_1/hands_arena_rusguard_1_tatau.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68bc3283dc0a9c7cea0d71e2",
+    "outfitId": "694c1515fe2eb1fb44042cf7",
+    "topId": "68bc2c67f99c8b660606276f",
+    "handsId": "68bc2e78f0fd79e3a206900c",
+    "locales": {
+      "en": {
+        "name": "Rash guard (Cuirass)",
+        "description": "Sportswear"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_rusguard_3_cuirass.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_rusguard_3/hands_arena_rusguard_3_cuirass.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "68bc31b00cd5c938e90a0afc",
+    "outfitId": "694c151664e491bbd8e9c329",
+    "topId": "68bc2bb6dc0a9c7cea0d71de",
+    "handsId": "68bc2e09b50500fb3d079f44",
+    "locales": {
+      "en": {
+        "name": "BEAR Gladiator",
+        "description": "Tank hoodie"
+      }
+    },
+    "side": ["Bear"],
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_intermediate_bear.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_intermediate/hands_arena_intermediate_bear.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 1500000,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a511a12a5bbbad806d051",
+    "outfitId": "694c151989a1399a50352d8a",
+    "topId": "68ac5b17017f18f77c007914",
+    "handsId": "692a5c4299229b622de66d81",
+    "locales": {
+      "en": {
+        "name": "Civilian Port Jacket (TG)",
+        "description": "Civilian Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_jacket_tg.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_jacket_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a511e9ac4bd1eda468361",
+    "outfitId": "692a511f34dd84387c2f21f3",
+    "topId": "68a6faa1c8a3ef285c060b75",
+    "handsId": "692a5c47cde93481db7e2bb4",
+    "locales": {
+      "en": {
+        "name": "Civilian Port Jacket (Yellow)",
+        "description": "Civilian Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_jacket_yellow.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_jacket_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a512089cce448e339fba1",
+    "outfitId": "692a5121c3756af7b7943fca",
+    "topId": "68a6fac1226a60005506fafb",
+    "handsId": "692a5128bd24b7d7b754a312",
+    "locales": {
+      "en": {
+        "name": "Civilian Port Sweater (Orange)",
+        "description": "Civilian Sweater"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_sweater_orange.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_sweater_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a5122bb1141d8e32b562f",
+    "outfitId": "692a512399361b7e5c29536c",
+    "topId": "68a6faeea1eb443ead010e88",
+    "handsId": "692a512603d28a3680688aff",
+    "locales": {
+      "en": {
+        "name": "Civilian Port Raincoat (Orange)",
+        "description": "Civilian Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_yellowcoat_orange.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_yellowcoat_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a512ac59603dc1f8085aa",
+    "outfitId": "692a512b3f4d42fd501155a5",
+    "topId": "689489848c57a8a52301d7aa",
+    "handsId": "692a512c8e2db159b344a46d",
+    "locales": {
+      "en": {
+        "name": "RUAF Major",
+        "description": "Military Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_ruaf_major.bundle",
+    "handsBundlePath": "fphands/top_ruaf_major_base_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a512c0d0e655ad18cb025",
+    "outfitId": "692a512d9dbd5b0ee9ce3d94",
+    "topId": "688dec55152c0d07670564af",
+    "handsId": "692a512d0eab61d758387da3",
+    "locales": {
+      "en": {
+        "name": "Black Division Operator (V3)",
+        "description": "[REDACTED]"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bd_operator_03.bundle",
+    "handsBundlePath": "fphands/top_operator_bd3_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a512eebb55de8d2b48589",
+    "outfitId": "692a512fa3a0af5b35aee5bd",
+    "topId": "689489305d9e0b06a4006948",
+    "handsId": "692a512ff82eaecd774bd519",
+    "locales": {
+      "en": {
+        "name": "RUAF Ballistic",
+        "description": "Military Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_ruaf_ballistic.bundle",
+    "handsBundlePath": "fphands/top_ruaf_ballistic_base_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a5130f99d081957ccf3a8",
+    "outfitId": "692a5131f2d7d50202a73286",
+    "topId": "6894899de4bf255d1b0ca767",
+    "handsId": "692a5131a1971499a0327a8a",
+    "locales": {
+      "en": {
+        "name": "RUAF Sergeant",
+        "description": "Military Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_ruaf_sergeant.bundle",
+    "handsBundlePath": "fphands/top_ruaf_sergeant_base_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a5132686937f290a6d0f5",
+    "outfitId": "692a513300d5e92b15590c8a",
+    "topId": "68a6fb00c8a3ef285c060b77",
+    "handsId": "692a513370caa33270c0c84c",
+    "locales": {
+      "en": {
+        "name": "Civilian Port Raincoat (Yellow)",
+        "description": "Civilian Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_yellowcoat_yellow.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_yellowcoat_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a51347b48879bf12053be",
+    "outfitId": "692a5135a1a4f934e5344886",
+    "topId": "689489518c57a8a52301d7a8",
+    "handsId": "692a513562a4e1cd8127a548",
+    "locales": {
+      "en": {
+        "name": "RUAF Corporal",
+        "description": "Military Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_ruaf_corporal.bundle",
+    "handsBundlePath": "fphands/top_ruaf_corporal_base_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a513695a1fb6f795ce702",
+    "outfitId": "692a5136727a6d0d15290800",
+    "topId": "688df7e020025952eb0e0628",
+    "handsId": "692a5137256f7daf5e43c9d0",
+    "locales": {
+      "en": {
+        "name": "Black Division Operator (V4)",
+        "description": "[REDACTED]"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bd_operator_04.bundle",
+    "handsBundlePath": "fphands/top_operator_bd4_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a5138fed1e1e61f1db605",
+    "outfitId": "692a5138bb5b671c90f697fd",
+    "topId": "68948968e4bf255d1b0ca765",
+    "handsId": "692a51399cf4c47071bd9758",
+    "locales": {
+      "en": {
+        "name": "RUAF Lieutenant",
+        "description": "Military Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_ruaf_lieutenant.bundle",
+    "handsBundlePath": "fphands/top_ruaf_lieutenant_base_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a513ae05e04b82569bc7d",
+    "outfitId": "692a513a08351053fe42ea2d",
+    "topId": "688de6ea74514d35fd003554",
+    "handsId": "692a513b0c5c6a331c1ebcef",
+    "locales": {
+      "en": {
+        "name": "Black Division Operator (V2)",
+        "description": "[REDACTED]"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bd_operator_02.bundle",
+    "handsBundlePath": "fphands/top_operator_bd2_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a513bbc931b68be2e9602",
+    "outfitId": "692a513cd2a4b7ceb9f23209",
+    "topId": "68a6fadc62b09585f80dd739",
+    "handsId": "692a513dab629370a3e1258f",
+    "locales": {
+      "en": {
+        "name": "Civilian Port Sweater (Yellow)",
+        "description": "Civilian Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_sweater_yellow.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_sweater_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a513d26cf7447291407c2",
+    "outfitId": "692a513e88fb46a0d36429bc",
+    "topId": "688ddcdd0551c30a1700d75e",
+    "handsId": "692a513f26e612ad6d274c60",
+    "locales": {
+      "en": {
+        "name": "Black Division Leader",
+        "description": "[REDACTED]"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bd_team_leader_01.bundle",
+    "handsBundlePath": "fphands/top_team_leader_bd1_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "top",
+    "suiteId": "692a51407ade417d173331a2",
+    "outfitId": "692a5140e36d0529fdd03881",
+    "topId": "68a6fa93a1eb443ead010e86",
+    "handsId": "692a514183b020c028e7cfe7",
+    "locales": {
+      "en": {
+        "name": "Civilian Port Jacket (Orange)",
+        "description": "Civilian Jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_civilian_port_jacket_orange.bundle",
+    "handsBundlePath": "fphands/top_civilian_port_jacket_lod0_hands.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "68dbfab0fe547b515a0db954",
+    "outfitId": "694c153b7931538469565a92",
+    "bottomId": "68dbf9c64db394dd450455b1",
+    "locales": {
+      "en": {
+        "name": "BEAR Recon EMR",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_sumrak_emr.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 2,
+    "profileLevel": 38,
+    "side": ["Bear"],
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 1400000,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "68bc3490f0fd79e3a2069010",
+    "outfitId": "694c153da462cf637bf5e6b4",
+    "bottomId": "68bc2d67b50500fb3d079f42",
+    "locales": {
+      "en": {
+        "name": "BEAR Gladiator",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_intermediate_bear.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 4,
+    "profileLevel": 42,
+    "side": ["Bear"],
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 1500000,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "68bc34d0d5e8d55c7d0d5235",
+    "outfitId": "694c153f964beda6d60f52e9",
+    "bottomId": "68bc2d4fd5e8d55c7d0d522f",
+    "locales": {
+      "en": {
+        "name": "Champion lower",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_champion.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 1500000,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "68bc3458f90f9465d406250a",
+    "outfitId": "694c15402cd43f866a957ab1",
+    "bottomId": "68bc2d7b5997832aa10e08fa",
+    "side": [
+      "Usec"
+    ],
+    "locales": {
+      "en": {
+        "name": "USEC Gladiator",
+        "description": "Tactical pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_intermediate_usec.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 1500000,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5527d1d40bd7db9a571a"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "68dbb1acb59e2c0b7e08e4df",
+    "outfitId": "694c154308afb82443813ca8",
+    "bottomId": "68dbae96d3604076f90b18bb",
+    "side": [
+      "Usec"
+    ],
+    "locales": {
+      "en": {
+        "name": "USEC Legionnaire MC",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_raider_multicam.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 2,
+    "profileLevel": 29,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 800000,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692a5142fb9506fb2d8d30a1",
+    "outfitId": "694c1545bf54280d24c0e7de",
+    "bottomId": "68948a165d9e0b06a400694c",
+    "locales": {
+      "en": {
+        "name": "RUAF Soldier (V2)",
+        "description": "Military Pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_ruaf_solider_2.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692a51450553c5c8e171d2c9",
+    "outfitId": "692a51474259b7c4430dd823",
+    "bottomId": "688dec1429e9479b850276b9",
+    "locales": {
+      "en": {
+        "name": "Black Division Operator (V3)",
+        "description": "[REDACTED]"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bd_operator_03.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692a51475f8bc6975e82ee21",
+    "outfitId": "692a5149f8de48f5bcd99ce6",
+    "bottomId": "68a6fb3dc8a3ef285c060b79",
+    "locales": {
+      "en": {
+        "name": "Civilian Slim Pants",
+        "description": "Civilian Pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_civilian_slim.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692a514a42a5304f57af8f55",
+    "outfitId": "692a514b4f2ee2d721b0f265",
+    "bottomId": "688de71374514d35fd003556",
+    "locales": {
+      "en": {
+        "name": "Black Division Operator (V2)",
+        "description": "[REDACTED]"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bd_operator_02.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692a514e117f5730a059f3c1",
+    "outfitId": "692a514fa4658b1e0577f7b6",
+    "bottomId": "68a6fb2d226a60005506fafd",
+    "locales": {
+      "en": {
+        "name": "Civilian Jeans",
+        "description": "Civilian Pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_civilian_jeans.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692a515093765380237f77f1",
+    "outfitId": "692a5150a8121de8bae53615",
+    "bottomId": "689489c18c57a8a52301d7ac",
+    "locales": {
+      "en": {
+        "name": "RUAF Ballistic",
+        "description": "Military Pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_ruaf_ballistic.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692a5151c7dff5d0060ff5af",
+    "outfitId": "692a51523269baca3489b87d",
+    "bottomId": "688dddcd152c0d0767056496",
+    "locales": {
+      "en": {
+        "name": "Black Division Team Leader",
+        "description": "[REDACTED]"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bd_team_leader_01.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692a5152251d71685b4e846b",
+    "outfitId": "692a51536839d03c8cdbb5ad",
+    "bottomId": "68948a002c87773b9f06d73d",
+    "locales": {
+      "en": {
+        "name": "RUAF Soldier (V1)",
+        "description": "Military Pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_ruaf_solider_1.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692a5154a869f0dbd92fafee",
+    "outfitId": "692a515421408bcbcc75e3e6",
+    "bottomId": "688df7b620025952eb0e0626",
+    "locales": {
+      "en": {
+        "name": "Black Division Operator (V4)",
+        "description": "[REDACTED]"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bd_operator_04.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692a515516f2fb26dbbbb360",
+    "outfitId": "692a5156b54a4321584b07a6",
+    "bottomId": "689489dc5d9e0b06a400694a",
+    "locales": {
+      "en": {
+        "name": "RUAF Officer",
+        "description": "Military Pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_ruaf_officer.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": ["694c5cae0256a6bd999a5721"]
+  }
+]

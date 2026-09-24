@@ -1,0 +1,84 @@
+{
+  "68e7a04c481f58ac9702afb4": {
+    "locales": {
+      "en": "Civilian 2"
+    },
+    "name": "Civilian_02",
+    "addVoiceToPlayer": false,
+    "bundlePath": "assets/content/audio/phrases/civilian_02_voice.bundle"
+  },
+    "690d4eda458927196f0775f8": {
+        "locales": {
+            "en": "Nikita"
+        },
+        "name": "NikitaUsec",
+        "addVoiceToPlayer": false,
+        "side": ["Usec"],
+        "bundlePath": "assets/content/audio/phrases/usec_08_nikita_voice.bundle"
+    },
+    "68e7a05e2da4d083ce0f2146": {
+        "locales": {
+            "en": "Civilian 3"
+        },
+        "name": "Civilian_03",
+        "addVoiceToPlayer": false,
+        "bundlePath": "assets/content/audio/phrases/civilian_03_voice.bundle"
+    },
+    "68e7a0773f9907cd5508dbcc": {
+        "locales": {
+            "en": "Civilian 4"
+        },
+        "name": "Civilian_04",
+        "addVoiceToPlayer": false,
+        "bundlePath": "assets/content/audio/phrases/civilian_04_voice.bundle"
+    },
+    "690d4eef8cef6e31cb0d7b88": {
+        "locales": {
+            "en": "Nikita"
+        },
+        "name": "NikitaBear",
+        "addVoiceToPlayer": false,
+        "side": ["Bear"],
+        "bundlePath": "assets/content/audio/phrases/bear_05_nikita_voice.bundle"
+    },
+    "68e7a025dcdb0a85f4046d69": {
+        "locales": {
+            "en": "Civilian 1"
+        },
+        "name": "Civilian_01",
+        "addVoiceToPlayer": false,
+        "bundlePath": "assets/content/audio/phrases/civilian_01_voice.bundle"
+    },
+    "68a322c44dc8ea81b6035293": {
+        "locales": {
+            "en": "VSRF 2"
+        },
+        "name": "VSRF_02",
+        "addVoiceToPlayer": false,
+        "bundlePath": "assets/content/audio/phrases/vsrf_02_voice.bundle"
+    },
+    "6899fff4c17f776ecb07fafd": {
+        "locales": {
+            "en": "BD 2"
+        },
+        "name": "Black_Division_2",
+        "addVoiceToPlayer": false,
+        "bundlePath": "assets/content/audio/phrases/black_division_2_voice.bundle"
+    },
+    "6899fcdea469e729c40cbbde": {
+        "locales": {
+            "en": "BD 1"
+        },
+        "name": "Black_Division_1",
+        "addVoiceToPlayer": false,
+        "bundlePath": "assets/content/audio/phrases/black_division_1_voice.bundle"
+    },
+    "68a322944dc8ea81b603528f": {
+        "locales": {
+            "en": "VSRF 1"
+        },
+        "name": "VSRF_01",
+        "addVoiceToPlayer": false,
+        "bundlePath": "assets/content/audio/phrases/vsrf_01_voice.bundle"
+    }
+}
