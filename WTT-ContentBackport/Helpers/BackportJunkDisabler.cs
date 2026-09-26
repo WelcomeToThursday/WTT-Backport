@@ -7,11 +7,9 @@
 
 
     [Injectable]
-    public class BackportJunkDisabler(ConfigServer configServer)
+    public class BackportJunkDisabler(PmcConfig pmcConfig, ItemConfig itemConfig)
     {
-        private PmcConfig pmcConfig = configServer.GetConfig<PmcConfig>();
-        private ItemConfig itemConfig = configServer.GetConfig<ItemConfig>();
-    public static readonly List<MongoId> _bearDogtags = new()
+        public static readonly List<MongoId> _bearDogtags = new()
         {
             "68df9908972cf1e1ec07256a",
             "68df9927a38a5e37d80df6c9",

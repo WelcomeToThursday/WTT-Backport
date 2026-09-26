@@ -1,55 +1,40 @@
-﻿using HarmonyLib.Tools;
-using Microsoft.AspNetCore.Razor.TagHelpers;
+﻿using System.Reflection;
+using SPTarkov.Common.Models.Logging;
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
-using SPTarkov.Server.Core.Helpers;
-using SPTarkov.Server.Core.Models.Spt.Config;
 using SPTarkov.Server.Core.Models.Spt.Mod;
-using SPTarkov.Server.Core.Models.Utils;
-using SPTarkov.Server.Core.Servers;
-using SPTarkov.Server.Core.Services;
-using SPTarkov.Server.Core.Services.Image;
-using SPTarkov.Server.Core.Utils;
-using System.Collections.Generic;
-using System.Reflection;
-using System.Threading.Tasks;
 using WTTContentBackport.Helpers;
-using WTTContentBackport.Patches;
-using WTTServerCommonLib.Models;
 using Range = SemanticVersioning.Range;
 
 namespace WTTContentBackport;
 
-public record ModMetadata : AbstractModMetadata
+public record ModMetadata : IModMetadata
 {
-    public override string ModGuid { get; init; } = "com.wtt.contentbackport";
-    public override string Name { get; init; } = "WTT-ContentBackport";
-    public override string Author { get; init; } = "GrooveypenguinX";
-    public override List<string>? Contributors { get; init; } = null;
-    public override SemanticVersioning.Version Version { get; init; } = new(typeof(ModMetadata).Assembly.GetName().Version?.ToString(3));
-    public override Range SptVersion { get; init; } = new("~4.0.13");
-    public override List<string>? Incompatibilities { get; init; }
-    public override Dictionary<string, Range>? ModDependencies { get; init; } = new()
-    {
-        { "com.wtt.commonlib", new Range("^2.0.22") }
-    };
-    public override string? Url { get; init; }
-    public override bool? IsBundleMod { get; init; } = true;
-    public override string License { get; init; } = "MIT";
+    public string ModGuid { get; init; } = "com.wtt.contentbackport";
+    public string Name { get; init; } = "WTT-ContentBackport";
+    public string Author { get; init; } = "GrooveypenguinX";
+    public List<string>? Contributors { get; init; } = null;
+    public SemanticVersioning.Version Version { get; init; } =
+        new(typeof(ModMetadata).Assembly.GetName().Version?.ToString(3));
+    public Range SptVersion { get; init; } = new("~4.1.1");
+    public List<string>? Incompatibilities { get; init; }
+    public Dictionary<string, Range>? ModDependencies { get; init; } =
+        new() { { "com.wtt.commonlib", new Range("~3.0.2") } };
+    public string? Url { get; init; }
+    public string License { get; init; } = "MIT";
+
+    public bool HasPrepatcher { get; init; } = false;
 }
 
-[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
+[Injectable(TypePriority = OnLoadOrder.Preload + 2)]
 public class WTTContentBackport(
     WTTServerCommonLib.WTTServerCommonLib wttCommon,
     BackportQuestHelper backportQuestHelper,
     BackportJunkDisabler backportJunkDisabler,
-    ItemHelper itemHelper,
-    RandomUtil randomUtil,
-    ServerLocalisationService localisationService,
-    ConfigServer configServer,
-    ISptLogger<WTTContentBackport> logger) : IOnLoad
+    ISptLogger<WTTContentBackport> logger
+) : IOnLoad
 {
-    public async Task OnLoad()
+    public async Task OnLoadAsync(CancellationToken cancellationToken)
     {
         Assembly assembly = Assembly.GetExecutingAssembly();
         wttCommon.CustomRigLayoutService.CreateRigLayouts(assembly);
@@ -63,14 +48,6 @@ public class WTTContentBackport(
         await wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
         await wttCommon.CustomQuestItemService.CreateCustomQuestItems(assembly);
         await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
-        //new AddCustomisationUnlocksToProfilePatch().Enable();
-        var traderConfig = configServer.GetConfig<TraderConfig>();
-        new FixFencePresetsPatch(
-            itemHelper,
-            randomUtil,
-            localisationService,
-            logger,
-            traderConfig).Enable();
         backportQuestHelper.ModifyQuests();
         backportJunkDisabler.AddDogtagsToPmCs();
         backportJunkDisabler.AddItemsToRewardItemBlacklist();

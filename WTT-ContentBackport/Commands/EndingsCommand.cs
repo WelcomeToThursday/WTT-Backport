@@ -1,12 +1,15 @@
 ﻿using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.Helpers;
-using SPTarkov.Server.Core.Helpers.Dialog.Commando.SptCommands;
+using SPTarkov.Server.Core.Helpers.Commerce;
+using SPTarkov.Server.Core.Helpers.Dialogue.Commando.SptCommands;
+using SPTarkov.Server.Core.Helpers.Profile;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Eft.Dialog;
 using SPTarkov.Server.Core.Models.Eft.Profile;
 using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Services;
+using SPTarkov.Server.Core.Services.Commerce;
 using WTTServerCommonLib.Helpers;
 
 namespace WTTContentBackport.Commands;
@@ -82,13 +85,7 @@ public class EndingsCommand(
         return new ValueTask<string>(request.DialogId);
     }
 
-    public string Command
-    {
-        get { return "ibeatthegameiswear"; }
-    }
+    public string Command => "ibeatthegameiswear";
 
-    public string CommandHelp
-    {
-        get { return "Usage: Receive all four endings customizations (dogtags, hideout, main menu environments, armbands, etc)"; }
-    }
+    public string CommandHelp => "Usage: Receive all four endings customizations (dogtags, hideout, main menu environments, armbands, etc)";
 }

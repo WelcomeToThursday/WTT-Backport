@@ -2,7 +2,9 @@
 using SPTarkov.Server.Core.Callbacks;
 using SPTarkov.Server.Core.Controllers;
 using SPTarkov.Server.Core.Helpers;
-using SPTarkov.Server.Core.Helpers.Dialog.Commando.SptCommands;
+using SPTarkov.Server.Core.Helpers.Commerce;
+using SPTarkov.Server.Core.Helpers.Dialogue.Commando.SptCommands;
+using SPTarkov.Server.Core.Helpers.Profile;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Eft.Dialog;
@@ -11,6 +13,7 @@ using SPTarkov.Server.Core.Models.Enums;
 using SPTarkov.Server.Core.Models.Spt.Dialog;
 using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Services;
+using SPTarkov.Server.Core.Services.Commerce;
 using WTTServerCommonLib.Helpers;
 
 namespace WTTContentBackport.Commands;
@@ -21,12 +24,8 @@ public class NikitasVoiceCommand(
     RewardHelper rewardHelper,
     ProfileHelper profileHelper) : ISptCommand
 {
-
-    
     public ValueTask<string> PerformAction(UserDialogInfo commandHandler, MongoId sessionId, SendMessageRequest request)
     {
-
-        
         var profile = profileHelper.GetFullProfile(sessionId);
         rewardHelper.AddAchievementToProfile(profile, "6948990c05f4f91bdb9a56f3");
         var pmcProfile = profile.CharacterData?.PmcData;
@@ -43,16 +42,7 @@ public class NikitasVoiceCommand(
         return new ValueTask<string>(request.DialogId);
     }
 
-    public string Command
-    {
-        get { return "nikitasvoice"; }
-    }
+    public string Command => "nikitasvoice";
 
-    public string CommandHelp
-    {
-        get
-        {
-            return "Usage: Receive Nikita's Voice";
-        }
-    }
+    public string CommandHelp => "Usage: Receive Nikita's Voice";
 }

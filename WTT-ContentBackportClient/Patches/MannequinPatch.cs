@@ -21,6 +21,6 @@ public class MannequinPatch : ModulePatch
             return;
         }
 
-        __instance.InventoryEquipmentStashLoader.RuntimeAnimatorController_0 = Plugin.MannequinController;
+        __instance._inventoryEquipmentStashLoader._mannequinAnimatorController = Plugin.MannequinController;
     }
 }

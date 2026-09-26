@@ -26,7 +26,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -134,7 +133,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -165,7 +163,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -273,7 +270,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -304,7 +300,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -412,7 +407,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -443,7 +437,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -551,146 +544,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
-    "addtoTraders": false,
-    "traders": {}
-  },
-  "68c2d8a05a62f5af2d095fe7": {
-    "itemTplToClone": "64ad2d8d7e2fcecf0305533f",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "AnimationVariantsNumber": 0,
-      "BackgroundColor": "default",
-      "CanRequireOnRagfair": false,
-      "CanSellOnRagfair": false,
-      "ConflictingItems": [],
-      "Description": "champion_level4_helmet_armor_top",
-      "DiscardLimit": -1,
-      "DiscardingBlock": false,
-      "DropSoundType": "None",
-      "ExamineExperience": 0,
-      "ExamineTime": 1,
-      "ExaminedByDefault": true,
-      "ExtraSizeDown": 0,
-      "ExtraSizeForceAdd": false,
-      "ExtraSizeLeft": 0,
-      "ExtraSizeRight": 0,
-      "ExtraSizeUp": 0,
-      "Height": 1,
-      "HideEntrails": false,
-      "InsuranceDisabled": false,
-      "IsAlwaysAvailableForInsurance": false,
-      "IsLockedafterEquip": false,
-      
-      "IsSecretExitRequirement": false,
-      "IsSpecialSlotOnly": false,
-      "IsUnbuyable": false,
-      "IsUndiscardable": false,
-      "IsUngivable": false,
-      "IsUnremovable": false,
-      "IsUnsaleable": false,
-      "ItemSound": "gear_armor",
-      "LeftHandItem": false,
-      "LootExperience": 0,
-      "MergesWithChildren": false,
-      "Name": "champion_level4_helmet_armor_top",
-      "NotShownInSlot": false,
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/helmet_top.bundle",
-        "rcid": ""
-      },
-      "QuestItem": false,
-      "QuestStashMaxCount": 0,
-      "RagFairCommissionModifier": 1,
-      "RagfairLevelToTrade": 0,
-      "RarityPvE": "Not_exist",
-      "RepairCost": 241,
-      "RepairSpeed": 0,
-      "ShortName": "champion_level4_helmet_armor_top",
-      "StackMaxSize": 1,
-      "StackObjectsCount": 1,
-      "Unlootable": false,
-      "UnlootableFromSide": [],
-      "UnlootableFromSlot": "FirstPrimaryWeapon",
-      "UsePrefab": {
-        "path": "",
-        "rcid": ""
-      },
-      "Weight": 0,
-      "Width": 1,
-      "CanPutIntoDuringTheRaid": true,
-      "CantRemoveFromSlotsDuringRaid": [],
-      "ForbidMissingVitalParts": false,
-      "ForbidNonEmptyContainers": false,
-      "Grids": [],
-      "Slots": [],
-      "BlocksEarpiece": false,
-      "BlocksEyewear": false,
-      "BlocksFaceCover": false,
-      "BlocksHeadwear": false,
-      "ArmorMaterial": "UHMWPE",
-      "ArmorType": "Light",
-      "BlindnessProtection": 0,
-      "BluntThroughput": 0.5,
-      "DeafStrength": "None",
-      "Durability": 25,
-      "FaceShieldComponent": false,
-      "FaceShieldMask": "NoMask",
-      "HasHinge": false,
-      "Indestructibility": 0.9,
-      "MaterialType": "Helmet",
-      "MaxDurability": 25,
-      "MetascoreGroup": "Defence",
-      "RicochetParams": {
-        "x": 0.1,
-        "y": 0.3,
-        "z": 80
-      },
-      "armorClass": "4",
-      "armorColliders": [
-        "ParietalHead"
-      ],
-      "armorPlateColliders": [],
-      "mousePenalty": 0,
-      "speedPenaltyPercent": 0,
-      "weaponErgonomicPenalty": 0,
-      "Lower75Prefab": {
-        "path": "",
-        "rcid": ""
-      },
-      "effects_damage": [],
-      "effects_health": []
-    },
-    "locales": {
-      "en": {
-        "name": "Layer of UHMWPE",
-        "shortName": "",
-        "description": ""
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 1,
-    "handbookPriceRoubles": 27684,
-    "addtoBots": false,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
-    "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
-    "addCaliberToAllCloneLocations": false,
-    "addtoStaticAmmo": false,
-    "staticAmmoProbability": 0,
-    "addtoSecureFilters": false,
-    "masteries": false,
-    "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -721,7 +574,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -829,7 +681,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -860,7 +711,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -968,7 +818,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -999,7 +848,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1108,146 +956,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
-    "addtoTraders": false,
-    "traders": {}
-  },
-  "68c2e040f5b74996770e140c": {
-    "itemTplToClone": "64ad2d8d7e2fcecf0305533f",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "AnimationVariantsNumber": 0,
-      "BackgroundColor": "default",
-      "CanRequireOnRagfair": false,
-      "CanSellOnRagfair": true,
-      "ConflictingItems": [],
-      "Description": "champion_level3_helmet_armor_eyes",
-      "DiscardLimit": -1,
-      "DiscardingBlock": false,
-      "DropSoundType": "None",
-      "ExamineExperience": 0,
-      "ExamineTime": 1,
-      "ExaminedByDefault": true,
-      "ExtraSizeDown": 0,
-      "ExtraSizeForceAdd": false,
-      "ExtraSizeLeft": 0,
-      "ExtraSizeRight": 0,
-      "ExtraSizeUp": 0,
-      "Height": 1,
-      "HideEntrails": false,
-      "InsuranceDisabled": false,
-      "IsAlwaysAvailableForInsurance": false,
-      "IsLockedafterEquip": false,
-      
-      "IsSecretExitRequirement": false,
-      "IsSpecialSlotOnly": false,
-      "IsUnbuyable": false,
-      "IsUndiscardable": false,
-      "IsUngivable": false,
-      "IsUnremovable": false,
-      "IsUnsaleable": false,
-      "ItemSound": "gear_armor",
-      "LeftHandItem": false,
-      "LootExperience": 0,
-      "MergesWithChildren": false,
-      "Name": "champion_level3_helmet_armor_eyes",
-      "NotShownInSlot": false,
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/helmet_eyes.bundle",
-        "rcid": ""
-      },
-      "QuestItem": false,
-      "QuestStashMaxCount": 0,
-      "RagFairCommissionModifier": 1,
-      "RagfairLevelToTrade": 0,
-      "RarityPvE": "Not_exist",
-      "RepairCost": 138,
-      "RepairSpeed": 0,
-      "ShortName": "champion_level3_helmet_armor_eyes",
-      "StackMaxSize": 1,
-      "StackObjectsCount": 1,
-      "Unlootable": false,
-      "UnlootableFromSide": [],
-      "UnlootableFromSlot": "FirstPrimaryWeapon",
-      "UsePrefab": {
-        "path": "",
-        "rcid": ""
-      },
-      "Weight": 0,
-      "Width": 1,
-      "CanPutIntoDuringTheRaid": true,
-      "CantRemoveFromSlotsDuringRaid": [],
-      "ForbidMissingVitalParts": false,
-      "ForbidNonEmptyContainers": false,
-      "Grids": [],
-      "Slots": [],
-      "BlocksEarpiece": false,
-      "BlocksEyewear": false,
-      "BlocksFaceCover": false,
-      "BlocksHeadwear": false,
-      "ArmorMaterial": "UHMWPE",
-      "ArmorType": "Light",
-      "BlindnessProtection": 0,
-      "BluntThroughput": 0.9,
-      "DeafStrength": "None",
-      "Durability": 25,
-      "FaceShieldComponent": false,
-      "FaceShieldMask": "NoMask",
-      "HasHinge": false,
-      "Indestructibility": 0.9,
-      "MaterialType": "Helmet",
-      "MaxDurability": 25,
-      "MetascoreGroup": "Defence",
-      "RicochetParams": {
-        "x": 0,
-        "y": 0,
-        "z": 80
-      },
-      "armorClass": "3",
-      "armorColliders": [
-        "Eyes"
-      ],
-      "armorPlateColliders": [],
-      "mousePenalty": 0,
-      "speedPenaltyPercent": 0,
-      "weaponErgonomicPenalty": 0,
-      "Lower75Prefab": {
-        "path": "",
-        "rcid": ""
-      },
-      "effects_damage": [],
-      "effects_health": []
-    },
-    "locales": {
-      "en": {
-        "name": "Hybrid composite materials",
-        "shortName": "",
-        "description": ""
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 10555,
-    "handbookPriceRoubles": 10555,
-    "addtoBots": false,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
-    "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
-    "addCaliberToAllCloneLocations": false,
-    "addtoStaticAmmo": false,
-    "staticAmmoProbability": 0,
-    "addtoSecureFilters": false,
-    "masteries": false,
-    "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1278,7 +986,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1387,7 +1094,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1418,7 +1124,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1526,7 +1231,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1557,7 +1261,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1666,7 +1369,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1697,7 +1399,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1805,7 +1506,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -1836,7 +1536,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1945,146 +1644,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
-    "addtoTraders": false,
-    "traders": {}
-  },
-  "68c2de2248616dad9e081d00": {
-    "itemTplToClone": "64ad2d8d7e2fcecf0305533f",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "AnimationVariantsNumber": 0,
-      "BackgroundColor": "default",
-      "CanRequireOnRagfair": false,
-      "CanSellOnRagfair": true,
-      "ConflictingItems": [],
-      "Description": "champion_level4_helmet_armor_nape",
-      "DiscardLimit": -1,
-      "DiscardingBlock": false,
-      "DropSoundType": "None",
-      "ExamineExperience": 0,
-      "ExamineTime": 1,
-      "ExaminedByDefault": true,
-      "ExtraSizeDown": 0,
-      "ExtraSizeForceAdd": false,
-      "ExtraSizeLeft": 0,
-      "ExtraSizeRight": 0,
-      "ExtraSizeUp": 0,
-      "Height": 1,
-      "HideEntrails": false,
-      "InsuranceDisabled": false,
-      "IsAlwaysAvailableForInsurance": false,
-      "IsLockedafterEquip": false,
-      
-      "IsSecretExitRequirement": false,
-      "IsSpecialSlotOnly": false,
-      "IsUnbuyable": false,
-      "IsUndiscardable": false,
-      "IsUngivable": false,
-      "IsUnremovable": false,
-      "IsUnsaleable": false,
-      "ItemSound": "gear_armor",
-      "LeftHandItem": false,
-      "LootExperience": 0,
-      "MergesWithChildren": false,
-      "Name": "champion_level4_helmet_armor_nape",
-      "NotShownInSlot": false,
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/helmet_back.bundle",
-        "rcid": ""
-      },
-      "QuestItem": false,
-      "QuestStashMaxCount": 0,
-      "RagFairCommissionModifier": 1,
-      "RagfairLevelToTrade": 0,
-      "RarityPvE": "Not_exist",
-      "RepairCost": 241,
-      "RepairSpeed": 0,
-      "ShortName": "champion_level4_helmet_armor_nape",
-      "StackMaxSize": 1,
-      "StackObjectsCount": 1,
-      "Unlootable": false,
-      "UnlootableFromSide": [],
-      "UnlootableFromSlot": "FirstPrimaryWeapon",
-      "UsePrefab": {
-        "path": "",
-        "rcid": ""
-      },
-      "Weight": 0,
-      "Width": 1,
-      "CanPutIntoDuringTheRaid": true,
-      "CantRemoveFromSlotsDuringRaid": [],
-      "ForbidMissingVitalParts": false,
-      "ForbidNonEmptyContainers": false,
-      "Grids": [],
-      "Slots": [],
-      "BlocksEarpiece": false,
-      "BlocksEyewear": false,
-      "BlocksFaceCover": false,
-      "BlocksHeadwear": false,
-      "ArmorMaterial": "UHMWPE",
-      "ArmorType": "Light",
-      "BlindnessProtection": 0,
-      "BluntThroughput": 0.5,
-      "DeafStrength": "None",
-      "Durability": 25,
-      "FaceShieldComponent": false,
-      "FaceShieldMask": "NoMask",
-      "HasHinge": false,
-      "Indestructibility": 0.9,
-      "MaterialType": "Helmet",
-      "MaxDurability": 25,
-      "MetascoreGroup": "Defence",
-      "RicochetParams": {
-        "x": 0.1,
-        "y": 0.3,
-        "z": 80
-      },
-      "armorClass": "4",
-      "armorColliders": [
-        "BackHead"
-      ],
-      "armorPlateColliders": [],
-      "mousePenalty": 0,
-      "speedPenaltyPercent": 0,
-      "weaponErgonomicPenalty": 0,
-      "Lower75Prefab": {
-        "path": "",
-        "rcid": ""
-      },
-      "effects_damage": [],
-      "effects_health": []
-    },
-    "locales": {
-      "en": {
-        "name": "Layer of UHMWPE",
-        "shortName": "",
-        "description": ""
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 27686,
-    "handbookPriceRoubles": 27686,
-    "addtoBots": false,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
-    "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
-    "addCaliberToAllCloneLocations": false,
-    "addtoStaticAmmo": false,
-    "staticAmmoProbability": 0,
-    "addtoSecureFilters": false,
-    "masteries": false,
-    "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2115,7 +1674,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -2223,7 +1781,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2254,7 +1811,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -2362,7 +1918,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2393,7 +1948,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -2501,7 +2055,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2532,7 +2085,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -2641,147 +2193,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
-    "addtoTraders": false,
-    "traders": {}
-  },
-  "68c2e074f9ad4682dd0d5c1d": {
-    "itemTplToClone": "64ad2d8d7e2fcecf0305533f",
-    "parentId": "65649eb40bf0ed77b8044453",
-    "handbookParentId": "6564b96a189fe36f356d177c",
-    "overrideProperties": {
-      "AnimationVariantsNumber": 0,
-      "BackgroundColor": "default",
-      "CanRequireOnRagfair": false,
-      "CanSellOnRagfair": true,
-      "ConflictingItems": [],
-      "Description": "champion_level3_helmet_armor_jaw",
-      "DiscardLimit": -1,
-      "DiscardingBlock": false,
-      "DropSoundType": "None",
-      "ExamineExperience": 0,
-      "ExamineTime": 1,
-      "ExaminedByDefault": true,
-      "ExtraSizeDown": 0,
-      "ExtraSizeForceAdd": false,
-      "ExtraSizeLeft": 0,
-      "ExtraSizeRight": 0,
-      "ExtraSizeUp": 0,
-      "Height": 1,
-      "HideEntrails": false,
-      "InsuranceDisabled": false,
-      "IsAlwaysAvailableForInsurance": false,
-      "IsLockedafterEquip": false,
-      
-      "IsSecretExitRequirement": false,
-      "IsSpecialSlotOnly": false,
-      "IsUnbuyable": false,
-      "IsUndiscardable": false,
-      "IsUngivable": false,
-      "IsUnremovable": false,
-      "IsUnsaleable": false,
-      "ItemSound": "gear_armor",
-      "LeftHandItem": false,
-      "LootExperience": 0,
-      "MergesWithChildren": false,
-      "Name": "champion_level3_helmet_armor_jaw",
-      "NotShownInSlot": false,
-      "Prefab": {
-        "path": "assets/content/items/equipment/armor_plates/helmet_jaw.bundle",
-        "rcid": ""
-      },
-      "QuestItem": false,
-      "QuestStashMaxCount": 0,
-      "RagFairCommissionModifier": 1,
-      "RagfairLevelToTrade": 0,
-      "RarityPvE": "Not_exist",
-      "RepairCost": 138,
-      "RepairSpeed": 0,
-      "ShortName": "champion_level3_helmet_armor_jaw",
-      "StackMaxSize": 1,
-      "StackObjectsCount": 1,
-      "Unlootable": false,
-      "UnlootableFromSide": [],
-      "UnlootableFromSlot": "FirstPrimaryWeapon",
-      "UsePrefab": {
-        "path": "",
-        "rcid": ""
-      },
-      "Weight": 0,
-      "Width": 1,
-      "CanPutIntoDuringTheRaid": true,
-      "CantRemoveFromSlotsDuringRaid": [],
-      "ForbidMissingVitalParts": false,
-      "ForbidNonEmptyContainers": false,
-      "Grids": [],
-      "Slots": [],
-      "BlocksEarpiece": false,
-      "BlocksEyewear": false,
-      "BlocksFaceCover": false,
-      "BlocksHeadwear": false,
-      "ArmorMaterial": "UHMWPE",
-      "ArmorType": "Light",
-      "BlindnessProtection": 0,
-      "BluntThroughput": 0.9,
-      "DeafStrength": "None",
-      "Durability": 25,
-      "FaceShieldComponent": false,
-      "FaceShieldMask": "NoMask",
-      "HasHinge": false,
-      "Indestructibility": 0.9,
-      "MaterialType": "Helmet",
-      "MaxDurability": 25,
-      "MetascoreGroup": "Defence",
-      "RicochetParams": {
-        "x": 0.1,
-        "y": 0.3,
-        "z": 80
-      },
-      "armorClass": "3",
-      "armorColliders": [
-        "Jaw",
-        "HeadCommon"
-      ],
-      "armorPlateColliders": [],
-      "mousePenalty": 0,
-      "speedPenaltyPercent": 0,
-      "weaponErgonomicPenalty": 0,
-      "Lower75Prefab": {
-        "path": "",
-        "rcid": ""
-      },
-      "effects_damage": [],
-      "effects_health": []
-    },
-    "locales": {
-      "en": {
-        "name": "Hybrid composite materials",
-        "shortName": "",
-        "description": ""
-      }
-    },
-    "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 10555,
-    "handbookPriceRoubles": 10555,
-    "addtoBots": false,
-    "addtoStaticLootContainers": false,
-    "staticLootContainers": [],
-    "addtoHallOfFame": false,
-    "hallOfFameSlots": [],
-    "addtoSpecialSlots": false,
-    "addtoHideoutPosterSlots": false,
-    "addPosterToMaps": false,
-    "posterSpawnProbability": 0,
-    "addtoStatuetteSlots": false,
-    "addCaliberToAllCloneLocations": false,
-    "addtoStaticAmmo": false,
-    "staticAmmoProbability": 0,
-    "addtoSecureFilters": false,
-    "masteries": false,
-    "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2812,7 +2223,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -2921,7 +2331,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -2952,7 +2361,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -3060,7 +2468,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -3091,7 +2498,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -3199,7 +2605,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -3230,7 +2635,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -3338,7 +2742,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   },
@@ -3369,7 +2772,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -3477,7 +2879,6 @@
     "addtoSecureFilters": false,
     "masteries": false,
     "masterySections": [],
-
     "addtoTraders": false,
     "traders": {}
   }

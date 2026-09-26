@@ -4,6 +4,7 @@
       "en": "Tony"
     },
     "name": "Tony",
+    "side": [ "Usec" ],
     "addVoiceToPlayer": false,
     "bundlePath": "assets/content/audio/phrases/usec_09_tony_voice.bundle"
   },
@@ -12,6 +13,7 @@
       "en": "Anton"
     },
     "name": "Anton",
+    "side": [ "Bear" ],
     "addVoiceToPlayer": false,
     "bundlePath": "assets/content/audio/phrases/bear_06_anton_voice.bundle"
   },
@@ -20,6 +22,7 @@
       "en": "Garrett"
     },
     "name": "Garrett",
+    "side": [ "Usec" ],
     "addVoiceToPlayer": false,
     "bundlePath": "assets/content/audio/phrases/usec_10_garrett_voice.bundle"
   }

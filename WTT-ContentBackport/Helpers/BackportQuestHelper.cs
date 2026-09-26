@@ -1,6 +1,8 @@
-﻿using SPTarkov.DI.Annotations;
+﻿using SPTarkov.Common.Models.Logging;
+using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
+using SPTarkov.Server.Core.Models.Spt.Tables;
 using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Services;
 using WTTServerCommonLib.Helpers;
@@ -8,7 +10,7 @@ using WTTServerCommonLib.Helpers;
 namespace WTTContentBackport.Helpers
 {
     [Injectable]
-    public class BackportQuestHelper(DatabaseService  databaseService, ISptLogger<BackportQuestHelper> logger, QuestHelper questHelper)
+    public class BackportQuestHelper(ISptLogger<BackportQuestHelper> logger, QuestHelper questHelper, TemplateTable templates)
     {
 
         // Define weapon IDs
@@ -24,9 +26,8 @@ namespace WTTContentBackport.Helpers
 
         // Assault Carbine
         private const string ASVAL_MOD4 = "6871284e9a353bb50606f3ed";
-        
+
         // Assault Rifle
-        private const string RADIAN_MODEL1 = "6895bb82c4519957df062f82";
         private const string M16A1 = "68a639748e1fe612970728e9";
         private const string NL545 = "68c2940aecc41cc5490bd40e";
         private const string NL545_DI = "68c16b9ab6b75a8a480520a6";
@@ -52,15 +53,12 @@ namespace WTTContentBackport.Helpers
         private const string armor_6B45_armoredrig = "68948ad72c87773b9f06d73f";
         private const string armor_6B45_armoredrigAssault = "68948b118c57a8a52301d7ae";
         private const string armor_6B45_armoredrigMedic = "68948aebd8f2b85fb705e2b0";
-        private const string armor_OTV_woodland = "68a89942431252e29a02dbf6";
-        private const string armor_THOR_CRL = "68a89146212dbbeead0d5636";
+
         private const string armor_FCPC_BD = "689479cb47e5acd1e10be986";
         private const string armor_Siege_R_BD = "68947a4be4bf255d1b0ca746";
         private const string armor_LV119_BD = "689479eb30cc5ba7be00f5ff";
         private const string armor_LV119_BD1 = "689479a4a733b1602007e2eb";
-        private const string armor_SPPCV2 = "68a99207aa809946e507c2f6";
-        private const string armor_KlASS_Kamysh = "68a97093431252e29a02dc06";
-        private const string armor_Strandhogg_ABUPAT = "68a85ab8ef22d08bf401fa68";
+
         private const string armor_ana_m2 = "69412e5573dcf473e50be464";
         private const string armor_tak_kek_jaypc_od = "693fd13aa490096a05028cc8";
         private const string armor_tak_kek_jaypc_b = "693fd1200ec97e98040bd3f9";
@@ -78,25 +76,12 @@ namespace WTTContentBackport.Helpers
         private const string armor_fort_redut_m_prisoner = "69cf9696b96c8e8d3e002925";
         private const string armor_spritus_lv119_multicam_black_wedge = "69e2441a18cb3157560855ec";
 
-
-
         // Helmets
-        private const string helmet_Vulkan5_FLAME = "68a98762609a5cb2120ebd26";
-        private const string helmet_Vulkan5_CAMO = "68a987a1609a5cb2120ebd2f";
-        private const string helmet_Champion = "68bee28f79c8186398098e6f";
-        private const string helmet_neosteel_aces = "68a9beecbba00932ed0bc256";
-        private const string helmet_ulach_sand = "68bee2ccd6da72c13f03db95";
-        private const string helmet_galvion_mutualist = "68a9b5a5863d2a71fa0494a6";
-        private const string helmet_Caiman_MultiCam = "68a9b3ca0a9c4f9398032c46";
-        private const string helmet_Ronin_Respirator_green = "68a9a92b838d65bcb3050176";
-        private const string helmet_Ronin_Respirator_beast = "68a9a85c3e1ee5a70504c12e";
-        private const string helmet_NeoSteel_Orange = "68a9be93f260f4e1c2038686";
+
         private const string helmet_hardhat_white = "68a6d96fddf0111c2f04c9c9";
-        private const string helmet_ULACH_greenstripes = "68bee2d9af253218c00ebbb4";
+
         private const string helmet_hardhat_orange = "68a6d95addf0111c2f04c9c3";
-        private const string helmet_ULACH_meshspray = "68bee2e0ede5c8489f08e1b5";
-        private const string helmet_LShZ5_Eightball = "68a986ca5c0073fa2d0d8cb8";
-        private const string helmet_ULACH_coyotestripe = "68bee2e876e02b9e340ef113";
+
         private const string helmet_galvion_caiman_multicam_alpine = "693be003582cc8870b090b41";
         private const string helmet_ulach_wintermesh = "693be8f650fafa102607aed4";
         private const string helmet_crye_precision_airframe_od_green = "69cbfe34c293038df7002963";
@@ -112,21 +97,10 @@ namespace WTTContentBackport.Helpers
         private const string helmet_highcom_striker_achhc_coyote = "69c26fa8add25b3623091e89";
         private const string helmet_crye_precision_airframe_tan = "69cbfe44897389c1870b2337";
 
-
         // Facecovers (armored)
 
-        private const string facecover_Atomic_ping = "688b3bfa1ed594eccd0c45ee";
-        private const string facecover_deathshadow_gold = "68a9b821cdf661cc5a0626c6";
-        private const string facecover_Samurai_menpo = "68bee22e79c8186398098e6d";
-        private const string facecover_Samurai_menpo_gold = "68bee238a48c3c320808abc4";
-        private const string facecover_Atomic_toxic = "68a9a0b01696fb8c1e0ee9cc";
-        private const string facecover_Samurai_menpo_white = "68bee246ede5c8489f08e1b3";
-        private const string facecover_deathshadow_gray = "68a9b852cdf661cc5a0626c9";
-        private const string facecover_Atomic_crashtested = "68a9a1223e1ee5a70504c126";
-        private const string facecover_deathshadow_white = "68a9b873a4b28d56c80a1818";
         private const string facecover_Atomic_LouiPeeton4 = "68d54d0525ac8590a8075ac3";
-        private const string facecover_Atomic_LouiPeeton3 = "68a9a04373d52d47830759c7";
-        private const string facecover_Atomic_demonic = "68a9a15d73d52d47830759c9";
+
         private const string facecover_Atomic_blastedice = "6936ff8734029a096c06f95a";
         
         // Gas masks
@@ -135,7 +109,7 @@ namespace WTTContentBackport.Helpers
         
         public void ModifyQuests()
         {
-            var quests = databaseService.GetTemplates().Quests;
+            var quests = templates.Quests;
 
             // ReSharper disable CommentTypo
             // ====================== PRAPOR QUESTS ======================
@@ -162,7 +136,7 @@ namespace WTTContentBackport.Helpers
 
             // District Patrol (64e7b9bffd30422ed03dad38)
             questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
-                ASVAL_MOD4, RADIAN_MODEL1, M16A1, NL545, NL545_DI, AK308, M16A2, HK416A5, HOWATYPE20, QBZ191
+                ASVAL_MOD4, M16A1, NL545, NL545_DI, AK308, M16A2, HK416A5, HOWATYPE20, QBZ191
             ]);
 
             // ====================== SKIER QUESTS ======================
@@ -207,14 +181,14 @@ namespace WTTContentBackport.Helpers
 
             // Worst Job (63a9b229813bba58a50c9ee5)
             questHelper.AddWeaponsToKillCondition(quests, "63a9b229813bba58a50c9ee5", [
-                M16A2, M16A1, RADIAN_MODEL1
+                M16A2, M16A1
             ]);
 
             // ====================== JAEGER QUESTS ======================
 
             var allArmors = new[]
             {
-                armor_ana_m2, armor_tak_kek_jaypc_b, armor_tak_kek_jaypc_od, armor_crye_jpc, armor_6B45, armor_6B45_armoredrig, armor_6B45_armoredrigAssault, armor_6B45_armoredrigMedic, armor_OTV_woodland, armor_THOR_CRL, armor_FCPC_BD, armor_Siege_R_BD, armor_LV119_BD, armor_LV119_BD1, armor_SPPCV2, armor_KlASS_Kamysh, armor_Strandhogg_ABUPAT,     armor_gladiator_lightweight_multicam,
+                armor_ana_m2, armor_tak_kek_jaypc_b, armor_tak_kek_jaypc_od, armor_crye_jpc, armor_6B45, armor_6B45_armoredrig, armor_6B45_armoredrigAssault, armor_6B45_armoredrigMedic, armor_FCPC_BD, armor_Siege_R_BD, armor_LV119_BD, armor_LV119_BD1, armor_gladiator_lightweight_multicam,
     armor_gladiator_deathisinevitable,
     armor_strandhogg_multicam_black,
     armor_gladiator_lightweight_multicam_2,
@@ -230,7 +204,7 @@ namespace WTTContentBackport.Helpers
 
             var allHelmets = new[]
             {
-                helmet_galvion_caiman_multicam_alpine, helmet_ulach_wintermesh, helmet_Vulkan5_FLAME, helmet_Vulkan5_CAMO, helmet_Champion, helmet_neosteel_aces, helmet_ulach_sand, helmet_galvion_mutualist, helmet_Caiman_MultiCam, helmet_Ronin_Respirator_beast, helmet_Ronin_Respirator_green, helmet_NeoSteel_Orange, helmet_hardhat_white, helmet_ULACH_greenstripes, helmet_hardhat_orange, helmet_ULACH_meshspray, helmet_LShZ5_Eightball, helmet_ULACH_coyotestripe,     helmet_crye_precision_airframe_od_green,
+                helmet_galvion_caiman_multicam_alpine, helmet_ulach_wintermesh, helmet_hardhat_white, helmet_hardhat_orange,     helmet_crye_precision_airframe_od_green,
     helmet_atlant_armour_titan_aramid_multicam,
     helmet_atlant_armour_titan_aramid_od_green,
     helmet_wendy_exfil_multicam,
@@ -246,7 +220,7 @@ namespace WTTContentBackport.Helpers
 
             var allArmoredFaceCovers = new[]
             {
-                facecover_Atomic_blastedice, facecover_Atomic_crashtested, facecover_Atomic_demonic, facecover_Atomic_LouiPeeton3, facecover_Atomic_LouiPeeton4, facecover_Atomic_ping, facecover_Atomic_toxic, facecover_deathshadow_gold, facecover_deathshadow_gray, facecover_deathshadow_white, facecover_Samurai_menpo, facecover_Samurai_menpo_gold, facecover_Samurai_menpo_white
+                facecover_Atomic_blastedice, facecover_Atomic_LouiPeeton4,
             };
 
             var allKnives = new[] {
@@ -302,7 +276,6 @@ namespace WTTContentBackport.Helpers
 
             // Gloves Off (67040c5b4ac6d9c18c0ade26)
             questHelper.AddWeaponsToKillCondition(quests, "67040c5b4ac6d9c18c0ade26", [saiga_12g_redline]);
-
 
             // ====================== THERAPIST QUESTS ======================
 

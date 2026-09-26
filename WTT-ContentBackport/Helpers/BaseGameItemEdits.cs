@@ -1,19 +1,21 @@
 ﻿using HarmonyLib;
+using SPTarkov.Common.Models.Logging;
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Enums;
+using SPTarkov.Server.Core.Models.Spt.Tables;
 using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Services;
 using WTTServerCommonLib.Helpers;
 
 namespace WTTContentBackport.Helpers;
 
-[Injectable(typePriority: OnLoadOrder.PostDBModLoader + 3)]
+[Injectable(typePriority: OnLoadOrder.Preload + 3)]
 public class BaseGameItemEdits(
     ISptLogger<BaseGameItemEdits> logger,
-    DatabaseService databaseService,
+    TemplateTable templates,
     SlotHelper slotHelper
 ) : IOnLoad
 {
@@ -829,7 +831,6 @@ public class BaseGameItemEdits(
                   "543be6674bdc2df1348b4569",
                   "6a3563dacdaebb512e0a009c"
 };
-
     private static readonly string[] CultistCircleExcludedIds = {
                   "675aaae75a3ab8372d0b02a7",
                   "675aaaf674a7619a5304c233",
@@ -865,7 +866,7 @@ public class BaseGameItemEdits(
                   "6a31828557705071410ca00e",
                   "6a3182b72fd891345e047eef"
     };
-    public Task OnLoad()
+    public Task OnLoadAsync(CancellationToken cancellationToken)
     {
         EditFilters();
         return Task.CompletedTask;
@@ -873,7 +874,7 @@ public class BaseGameItemEdits(
 
     private void EditFilters()
     {
-        var dbItems = databaseService.GetItems();
+        var dbItems = templates.Items;
         foreach (var (id, item) in dbItems)
         {
             switch (id)
@@ -1082,15 +1083,16 @@ public class BaseGameItemEdits(
                         "689c8a2b4b91399db3085f27");
                     slotHelper.EnsureSlot(item, "mod_tactical", "55d30c4c4bdc2db4468b457e");
                     slotHelper.AddIdsToNamedSlot(item, "mod_tactical",
-                        "57fd23e32459772d0805bcf1",
-                        "544909bb4bdc2d6f028b4577",
-                        "5d10b49bd7ad1a1a560708b0",
-                        "5c06595c0db834001a66af6c",
-                        "5a7b483fe899ef0016170d15",
-                        "61605d88ffa6e502ac5e7eeb",
-                        "5c5952732e2216398b5abda2",
-                        "644a3df63b0b6f03e101e065",
-                        "68bedc0365e7dcf94f0cb0fc");
+                      "57fd23e32459772d0805bcf1",
+                      "544909bb4bdc2d6f028b4577",
+                      "5d10b49bd7ad1a1a560708b0",
+                      "5c06595c0db834001a66af6c",
+                      "5a7b483fe899ef0016170d15",
+                      "61605d88ffa6e502ac5e7eeb",
+                      "5c5952732e2216398b5abda2",
+                      "644a3df63b0b6f03e101e065",
+                      "68bedc0365e7dcf94f0cb0fc",
+                      "6a186ccfbe0d66d438005e4e");
                     break;
                 case "652910565ae2ae97b80fdf35":
                     slotHelper.AddIdsToNamedSlot(item, "mod_muzzle",

@@ -1,17 +1,19 @@
 ﻿using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.Helpers;
-using SPTarkov.Server.Core.Helpers.Dialog.Commando.SptCommands;
+using SPTarkov.Server.Core.Helpers.Commerce;
+using SPTarkov.Server.Core.Helpers.Dialogue.Commando.SptCommands;
+using SPTarkov.Server.Core.Helpers.Profile;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Dialog;
 using SPTarkov.Server.Core.Models.Eft.Profile;
 using SPTarkov.Server.Core.Servers;
 using SPTarkov.Server.Core.Services;
+using SPTarkov.Server.Core.Services.Commerce;
 
 namespace WTTContentBackport.Commands;
 
 [Injectable]
 public class BackstabberCommand(
-    DatabaseServer databaseServer,
     MailSendService mailSendService,
     RewardHelper rewardHelper,
     ProfileHelper profileHelper) : ISptCommand
@@ -25,16 +27,7 @@ public class BackstabberCommand(
         return new ValueTask<string>(request.DialogId);
     }
 
-    public string Command
-    {
-        get { return "backstabber"; }
-    }
+    public string Command => "backstabber";
 
-    public string CommandHelp
-    {
-        get
-        {
-            return "Usage: Unlocks access to all post 1.0 Arena/Battlepass clothing";
-        }
-    }
+    public string CommandHelp => "Usage: Unlocks access to all post 1.0 Arena/Battlepass clothing";
 }
