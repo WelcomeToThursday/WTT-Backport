@@ -1,0 +1,364 @@
+[
+  {
+    "type": "top",
+    "suiteId": "6a720a11acdd524b380351c0",
+    "outfitId": "6a720a11acdd524b380351c0",
+    "topId": "6a720960acdd524b380351bc",
+    "handsId": "6a72099ea326354ca90b1ec9",
+    "locales": {
+      "en": {
+        "name": "BEAR QILO Leto",
+        "description": "Shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_hawaii_qilo_bear.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_hawaii_qilo/hands_arena_hawaii_qilo_bear.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a72037049a67ff80b08d07a",
+    "outfitId": "6a72037049a67ff80b08d07a",
+    "topId": "6a720080ab6fee1bb40eb5b2",
+    "handsId": "6a72020cd56dd408e401b6bd",
+    "locales": {
+      "en": {
+        "name": "BEAR Longsleeve Flecktarn",
+        "description": "Longsleeve shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_1_bear.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_longsleeve_tier_1/hands_arena_longsleeve_tier_1_bear.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a7203998ee2f36ca80da949",
+    "outfitId": "6a7203998ee2f36ca80da949",
+    "topId": "6a7200ada326354ca90b1eb2",
+    "handsId": "6a72024c49a67ff80b08d073",
+    "locales": {
+      "en": {
+        "name": "BEAR Longsleeve Border EMR",
+        "description": "Longsleeve shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_2_bear.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_longsleeve_tier_2/hands_arena_longsleeve_tier_2_bear.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a7203a8f9253689810922ba",
+    "outfitId": "6a7203a8f9253689810922ba",
+    "topId": "6a7200dc733b0b607b0dde6e",
+    "handsId": "6a720271b13bd9284a03e06e",
+    "locales": {
+      "en": {
+        "name": "BEAR Longsleeve Flora",
+        "description": "Longsleeve shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_3_bear.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_longsleeve_tier_3/hands_arena_longsleeve_tier_3_bear.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a71dae9b5fc03f68109f96e",
+    "outfitId": "6a71dae9b5fc03f68109f96e",
+    "topId": "6a71da13c687dc762e03d886",
+    "handsId": "6a71da57f92536898109228f",
+    "locales": {
+      "en": {
+        "name": "BEAR Marathon",
+        "description": "Olympic jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_bear_marathon.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_bear_marathon/hands_arena_bear_marathon.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a71e5b1b5fc03f68109f97e",
+    "outfitId": "6a71e5b1b5fc03f68109f97e",
+    "topId": "6a71de33e76602c58b0038c5",
+    "handsId": "6a71e5708ee2f36ca80da921",
+    "locales": {
+      "en": {
+        "name": "Champion Scourge",
+        "description": "Protective jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_champion_toxic.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_champion_toxic/hands_arena_champion_toxic.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a7208dbd56dd408e401b6c8",
+    "outfitId": "6a7208dbd56dd408e401b6c8",
+    "topId": "6a720793b13bd9284a03e077",
+    "handsId": "6a72082049a67ff80b08d085",
+    "locales": {
+      "en": {
+        "name": "QILO Topographic Blue",
+        "description": "Shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_hawaii_nofract_blue.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_hawaii_nofract/hands_arena_hawaii_nofract_blue.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a720900b5fc03f68109f9b9",
+    "outfitId": "6a720900b5fc03f68109f9b9",
+    "topId": "6a7207abacdd524b380351b6",
+    "handsId": "6a7207dfb5fc03f68109f9b5",
+    "locales": {
+      "en": {
+        "name": "QILO Topographic Green",
+        "description": "Shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_hawaii_nofract_green.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_hawaii_nofract/hands_arena_hawaii_nofract_green.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a71dca2c687dc762e03d893",
+    "outfitId": "6a71dca2c687dc762e03d893",
+    "topId": "6a71db1facdd524b3803518b",
+    "handsId": "6a71db95a326354ca90b1e9c",
+    "locales": {
+      "en": {
+        "name": "USEC Deadlift",
+        "description": "Olympic jacket"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_usec_deadlift.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_usec_deadlift/hands_arena_usec_deadlift.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a720a49b5fc03f68109f9bf",
+    "outfitId": "6a720a49b5fc03f68109f9bf",
+    "topId": "6a720977e76602c58b0038ec",
+    "handsId": "6a7209bfab6fee1bb40eb5c5",
+    "locales": {
+      "en": {
+        "name": "USEC QILO Blue Choco Chip",
+        "description": "Shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_hawaii_qilo_usec.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_hawaii_qilo/hands_arena_hawaii_qilo_usec.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a7203d1c687dc762e03d8ae",
+    "outfitId": "6a7203d1c687dc762e03d8ae",
+    "topId": "6a720093d56dd408e401b6b5",
+    "handsId": "6a72022ed56dd408e401b6c0",
+    "locales": {
+      "en": {
+        "name": "USEC Longsleeve Desert Night",
+        "description": "Longsleeve shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_1_usec.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_longsleeve_tier_1/hands_arena_longsleeve_tier_1_usec.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a7203ebe76602c58b0038e2",
+    "outfitId": "6a7203ebe76602c58b0038e2",
+    "topId": "6a7200beb5fc03f68109f9a8",
+    "handsId": "6a72025e733b0b607b0dde73",
+    "locales": {
+      "en": {
+        "name": "USEC Longsleeve Brushstroke",
+        "description": "Longsleeve shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_2_usec.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_longsleeve_tier_2/hands_arena_longsleeve_tier_2_usec.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a7203fd733b0b607b0dde7b",
+    "outfitId": "6a7203fd733b0b607b0dde7b",
+    "topId": "6a7200f6acdd524b380351aa",
+    "handsId": "6a720282ab6fee1bb40eb5bd",
+    "locales": {
+      "en": {
+        "name": "USEC Longsleeve Tiger Stripe",
+        "description": "Longsleeve shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_3_usec.bundle",
+    "handsBundlePath": "assets/content/hands/hands_arena_longsleeve_tier_3/hands_arena_longsleeve_tier_3_usec.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6a71dac949a67ff80b08d051",
+    "outfitId": "6a71dac949a67ff80b08d051",
+    "bottomId": "6a71da3aade99bd0b20bcb58",
+    "locales": {
+      "en": {
+        "name": "BEAR Marathon",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_bear_marathon.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6a71e593ade99bd0b20bcb6c",
+    "outfitId": "6a71e593ade99bd0b20bcb6c",
+    "bottomId": "6a71e550b5fc03f68109f979",
+    "locales": {
+      "en": {
+        "name": "Champion Scourge",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_champion_toxic.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6a71dc70f925368981092299",
+    "outfitId": "6a71dc70f925368981092299",
+    "bottomId": "6a71db5f49a67ff80b08d055",
+    "locales": {
+      "en": {
+        "name": "USEC Deadlift",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_arena_usec_deadlift.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": []
+  }
+]

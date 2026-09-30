@@ -1,0 +1,321 @@
+{
+  "6a35762dd864773668046a6d": {
+    "_id": "6a35762dd864773668046a6d",
+    "_name": "TargetBlackDivision",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetBlackDivision",
+      "Name": "TargetBlackDivision",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "TargetBlackDivision",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetBlackDivision"
+      }
+    }
+  },
+  "6a3575489725a9cf0c0907ed": {
+    "_id": "6a3575489725a9cf0c0907ed",
+    "_name": "TargetScorpion",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetScorpion",
+      "Name": "TargetScorpion",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "TargetScorpion",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetScorpion"
+      }
+    }
+  },
+  "6a3575e125f478c7a20f613d": {
+    "_id": "6a3575e125f478c7a20f613d",
+    "_name": "TargetWedge",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetWedge",
+      "Name": "TargetWedge",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "TargetWedge",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetWedge"
+      }
+    }
+  },
+  "6a3bb457200c84aede0f3f8d": {
+    "_id": "6a3bb457200c84aede0f3f8d",
+    "_name": "BlackDivisionCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "",
+      "Name": "",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_blackdivision.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "6a86de41697fb20fa70d37b8": {
+    "_id": "6a86de41697fb20fa70d37b8",
+    "_name": "RaveCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "ForgottenCeiling",
+      "Name": "ForgottenCeiling",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "ForgottenCeiling",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_rave.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "6a882fe520ea333fe80b842e": {
+    "_id": "6a882fe520ea333fe80b842e",
+    "_name": "lighthouseCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "",
+      "Name": "",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_lighthouse.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "6a3bb5827182e638dc05bd2a": {
+    "_id": "6a3bb5827182e638dc05bd2a",
+    "_name": "BlackDivisionFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "",
+      "Name": "",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_blackdivision.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "6a8830528e1bd6c97104a467": {
+    "_id": "6a8830528e1bd6c97104a467",
+    "_name": "lighthouseFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "",
+      "Name": "",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_lighthouse.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "6a86df2254304bc4eb06c37a": {
+    "_id": "6a86df2254304bc4eb06c37a",
+    "_name": "RaveFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "ForgottenFloor",
+      "Name": "ForgottenFloor",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "ForgottenFloor",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_rave.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "6a8830707535bd83830c58aa": {
+    "_id": "6a8830707535bd83830c58aa",
+    "_name": "lighthouseWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "",
+      "Name": "",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_lighthouse.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "6a3bb59dae4fbdbb95040aab": {
+    "_id": "6a3bb59dae4fbdbb95040aab",
+    "_name": "BlackDivisionBlackWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "",
+      "Name": "",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_blackdivision_black.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "6a3bb5add4f941ec040cc3d9": {
+    "_id": "6a3bb5add4f941ec040cc3d9",
+    "_name": "BlackDivisionRedWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "",
+      "Name": "",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_blackdivision_red.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "6a86df54697fb20fa70d37bd": {
+    "_id": "6a86df54697fb20fa70d37bd",
+    "_name": "RaveWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "ForgottenWall",
+      "Name": "ForgottenWall",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "ForgottenWall",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_rave.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  }
+}

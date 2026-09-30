@@ -32,9 +32,7 @@
 
 	<!-- Gets the commit hash from git -->
 	<Target Name="SetSourceRevisionId" BeforeTargets="InitializeSourceControlInformation">
-		<Exec Command="git describe --long --always --dirty --exclude=* --abbrev=8"
-			  ConsoleToMSBuild="True"
-			  IgnoreExitCode="False">
+		<Exec Command="git describe --long --always --dirty --exclude=* --abbrev=8" ConsoleToMSBuild="True" IgnoreExitCode="False">
 			<Output PropertyName="SourceRevisionId" TaskParameter="ConsoleOutput" />
 		</Exec>
 	</Target>
@@ -47,14 +45,10 @@
 
 		<!-- Copies the output DLL into the local SPT Runtime mod folder -->
 		<MakeDir Directories="$(SptModDir)" />
-		<Copy SourceFiles="@(OutputDLL)"
-			  DestinationFolder="$(SptModDir)"
-			  SkipUnchangedFiles="true" />
+		<Copy SourceFiles="@(OutputDLL)" DestinationFolder="$(SptModDir)" SkipUnchangedFiles="true" />
 
 		<!-- Copies resources into the local SPT Runtime mod folder -->
-		<Copy SourceFiles="@(Resources)"
-			  DestinationFolder="$(SptModDir)\%(RecursiveDir)"
-			  SkipUnchangedFiles="true" />
+		<Copy SourceFiles="@(Resources)" DestinationFolder="$(SptModDir)\%(RecursiveDir)" SkipUnchangedFiles="true" />
 	</Target>
 
 	<Target Name="CopyToBuildDirectory" AfterTargets="PostBuildEvent">
@@ -68,16 +62,11 @@
 		<MakeDir Directories="$(BuildModDir)" />
 
 		<!-- Copy plugin DLL to package staging folder -->
-		<Copy SourceFiles="@(BuildOutputDLL)"
-			  DestinationFolder="$(BuildModDir)"
-			  SkipUnchangedFiles="true" />
+		<Copy SourceFiles="@(BuildOutputDLL)" DestinationFolder="$(BuildModDir)" SkipUnchangedFiles="true" />
 
 		<!-- Preserve the Resources directory structure in package staging -->
-		<Copy SourceFiles="@(BuildResources)"
-			  DestinationFolder="$(BuildModDir)\%(RecursiveDir)"
-			  SkipUnchangedFiles="true" />
+		<Copy SourceFiles="@(BuildResources)" DestinationFolder="$(BuildModDir)\%(RecursiveDir)" SkipUnchangedFiles="true" />
 
-		<Message Importance="high"
-				 Text="[PostBuild] Package-ready mod output: $(BuildModDir)" />
+		<Message Importance="high" Text="[PostBuild] Package-ready mod output: $(BuildModDir)" />
 	</Target>
 </Project>

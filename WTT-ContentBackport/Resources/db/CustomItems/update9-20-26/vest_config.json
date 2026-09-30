@@ -993,36 +993,48 @@
                 "_changeWeaponName": false,
                 "_name": "Vest ANA M1 (EMR) Standard",
                 "_parent": "6a9fee0faf5d6c78830d6543",
-                "_items": [
-                    {
-                        "_id": "6a9fee0faf5d6c78830d6543",
-                        "_tpl": "6a576f2105af50743903b74c"
-                    },
-                    {
-                        "_id": "6a9fee0faf5d6c78830d6544",
-                        "_tpl": "65730c0e292ecadbfa09ad49",
-                        "parentId": "6a9fee0faf5d6c78830d6543",
-                        "slotId": "Soft_armor_front"
-                    },
-                    {
-                        "_id": "6a9fee0faf5d6c78830d6545",
-                        "_tpl": "65730c2213a2f660f60bea96",
-                        "parentId": "6a9fee0faf5d6c78830d6543",
-                        "slotId": "Soft_armor_back"
-                    },
-                    {
-                        "_id": "6a9fee0faf5d6c78830d6546",
-                        "_tpl": "65730c2b292ecadbfa09ad50",
-                        "parentId": "6a9fee0faf5d6c78830d6543",
-                        "slotId": "Soft_armor_left"
-                    },
-                    {
-                        "_id": "6a9fee0faf5d6c78830d6547",
-                        "_tpl": "65730c35292ecadbfa09ad54",
-                        "parentId": "6a9fee0faf5d6c78830d6543",
-                        "slotId": "soft_armor_right"
-                    }
-                ],
+              "_items": [
+                {
+                  "_id": "6a9fee0faf5d6c78830d6543",
+                  "_tpl": "6a576f2105af50743903b74c"
+                },
+                {
+                  "_id": "6ab8257c3d5564699dba8a3e",
+                  "_tpl": "656fa0fb498d1b7e3e071d9c",
+                  "parentId": "6a9fee0faf5d6c78830d6543",
+                  "slotId": "Front_plate"
+                },
+                {
+                  "_id": "6ab825793d5564699dba8a3d",
+                  "_tpl": "656fa0fb498d1b7e3e071d9c",
+                  "parentId": "6a9fee0faf5d6c78830d6543",
+                  "slotId": "Back_plate"
+                },
+                {
+                  "_id": "6a9fee0faf5d6c78830d6544",
+                  "_tpl": "65730c0e292ecadbfa09ad49",
+                  "parentId": "6a9fee0faf5d6c78830d6543",
+                  "slotId": "Soft_armor_front"
+                },
+                {
+                  "_id": "6a9fee0faf5d6c78830d6545",
+                  "_tpl": "65730c2213a2f660f60bea96",
+                  "parentId": "6a9fee0faf5d6c78830d6543",
+                  "slotId": "Soft_armor_back"
+                },
+                {
+                  "_id": "6a9fee0faf5d6c78830d6546",
+                  "_tpl": "65730c2b292ecadbfa09ad50",
+                  "parentId": "6a9fee0faf5d6c78830d6543",
+                  "slotId": "Soft_armor_left"
+                },
+                {
+                  "_id": "6a9fee0faf5d6c78830d6547",
+                  "_tpl": "65730c35292ecadbfa09ad54",
+                  "parentId": "6a9fee0faf5d6c78830d6543",
+                  "slotId": "soft_armor_right"
+                }
+              ],
                 "_encyclopedia": "6a576f2105af50743903b74c"
             }
         ],
@@ -2595,36 +2607,48 @@
                 "_changeWeaponName": false,
                 "_name": "Vest ANA M2 A-TACS AU-X Standard",
                 "_parent": "6a9ff5e8b91c3de1ae00ed36",
-                "_items": [
-                    {
-                        "_id": "6a9ff5e8b91c3de1ae00ed36",
-                        "_tpl": "6a562a1f4281184d32097600"
-                    },
-                    {
-                        "_id": "6a9ff5e8b91c3de1ae00ed37",
-                        "_tpl": "6570f6e774d84423df065f21",
-                        "parentId": "6a9ff5e8b91c3de1ae00ed36",
-                        "slotId": "Soft_armor_front"
-                    },
-                    {
-                        "_id": "6a9ff5e8b91c3de1ae00ed38",
-                        "_tpl": "6570f71dd67d0309980a7af8",
-                        "parentId": "6a9ff5e8b91c3de1ae00ed36",
-                        "slotId": "Soft_armor_back"
-                    },
-                    {
-                        "_id": "6a9ff5e8b91c3de1ae00ed39",
-                        "_tpl": "6570f74774d84423df065f25",
-                        "parentId": "6a9ff5e8b91c3de1ae00ed36",
-                        "slotId": "Soft_armor_left"
-                    },
-                    {
-                        "_id": "6a9ff5e8b91c3de1ae00ed3a",
-                        "_tpl": "6570f79c4c65ab77a6015121",
-                        "parentId": "6a9ff5e8b91c3de1ae00ed36",
-                        "slotId": "soft_armor_right"
-                    }
-                ],
+              "_items": [
+                {
+                  "_id": "6a9ff5e8b91c3de1ae00ed36",
+                  "_tpl": "6a562a1f4281184d32097600"
+                },
+                {
+                  "_id": "6ab825b73d5564699dba8a40",
+                  "_tpl": "656fa25e94b480b8a500c0e0",
+                  "parentId": "6a9ff5e8b91c3de1ae00ed36",
+                  "slotId": "Front_plate"
+                },
+                {
+                  "_id": "6ab825b63d5564699dba8a3f",
+                  "_tpl": "656fa25e94b480b8a500c0e0",
+                  "parentId": "6a9ff5e8b91c3de1ae00ed36",
+                  "slotId": "Back_plate"
+                },
+                {
+                  "_id": "6a9ff5e8b91c3de1ae00ed37",
+                  "_tpl": "6570f6e774d84423df065f21",
+                  "parentId": "6a9ff5e8b91c3de1ae00ed36",
+                  "slotId": "Soft_armor_front"
+                },
+                {
+                  "_id": "6a9ff5e8b91c3de1ae00ed38",
+                  "_tpl": "6570f71dd67d0309980a7af8",
+                  "parentId": "6a9ff5e8b91c3de1ae00ed36",
+                  "slotId": "Soft_armor_back"
+                },
+                {
+                  "_id": "6a9ff5e8b91c3de1ae00ed39",
+                  "_tpl": "6570f74774d84423df065f25",
+                  "parentId": "6a9ff5e8b91c3de1ae00ed36",
+                  "slotId": "Soft_armor_left"
+                },
+                {
+                  "_id": "6a9ff5e8b91c3de1ae00ed3a",
+                  "_tpl": "6570f79c4c65ab77a6015121",
+                  "parentId": "6a9ff5e8b91c3de1ae00ed36",
+                  "slotId": "soft_armor_right"
+                }
+              ],
                 "_encyclopedia": "6a562a1f4281184d32097600"
             }
         ],

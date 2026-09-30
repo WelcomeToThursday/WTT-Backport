@@ -497,6 +497,27 @@
       ]
     },
     {
+      "key": "assets/content/characters/character/prefabs/pants_arena_bear_marathon.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/pants_arena_champion_toxic.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/pants_arena_usec_deadlift.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/characters/character/prefabs/pants_arena_usec_vintage.bundle",
       "dependencyKeys": [
         "shaders",
@@ -714,7 +735,91 @@
       ]
     },
     {
+      "key": "assets/content/characters/character/prefabs/top_arena_bear_marathon.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/characters/character/prefabs/top_arena_bear_turtle.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_champion_toxic.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_hawaii_nofract_blue.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_hawaii_nofract_green.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_hawaii_qilo_bear.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_hawaii_qilo_usec.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_1_bear.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_1_usec.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_2_bear.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_2_usec.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_3_bear.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_longsleeve_tier_3_usec.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps"
@@ -757,6 +862,13 @@
     },
     {
       "key": "assets/content/characters/character/prefabs/top_arena_rusguard_8_usec.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/top_arena_usec_deadlift.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps"
@@ -1076,7 +1188,91 @@
       ]
     },
     {
+      "key": "assets/content/hands/hands_arena_bear_marathon/hands_arena_bear_marathon.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/hands/hands_arena_bear_turtle/hands_arena_bear_turtle.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_champion_toxic/hands_arena_champion_toxic.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_hawaii_nofract/hands_arena_hawaii_nofract_blue.skin.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_hawaii_nofract/hands_arena_hawaii_nofract_green.skin.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_hawaii_qilo/hands_arena_hawaii_qilo_bear.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_hawaii_qilo/hands_arena_hawaii_qilo_usec.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_longsleeve_tier_1/hands_arena_longsleeve_tier_1_bear.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_longsleeve_tier_1/hands_arena_longsleeve_tier_1_usec.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_longsleeve_tier_2/hands_arena_longsleeve_tier_2_bear.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_longsleeve_tier_2/hands_arena_longsleeve_tier_2_usec.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_longsleeve_tier_3/hands_arena_longsleeve_tier_3_bear.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_longsleeve_tier_3/hands_arena_longsleeve_tier_3_usec.skin.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps"
@@ -1124,6 +1320,13 @@
       "dependencyKeys": [
         "cubemaps",
         "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_arena_usec_deadlift/hands_arena_usec_deadlift.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
       ]
     },
     {
@@ -9132,6 +9335,13 @@
       ]
     },
     {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_blackdivision.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_echo_of_battle.bundle",
       "dependencyKeys": [
         "shaders"
@@ -9151,10 +9361,23 @@
       ]
     },
     {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_lighthouse.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_prestige_01.bundle",
       "dependencyKeys": [
         "cubemaps",
         "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_rave.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
       ]
     },
     {
@@ -9175,6 +9398,13 @@
       "dependencyKeys": [
         "cubemaps",
         "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_blackdivision.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
       ]
     },
     {
@@ -9199,6 +9429,20 @@
       ]
     },
     {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_lighthouse.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_rave.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_01_and_survived.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -9217,6 +9461,20 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_blackdivision_black.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_blackdivision_red.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
       ]
     },
     {
@@ -9239,7 +9497,21 @@
       ]
     },
     {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_lighthouse.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_prestige_01.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_rave.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps"
