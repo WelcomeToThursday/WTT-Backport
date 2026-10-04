@@ -280,7 +280,7 @@ namespace WTTContentBackport.Helpers
             // ====================== THERAPIST QUESTS ======================
 
             // Decontamination Services (5c0d1c4cd0928202a02a6f5c)
-            questHelper.AddArmorToEquipmentExclusive(quests, "5c0d1c4cd0928202a02a6f5c", [facecover_gasmask_avon_m53a1]);
+            questHelper.AddArmorToEquipmentInclusive(quests, "5c0d1c4cd0928202a02a6f5c", [facecover_gasmask_avon_m53a1]);
 
         }
     }
