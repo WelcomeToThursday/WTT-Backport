@@ -24,6 +24,14 @@ public class CatBeachCommand(
         var side = pmcProfile?.Info?.Side;
         
         rewardHelper.AddAchievementToProfile(profile, "6948990c05f4f91bdb9a56f3");
+        profile.AddCustomisation("6a3bb59dae4fbdbb95040aab", "wall", CustomisationSource.DEFAULT);
+        profile.AddCustomisation("6a3bb5add4f941ec040cc3d9", "wall", CustomisationSource.DEFAULT);
+        profile.AddCustomisation("6a3bb5827182e638dc05bd2a", "floor", CustomisationSource.DEFAULT);
+        profile.AddCustomisation("6a3bb457200c84aede0f3f8d", "ceiling", CustomisationSource.DEFAULT); 
+
+        profile.AddCustomisation("6a3575e125f478c7a20f613d", "shootingRangeMark", CustomisationSource.DEFAULT);
+        profile.AddCustomisation("6a3575489725a9cf0c0907ed", "shootingRangeMark", CustomisationSource.DEFAULT);
+        profile.AddCustomisation("6a35762dd864773668046a6d", "shootingRangeMark", CustomisationSource.DEFAULT);
 
         IEnumerable<MongoId> kordBreachHeadsBear =
         [
@@ -73,6 +81,6 @@ public class CatBeachCommand(
         return new ValueTask<string>(request.DialogId);
     }
 
-    public string Command => "catbeach"; // https://i.imgur.com/W8jr5Bt.png
+    public string Command => "catbeach";
     public string CommandHelp => "Usage: Receive all Kord Breach customizations";
 }
