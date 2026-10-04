@@ -2898,6 +2898,14 @@
       ]
     },
     {
+      "key": "assets/content/items/equipment/facecover_devtac/item_equipment_facecover_devtac.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/equipment/facecover_devtac/item_equipment_facecover_devtac_cryptek.bundle",
       "dependencyKeys": [
         "cubemaps",

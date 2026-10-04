@@ -879,369 +879,399 @@ public class BaseGameItemEdits(
         {
             switch (id)
             {
+                case "66bdc28a0b603c26902b2011":
+                    slotHelper.EnsureSlot(item, "mod_equipment_000", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_equipment_000", [
+                          "6a8433fa2309518e9e03a2ae",
+                          "6a8433de350b8a45fd0ec800",
+                          "6a845c4adc351247420fd2f5",
+                          "6a845cbf13c5fb027c0768a9",
+                          "6a845cd5a5d91e080c06b6e1",
+                          "6a845ce613c5fb027c0768ad",
+                          "6a845cfd8d1432eeb8016ab9",
+                          "6a845e2dd68fc921f902397e",
+                          "6a845e3e8d1432eeb8016ac2",
+                          "6a845e4ea5d91e080c06b6ed",
+                          "6a845e60d68fc921f9023983",
+                          "6a845e7fc37980eea20190b2"]);
+                    slotHelper.EnsureSlot(item, "mod_equipment_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_equipment_001", [                  
+                          "6a8433e8cd06047e8e0ad363",
+                          "6a8433f15917e01c560716fc",
+                          "6a845d18cd06047e8e0ad377",
+                          "6a845d2adc351247420fd2fe",
+                          "6a845d4013c5fb027c0768b2",
+                          "6a845d94dc8388b0e609e16e",
+                          "6a845db3cd06047e8e0ad37c",
+                          "6a845dce7d4cbd3ee50a191b",
+                          "6a845ded7d4cbd3ee50a191f",
+                          "6a845ddeeaa1d4d30d038f6d",
+                          "6a845e00eaa1d4d30d038f71",
+                          "6a845e117d4cbd3ee50a1923"]);
+                    break;
                 case "6165ac306ef05c2ce828ef74":
-                    slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
-                        "6a3e936964b1d1fcc50ebbff");
-                    break;
-                case "6183afd850224f204c1da514":
-                    slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
-                        "6a3e936964b1d1fcc50ebbff");
-                    break;
-                case "6184055050224f204c1da540":
-                    slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
-                        "6a3e936964b1d1fcc50ebbff");
-                    break;
-                case "618428466ef05c2ce828f218":
-                    slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
-                        "6a3e936964b1d1fcc50ebbff");
-                    break;
-                case "64639a9aab86f8fd4300146c":
-                    slotHelper.EnsureSlot(item, "mod_muzzle", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_muzzle",
-                        "6a182c6008074115230957e9");
-                    break;
-                case "628b9a40717774443b15e9f2":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9");
-                    break;
-                case "66ffbfb1a73a7bce3d0b45a8":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9",
-                      "698b338649b46ae2d0092e82",
-                      "698b358b49b46ae2d0092e86",
-                      "698b3592e700c6d632003753");
-                    break;
-                case "6761763448fa5c377e06fc39":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9",
-                      "698b338649b46ae2d0092e82",
-                      "698b358b49b46ae2d0092e86",
-                      "698b3592e700c6d632003753");
-                    break;
-                case "6706a159c67236b2f703bb95":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9");
-                    break;
-                case "66ffc20ba73a7bce3d0b45ab":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9",
-                      "698b338649b46ae2d0092e82",
-                      "698b358b49b46ae2d0092e86",
-                      "698b3592e700c6d632003753");
-                    break;
-                case "638de3603a1a4031d8260b8c":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9",
-                      "698b338649b46ae2d0092e82",
-                      "698b358b49b46ae2d0092e86",
-                      "698b3592e700c6d632003753");
-                    break;
-                case "5ae35b315acfc4001714e8b0":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9");
-                    break;
-                case "5bfe89510db834001808a127":
-                    slotHelper.EnsureSlot(item, "mod_stock_003", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_003",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9",
-                      "698b338649b46ae2d0092e82",
-                      "698b358b49b46ae2d0092e86",
-                      "698b3592e700c6d632003753");
-                    break;
-                case "5cf50fc5d7f00c056c53f83c":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9",
-                      "698b338649b46ae2d0092e82",
-                      "698b358b49b46ae2d0092e86",
-                      "698b3592e700c6d632003753");
-                    break;
-                case "5cf518cfd7f00c065b422214":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9",
-                      "698b338649b46ae2d0092e82",
-                      "698b358b49b46ae2d0092e86",
-                      "698b3592e700c6d632003753");
-                    break;
-                case "5de65547883dde217541644b":
-                    slotHelper.EnsureSlot(item, "mod_muzzle", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_muzzle",
-                      "5de6556a205ddc616a6bc4f7",
-                      "5a9fbb74a2750c0032157181");
-                    break;
-                case "5e00c1ad86f774747333222c":
-                    slotHelper.EnsureSlot(item, "mod_equipment_002", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_equipment_002",
-                        "69e24f4f9e6ca1b32508bfbc");
-                    break;
-                case "5ef1ba28c64c5d0dfc0571a5":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9",
-                      "698b338649b46ae2d0092e82",
-                      "698b358b49b46ae2d0092e86",
-                      "698b3592e700c6d632003753");
-                    break;
-                case "5c793fc42e221600114ca25d":
-                    slotHelper.EnsureSlot(item, "mod_stock_003", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_003",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9",
-                      "698b338649b46ae2d0092e82",
-                      "698b358b49b46ae2d0092e86",
-                      "698b3592e700c6d632003753");
-                    break;
-                case "5c793fb92e221644f31bfb64":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9");
-                    break;
-                case "5afd7e095acfc40017541f61":
-                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
-                      "6984b82c5aab442620032fe8",
-                      "6985eca7de77dd8dd50025ba",
-                      "6985ec9fc848f05f4600f6b9",
-                      "698b338649b46ae2d0092e82",
-                      "698b358b49b46ae2d0092e86",
-                      "698b3592e700c6d632003753");
-                    break;
-
-                case "5649be884bdc2d79388b4577":
-                    slotHelper.EnsureSlot(item, "mod_stock_003", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_003",
-                        "6984b82c5aab442620032fe8",
-                        "6985eca7de77dd8dd50025ba",
-                        "6985ec9fc848f05f4600f6b9",
-                        "698b338649b46ae2d0092e82",
-                        "698b358b49b46ae2d0092e86",
-                        "698b3592e700c6d632003753");
-                    break;
-                case "66740c3739b9da6ce402ee65":
-                    var cultistGrid = item.Properties.Grids?.FirstOrDefault();
-                    var cultistFilters = cultistGrid?.Properties?.Filters?.FirstOrDefault();
-                    var cultistFilter = cultistFilters?.Filter;
-                    var cultistFilterExcluded = cultistFilters?.ExcludedFilter;
-
-                    if (cultistFilter == null)
+                        slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
+                            "6a3e936964b1d1fcc50ebbff");
+                        break;
+                    case "6183afd850224f204c1da514":
+                        slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
+                            "6a3e936964b1d1fcc50ebbff");
+                        break;
+                    case "6184055050224f204c1da540":
+                        slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
+                            "6a3e936964b1d1fcc50ebbff");
+                        break;
+                    case "618428466ef05c2ce828f218":
+                        slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
+                            "6a3e936964b1d1fcc50ebbff");
+                        break;
+                    case "64639a9aab86f8fd4300146c":
+                        slotHelper.EnsureSlot(item, "mod_muzzle", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_muzzle",
+                            "6a182c6008074115230957e9");
+                        break;
+                    case "628b9a40717774443b15e9f2":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9");
+                        break;
+                    case "66ffbfb1a73a7bce3d0b45a8":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9",
+                          "698b338649b46ae2d0092e82",
+                          "698b358b49b46ae2d0092e86",
+                          "698b3592e700c6d632003753");
+                        break;
+                    case "6761763448fa5c377e06fc39":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9",
+                          "698b338649b46ae2d0092e82",
+                          "698b358b49b46ae2d0092e86",
+                          "698b3592e700c6d632003753");
+                        break;
+                    case "6706a159c67236b2f703bb95":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9");
+                        break;
+                    case "66ffc20ba73a7bce3d0b45ab":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9",
+                          "698b338649b46ae2d0092e82",
+                          "698b358b49b46ae2d0092e86",
+                          "698b3592e700c6d632003753");
+                        break;
+                    case "638de3603a1a4031d8260b8c":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9",
+                          "698b338649b46ae2d0092e82",
+                          "698b358b49b46ae2d0092e86",
+                          "698b3592e700c6d632003753");
+                        break;
+                    case "5ae35b315acfc4001714e8b0":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9");
+                        break;
+                    case "5bfe89510db834001808a127":
+                        slotHelper.EnsureSlot(item, "mod_stock_003", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_003",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9",
+                          "698b338649b46ae2d0092e82",
+                          "698b358b49b46ae2d0092e86",
+                          "698b3592e700c6d632003753");
+                        break;
+                    case "5cf50fc5d7f00c056c53f83c":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9",
+                          "698b338649b46ae2d0092e82",
+                          "698b358b49b46ae2d0092e86",
+                          "698b3592e700c6d632003753");
+                        break;
+                    case "5cf518cfd7f00c065b422214":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9",
+                          "698b338649b46ae2d0092e82",
+                          "698b358b49b46ae2d0092e86",
+                          "698b3592e700c6d632003753");
+                        break;
+                    case "5de65547883dde217541644b":
+                        slotHelper.EnsureSlot(item, "mod_muzzle", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_muzzle",
+                          "5de6556a205ddc616a6bc4f7",
+                          "5a9fbb74a2750c0032157181");
+                        break;
+                    case "5e00c1ad86f774747333222c":
+                        slotHelper.EnsureSlot(item, "mod_equipment_002", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_equipment_002",
+                            "69e24f4f9e6ca1b32508bfbc");
+                        break;
+                    case "5ef1ba28c64c5d0dfc0571a5":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9",
+                          "698b338649b46ae2d0092e82",
+                          "698b358b49b46ae2d0092e86",
+                          "698b3592e700c6d632003753");
+                        break;
+                    case "5c793fc42e221600114ca25d":
+                        slotHelper.EnsureSlot(item, "mod_stock_003", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_003",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9",
+                          "698b338649b46ae2d0092e82",
+                          "698b358b49b46ae2d0092e86",
+                          "698b3592e700c6d632003753");
+                        break;
+                    case "5c793fb92e221644f31bfb64":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9");
+                        break;
+                    case "5afd7e095acfc40017541f61":
+                        slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                          "6984b82c5aab442620032fe8",
+                          "6985eca7de77dd8dd50025ba",
+                          "6985ec9fc848f05f4600f6b9",
+                          "698b338649b46ae2d0092e82",
+                          "698b358b49b46ae2d0092e86",
+                          "698b3592e700c6d632003753");
                         break;
 
-                    foreach (var allowedId in CultistCircleIds)
-                    {
-                        cultistFilter.Add(allowedId);
-                    }
-                    foreach (var excludedId in CultistCircleExcludedIds)
-                    {
-                        cultistFilterExcluded?.Add(excludedId);
-                    }
-                    break;
-                case "652910ef50dc782999054b97":
-                    slotHelper.AddIdsToNamedSlot(item, "mod_mount_000",
-                        "689c8a2b4b91399db3085f27");
+                    case "5649be884bdc2d79388b4577":
+                        slotHelper.EnsureSlot(item, "mod_stock_003", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_stock_003",
+                            "6984b82c5aab442620032fe8",
+                            "6985eca7de77dd8dd50025ba",
+                            "6985ec9fc848f05f4600f6b9",
+                            "698b338649b46ae2d0092e82",
+                            "698b358b49b46ae2d0092e86",
+                            "698b3592e700c6d632003753");
+                        break;
+                    case "66740c3739b9da6ce402ee65":
+                        var cultistGrid = item.Properties.Grids?.FirstOrDefault();
+                        var cultistFilters = cultistGrid?.Properties?.Filters?.FirstOrDefault();
+                        var cultistFilter = cultistFilters?.Filter;
+                        var cultistFilterExcluded = cultistFilters?.ExcludedFilter;
 
-                    slotHelper.AddIdsToNamedSlot(item, "mod_mount_001",
-                        "689c8a2b4b91399db3085f27");
+                        if (cultistFilter == null)
+                            break;
 
-                    slotHelper.AddIdsToNamedSlot(item, "mod_mount_002",
-                        "689c8a2b4b91399db3085f27");
-                    slotHelper.EnsureSlot(item, "mod_tactical", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_tactical",
-                      "57fd23e32459772d0805bcf1",
-                      "544909bb4bdc2d6f028b4577",
-                      "5d10b49bd7ad1a1a560708b0",
-                      "5c06595c0db834001a66af6c",
-                      "5a7b483fe899ef0016170d15",
-                      "61605d88ffa6e502ac5e7eeb",
-                      "5c5952732e2216398b5abda2",
-                      "644a3df63b0b6f03e101e065",
-                      "68bedc0365e7dcf94f0cb0fc",
-                      "6a186ccfbe0d66d438005e4e");
-                    break;
-                case "652910565ae2ae97b80fdf35":
-                    slotHelper.AddIdsToNamedSlot(item, "mod_muzzle",
-                        "607ffb988900dc2d9a55b6e4",
-                        "5cdd7693d7f00c0010373aa5",
-                        "5bbdb8bdd4351e4502011460",
-                        "5d02677ad7ad1a04a15c0f95",
-                        "5c878e9d2e2216000f201903",
-                        "5cdd7685d7f00c000f260ed2",
-                        "6130c43c67085e45ef1405a1",
-                        "5dfa3cd1b33c0951220c079b",
-                        "5d026791d7ad1a04a067ea63",
-                        "5dcbe965e4ed22586443a79d",
-                        "6642f63667f5cb56a00662eb",
-                        "628a66b41d5e41750e314f34",
-                        "5d1f819086f7744b355c219b",
-                        "6065c6e7132d4d12c81fd8e1",
-                        "618178aa1cb55961fa0fdc80",
-                        "5a34fd2bc4a282329a73b4c5",
-                        "5b7d693d5acfc43bca706a3d",
-                        "612e0d3767085e45ef14057f",
-                        "615d8eb350224f204c1da1cf",
-                        "612e0e3c290d254f5e6b291d",
-                        "5d443f8fa4b93678dd4a01aa",
-                        "5cf78496d7f00c065703d6ca",
-                        "5fbc22ccf24b94483f726483",
-                        "5c7954d52e221600106f4cc7",
-                        "5fbe7618d6fa9c00c571bb6c");
-                    break;
-                case "66bc98a01a47be227a5e956e":
-                    item.Properties.Grids.FirstOrDefault().Properties.CellsH = 8;
-                    item.Properties.Grids.FirstOrDefault().Properties.CellsV = 11;
-                    var filter = item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter;
-                    filter.Add("6937edb912d456a817083e82");
-                    filter.Add("6937ecf8628ee476240c07cb");
-                    filter.Add("69398e94ca94fd2877039504");
-                    filter.Add("6937f02dfd6488bb27024839");
-                    filter.Add("69f9d319c906cd16da03b374");
-                    filter.Add("69f9d547b98cc4120608692a");
-                    filter.Add("69f9d60b5de6674f08060f2a");
-                    filter.Add("6a3532423ec9d7082a05d430");
-                    filter.Add("6a35322b81d315afe1018ef3");
-                    filter.Add("6a3557f841667bc4bb00fea4");
-                    filter.Add("6a4ce086b5644e9f0a08d08a");
-                    break;
-                case "5929a2a086f7744f4b234d43":
-                    item.Properties.Prefab.Path =
-                        "assets/content/items/equipment/rig_6sh112/item_equipment_rig_6sh112.bundle";
-                    break;
-                case "67586b7e49c2fa592e0d8ed9":
-                    item.Parent = "5448e8d04bdc2ddf718b4569";
-                    item.Properties.ShortName = "item_food_saladbox";
-                    item.Properties.UsePrefab.Path =
-                        "assets/content/weapons/usable_items/item_food_saladbox/item_food_saladbox_container.bundle";
-                    item.Properties.MaxResource = 1;
-                    item.Properties.MetascoreGroup = "Utility";
-                    item.Properties.FoodEffectType = "afterUse";
-                    item.Properties.FoodUseTime = 5;
-                    item.Properties.ItemSound = "generic";
-                    item.Properties.RarityPvE = "SuperRare";
-                    if (item.Properties.EffectsHealth == null)
-                        item.Properties.EffectsHealth = new Dictionary<HealthFactor, EffectsHealthProperties>();
+                        foreach (var allowedId in CultistCircleIds)
+                        {
+                            cultistFilter.Add(allowedId);
+                        }
+                        foreach (var excludedId in CultistCircleExcludedIds)
+                        {
+                            cultistFilterExcluded?.Add(excludedId);
+                        }
+                        break;
+                    case "652910ef50dc782999054b97":
+                        slotHelper.AddIdsToNamedSlot(item, "mod_mount_000",
+                            "689c8a2b4b91399db3085f27");
 
-                    // Initialize Energy
-                    if (!item.Properties.EffectsHealth.ContainsKey(HealthFactor.Energy))
-                        item.Properties.EffectsHealth[HealthFactor.Energy] = new EffectsHealthProperties();
+                        slotHelper.AddIdsToNamedSlot(item, "mod_mount_001",
+                            "689c8a2b4b91399db3085f27");
 
-                    item.Properties.EffectsHealth[HealthFactor.Energy].Value = 100;
+                        slotHelper.AddIdsToNamedSlot(item, "mod_mount_002",
+                            "689c8a2b4b91399db3085f27");
+                        slotHelper.EnsureSlot(item, "mod_tactical", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_tactical",
+                          "57fd23e32459772d0805bcf1",
+                          "544909bb4bdc2d6f028b4577",
+                          "5d10b49bd7ad1a1a560708b0",
+                          "5c06595c0db834001a66af6c",
+                          "5a7b483fe899ef0016170d15",
+                          "61605d88ffa6e502ac5e7eeb",
+                          "5c5952732e2216398b5abda2",
+                          "644a3df63b0b6f03e101e065",
+                          "68bedc0365e7dcf94f0cb0fc",
+                          "6a186ccfbe0d66d438005e4e");
+                        break;
+                    case "652910565ae2ae97b80fdf35":
+                        slotHelper.AddIdsToNamedSlot(item, "mod_muzzle",
+                            "607ffb988900dc2d9a55b6e4",
+                            "5cdd7693d7f00c0010373aa5",
+                            "5bbdb8bdd4351e4502011460",
+                            "5d02677ad7ad1a04a15c0f95",
+                            "5c878e9d2e2216000f201903",
+                            "5cdd7685d7f00c000f260ed2",
+                            "6130c43c67085e45ef1405a1",
+                            "5dfa3cd1b33c0951220c079b",
+                            "5d026791d7ad1a04a067ea63",
+                            "5dcbe965e4ed22586443a79d",
+                            "6642f63667f5cb56a00662eb",
+                            "628a66b41d5e41750e314f34",
+                            "5d1f819086f7744b355c219b",
+                            "6065c6e7132d4d12c81fd8e1",
+                            "618178aa1cb55961fa0fdc80",
+                            "5a34fd2bc4a282329a73b4c5",
+                            "5b7d693d5acfc43bca706a3d",
+                            "612e0d3767085e45ef14057f",
+                            "615d8eb350224f204c1da1cf",
+                            "612e0e3c290d254f5e6b291d",
+                            "5d443f8fa4b93678dd4a01aa",
+                            "5cf78496d7f00c065703d6ca",
+                            "5fbc22ccf24b94483f726483",
+                            "5c7954d52e221600106f4cc7",
+                            "5fbe7618d6fa9c00c571bb6c");
+                        break;
+                    case "66bc98a01a47be227a5e956e":
+                        item.Properties.Grids.FirstOrDefault().Properties.CellsH = 8;
+                        item.Properties.Grids.FirstOrDefault().Properties.CellsV = 11;
+                        var filter = item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter;
+                        filter.Add("6937edb912d456a817083e82");
+                        filter.Add("6937ecf8628ee476240c07cb");
+                        filter.Add("69398e94ca94fd2877039504");
+                        filter.Add("6937f02dfd6488bb27024839");
+                        filter.Add("69f9d319c906cd16da03b374");
+                        filter.Add("69f9d547b98cc4120608692a");
+                        filter.Add("69f9d60b5de6674f08060f2a");
+                        filter.Add("6a3532423ec9d7082a05d430");
+                        filter.Add("6a35322b81d315afe1018ef3");
+                        filter.Add("6a3557f841667bc4bb00fea4");
+                        filter.Add("6a4ce086b5644e9f0a08d08a");
+                        break;
+                    case "5929a2a086f7744f4b234d43":
+                        item.Properties.Prefab.Path =
+                            "assets/content/items/equipment/rig_6sh112/item_equipment_rig_6sh112.bundle";
+                        break;
+                    case "67586b7e49c2fa592e0d8ed9":
+                        item.Parent = "5448e8d04bdc2ddf718b4569";
+                        item.Properties.ShortName = "item_food_saladbox";
+                        item.Properties.UsePrefab.Path =
+                            "assets/content/weapons/usable_items/item_food_saladbox/item_food_saladbox_container.bundle";
+                        item.Properties.MaxResource = 1;
+                        item.Properties.MetascoreGroup = "Utility";
+                        item.Properties.FoodEffectType = "afterUse";
+                        item.Properties.FoodUseTime = 5;
+                        item.Properties.ItemSound = "generic";
+                        item.Properties.RarityPvE = "SuperRare";
+                        if (item.Properties.EffectsHealth == null)
+                            item.Properties.EffectsHealth = new Dictionary<HealthFactor, EffectsHealthProperties>();
 
-                    // Initialize Hydration
-                    if (!item.Properties.EffectsHealth.ContainsKey(HealthFactor.Hydration))
-                        item.Properties.EffectsHealth[HealthFactor.Hydration] = new EffectsHealthProperties();
+                        // Initialize Energy
+                        if (!item.Properties.EffectsHealth.ContainsKey(HealthFactor.Energy))
+                            item.Properties.EffectsHealth[HealthFactor.Energy] = new EffectsHealthProperties();
 
-                    item.Properties.EffectsHealth[HealthFactor.Hydration].Value = -10;
+                        item.Properties.EffectsHealth[HealthFactor.Energy].Value = 100;
 
-                    break; // manually push new salad box properties
-                case "5ae30bad5acfc400185c2dc4":
-                    slotHelper.ModifySlotFilters(item, 0, 0, [
-                        "68a63d1522b1e0bd360afe67"]);
-                    break; //Manually push Delta Pic mount to AR-15 carry handle
+                        // Initialize Hydration
+                        if (!item.Properties.EffectsHealth.ContainsKey(HealthFactor.Hydration))
+                            item.Properties.EffectsHealth[HealthFactor.Hydration] = new EffectsHealthProperties();
 
-                case "5c093e3486f77430cb02e593":
-                    foreach (var dogtag in BackportJunkDisabler._usecDogtags)
-                        item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
-                    foreach (var dogtag in BackportJunkDisabler._bearDogtags)
-                        item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
-                    break; // Manually push dogtags to dogtag case
-                case "5d235bb686f77443f4331278":
-                    foreach (var dogtag in BackportJunkDisabler._usecDogtags)
-                        item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
-                    foreach (var dogtag in BackportJunkDisabler._bearDogtags)
-                        item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
-                    break; // Manually push dogtags to SICC case
-                case "57ac965c24597706be5f975c":
-                    slotHelper.ModifySlotFilters(item, 0, 0, [
-                        "688b54a11cef2a61d005273b"]);
-                    break; //Manually push RMR mount to Elcans
+                        item.Properties.EffectsHealth[HealthFactor.Hydration].Value = -10;
 
-                case "57aca93d2459771f2c7e26db":
-                    slotHelper.ModifySlotFilters(item, 0, 0, [
-                        "688b54a11cef2a61d005273b"]);
-                    break; //Manually push RMR mount to Elcans
+                        break; // manually push new salad box properties
+                    case "5ae30bad5acfc400185c2dc4":
+                        slotHelper.ModifySlotFilters(item, 0, 0, [
+                            "68a63d1522b1e0bd360afe67"]);
+                        break; //Manually push Delta Pic mount to AR-15 carry handle
 
-                case "5c0e2f26d174af02a9625114":
-                    slotHelper.ModifySlotFilters(item, 0, 0, [
-                        "68caacb4c8ac87b10507c5a6"]);
-                    break; //Manually push MK12 top rail to upper receivers
+                    case "5c093e3486f77430cb02e593":
+                        foreach (var dogtag in BackportJunkDisabler._usecDogtags)
+                            item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
+                        foreach (var dogtag in BackportJunkDisabler._bearDogtags)
+                            item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
+                        break; // Manually push dogtags to dogtag case
+                    case "5d235bb686f77443f4331278":
+                        foreach (var dogtag in BackportJunkDisabler._usecDogtags)
+                            item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
+                        foreach (var dogtag in BackportJunkDisabler._bearDogtags)
+                            item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter.Add(dogtag);
+                        break; // Manually push dogtags to SICC case
+                    case "57ac965c24597706be5f975c":
+                        slotHelper.ModifySlotFilters(item, 0, 0, [
+                            "688b54a11cef2a61d005273b"]);
+                        break; //Manually push RMR mount to Elcans
 
-                case "55d355e64bdc2d962f8b4569":
-                    slotHelper.ModifySlotFilters(item, 0, 0, [
-                        "68caacb4c8ac87b10507c5a6"]);
-                    break; //Manually push MK12 top rail to upper receivers
+                    case "57aca93d2459771f2c7e26db":
+                        slotHelper.ModifySlotFilters(item, 0, 0, [
+                            "688b54a11cef2a61d005273b"]);
+                        break; //Manually push RMR mount to Elcans
 
-                case "5c07a8770db8340023300450":
-                    slotHelper.ModifySlotFilters(item, 0, 0, [
-                        "68caacb4c8ac87b10507c5a6"]);
-                    break; //Manually push MK12 top rail to upper receivers
+                    case "5c0e2f26d174af02a9625114":
+                        slotHelper.ModifySlotFilters(item, 0, 0, [
+                            "68caacb4c8ac87b10507c5a6"]);
+                        break; //Manually push MK12 top rail to upper receivers
 
-                case "59bfe68886f7746004266202":
-                    slotHelper.ModifySlotFilters(item, 0, 0, [
-                        "68caacb4c8ac87b10507c5a6"]);
-                    break; //Manually push MK12 top rail to upper receivers
+                    case "55d355e64bdc2d962f8b4569":
+                        slotHelper.ModifySlotFilters(item, 0, 0, [
+                            "68caacb4c8ac87b10507c5a6"]);
+                        break; //Manually push MK12 top rail to upper receivers
 
-                case "63f5ed14534b2c3d5479a677":
-                    slotHelper.ModifySlotFilters(item, 0, 0, [
-                        "68caacb4c8ac87b10507c5a6"]);
-                    break; //Manually push MK12 top rail to upper receivers
+                    case "5c07a8770db8340023300450":
+                        slotHelper.ModifySlotFilters(item, 0, 0, [
+                            "68caacb4c8ac87b10507c5a6"]);
+                        break; //Manually push MK12 top rail to upper receivers
 
-                case "5d4405aaa4b9361e6a4e6bd3":
-                    slotHelper.ModifySlotFilters(item, 0, 0, [
-                        "68caacb4c8ac87b10507c5a6"]);
-                    break; //Manually push MK12 top rail to upper receivers
+                    case "59bfe68886f7746004266202":
+                        slotHelper.ModifySlotFilters(item, 0, 0, [
+                            "68caacb4c8ac87b10507c5a6"]);
+                        break; //Manually push MK12 top rail to upper receivers
 
-                case "5df917564a9f347bc92edca3":
-                    slotHelper.ModifySlotFilters(item, 1, 0, [
-                        "6932aeebbe542622170428ba",
+                    case "63f5ed14534b2c3d5479a677":
+                        slotHelper.ModifySlotFilters(item, 0, 0, [
+                            "68caacb4c8ac87b10507c5a6"]);
+                        break; //Manually push MK12 top rail to upper receivers
+
+                    case "5d4405aaa4b9361e6a4e6bd3":
+                        slotHelper.ModifySlotFilters(item, 0, 0, [
+                            "68caacb4c8ac87b10507c5a6"]);
+                        break; //Manually push MK12 top rail to upper receivers
+
+                    case "5df917564a9f347bc92edca3":
+                        slotHelper.ModifySlotFilters(item, 1, 0, [
+                            "6932aeebbe542622170428ba",
                         "6936bde84737190b66053bb1"]);
-                    break; //Manually push M110 gas blocks to SR-25 barrels
+                        break; //Manually push M110 gas blocks to SR-25 barrels
 
-                case "5dfa397fb11454561e39246c":
-                    slotHelper.ModifySlotFilters(item, 1, 0, [
-                        "6932aeebbe542622170428ba",
+                    case "5dfa397fb11454561e39246c":
+                        slotHelper.ModifySlotFilters(item, 1, 0, [
+                            "6932aeebbe542622170428ba",
                         "6936bde84737190b66053bb1"]);
-                    break; //Manually push M110 gas blocks to SR-25 barrels
-                case "623063e994fc3f7b302a9696":
-                    slotHelper.EnsureSlot(item, "mod_sight_front", "55d30c4c4bdc2db4468b457e");
-                    slotHelper.AddIdsToNamedSlot(item, "mod_sight_front", "680b87fc9402a78e7504a057");
-                    break; //Manually add new mod_sight_front to g36 template
-            }
+                        break; //Manually push M110 gas blocks to SR-25 barrels
+                    case "623063e994fc3f7b302a9696":
+                        slotHelper.EnsureSlot(item, "mod_sight_front", "55d30c4c4bdc2db4468b457e");
+                        slotHelper.AddIdsToNamedSlot(item, "mod_sight_front", "680b87fc9402a78e7504a057");
+                        break; //Manually add new mod_sight_front to g36 template
+                    }
         }
     }
 }
