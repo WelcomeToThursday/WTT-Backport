@@ -11,11 +11,7 @@
       "ConflictingItems": [
         "5b2cfa535acfc432ff4db7a0",
         "595cfa8b86f77427437e845b",
-        "595cf16b86f77427440c32e2",
-        "5d00ef6dd7ad1a0940739b16",
-        "5df916dfbb49d91fb446d6b9",
-        "5f6336bbda967c74a42e9932",
-        "6065881d1246154cad35d637"
+        "595cf16b86f77427440c32e2"
       ],
       "Description": "gas_block_ar10_kac_m110_double_high_picatinny",
       "DiscardLimit": -1,
@@ -127,7 +123,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
+    "addtoModSlots": true,
     "modSlot": [],
     "fleaPriceRoubles": 26200,
     "handbookPriceRoubles": 14690,
@@ -164,11 +160,7 @@
       "ConflictingItems": [
         "5b2cfa535acfc432ff4db7a0",
         "595cfa8b86f77427437e845b",
-        "595cf16b86f77427440c32e2",
-        "5d00ef6dd7ad1a0940739b16",
-        "5df916dfbb49d91fb446d6b9",
-        "5f6336bbda967c74a42e9932",
-        "6065881d1246154cad35d637"
+        "595cf16b86f77427440c32e2"
       ],
       "Description": "gas_block_ar10_kac_m110_double_high_picatinny_tau",
       "DiscardLimit": -1,
