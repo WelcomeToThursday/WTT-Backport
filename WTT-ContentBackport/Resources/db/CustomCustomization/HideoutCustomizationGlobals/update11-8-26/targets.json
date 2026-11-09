@@ -1,0 +1,134 @@
+[
+  {
+    "id": "6aa40f0dcdf65e2e3f4da604",
+    "conditions": [
+      {
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "dialogId": null,
+        "entryPoint": null,
+        "fromTraderId": null,
+        "id": "6ab67e7c0b4e0a97ea82f115",
+        "props": {
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "entryPoint": null,
+          "dialogId": null,
+          "fromTraderId": null
+        },
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "shootingRangeMark",
+    "index": 0,
+    "systemName": "Target_Ant",
+    "isEnabled": true,
+    "itemId": "6aa40cf673e497d3080a99bc"
+  },
+  {
+    "id": "6aa4108297c45c97f5856381",
+    "conditions": [
+      {
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "dialogId": null,
+        "entryPoint": null,
+        "fromTraderId": null,
+        "id": "6ab67febd3aef6f0989f9f17",
+        "props": {
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "entryPoint": null,
+          "dialogId": null,
+          "fromTraderId": null
+        },
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "shootingRangeMark",
+    "index": 0,
+    "systemName": "Target_Bumblebee",
+    "isEnabled": true,
+    "itemId": "6aa4105726814f849d09243f"
+  },
+  {
+    "id": "6aa411156c2525a7cac164e6",
+    "conditions": [
+      {
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "dialogId": null,
+        "entryPoint": null,
+        "fromTraderId": null,
+        "id": "6ab68005734a8f01e832f0ab",
+        "props": {
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "entryPoint": null,
+          "dialogId": null,
+          "fromTraderId": null
+        },
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "shootingRangeMark",
+    "index": 0,
+    "systemName": "Target_Mosquito",
+    "isEnabled": true,
+    "itemId": "6ab66eb051f69f0feb032ef7"
+  },
+  {
+    "id": "6aa41165fd80a95f7411b42d",
+    "conditions": [
+      {
+        "index": 0,
+        "dynamicLocale": false,
+        "visibilityConditions": [],
+        "globalQuestCounterId": "",
+        "parentId": "",
+        "dialogId": null,
+        "entryPoint": null,
+        "fromTraderId": null,
+        "id": "6ab68038f779ae6f8aac8ed2",
+        "props": {
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "entryPoint": null,
+          "dialogId": null,
+          "fromTraderId": null
+        },
+        "questNoteId": null,
+        "conditionType": "Block"
+      }
+    ],
+    "type": "shootingRangeMark",
+    "index": 0,
+    "systemName": "Target_Centipede",
+    "isEnabled": true,
+    "itemId": "6aa41155850607cb1402b9ef"
+  }
+]

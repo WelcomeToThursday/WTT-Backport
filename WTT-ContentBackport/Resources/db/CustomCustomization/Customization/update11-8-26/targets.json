@@ -1,0 +1,98 @@
+{
+  "6aa40cf673e497d3080a99bc": {
+    "_id": "6aa40cf673e497d3080a99bc",
+    "_name": "TargetAnt",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetAnt",
+      "Name": "TargetAnt",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "TargetAnt",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetAnt"
+      }
+    }
+  },
+  "6aa4105726814f849d09243f": {
+    "_id": "6aa4105726814f849d09243f",
+    "_name": "TargetBumblebee",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetBumblebee",
+      "Name": "TargetBumblebee",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "TargetBumblebee",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetBumblebee"
+      }
+    }
+  },
+  "6aa41155850607cb1402b9ef": {
+    "_id": "6aa41155850607cb1402b9ef",
+    "_name": "TargetCentipede",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetCentipede",
+      "Name": "TargetCentipede",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "TargetCentipede",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetCentipede"
+      }
+    }
+  },
+  "6ab66eb051f69f0feb032ef7": {
+    "_id": "6ab66eb051f69f0feb032ef7",
+    "_name": "TargetMosquito",
+    "_parent": "67373f330eca6e03ab0d5394",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "TargetMosquito",
+      "Name": "TargetMosquito",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "TargetMosquito",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "",
+        "rcid": "TargetMosquito"
+      }
+    }
+  }
+}

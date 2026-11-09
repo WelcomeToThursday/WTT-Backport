@@ -419,7 +419,7 @@
     "traders": {}
   },
   "69cfe083ce0df53f230f29b0": {
-    "itemTplToClone": "69cfe095b96c8e8d3e002aa3",
+    "itemTplToClone": "603409c80ca681766b6a0fb2",
     "parentId": "5448e5724bdc2ddf718b4568",
     "handbookParentId": "5b47574386f77428ca22b331",
     "overrideProperties": {
@@ -462,7 +462,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,

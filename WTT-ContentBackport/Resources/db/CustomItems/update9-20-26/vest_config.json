@@ -658,7 +658,7 @@
                   "64afdcb83efdfea28601d041",
                   "6943c85be2f21398e70378cc"
                 ],
-                "Plate": "656fa0fb498d1b7e3e071d9c",
+                "Plate": "",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SAPI_chest"
@@ -704,7 +704,7 @@
                   "64afdcb83efdfea28601d041",
                   "6943c85be2f21398e70378cc"
                 ],
-                "Plate": "656fa0fb498d1b7e3e071d9c",
+                "Plate": "",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SAPI_back"
@@ -2260,7 +2260,7 @@
                   "64afc71497cf3a403c01ff38",
                   "6943c85be2f21398e70378cc"
                 ],
-                "Plate": "656fa25e94b480b8a500c0e0",
+                "Plate": "",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SAPI_chest"
@@ -2306,7 +2306,7 @@
                   "64afdcb83efdfea28601d041",
                   "6943c85be2f21398e70378cc"
                 ],
-                "Plate": "656fa25e94b480b8a500c0e0",
+                "Plate": "",
                 "armorColliders": [],
                 "armorPlateColliders": [
                   "Plate_Granit_SAPI_back"

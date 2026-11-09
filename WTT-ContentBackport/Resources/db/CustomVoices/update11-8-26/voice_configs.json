@@ -1,0 +1,18 @@
+{
+  "6abc1725b750ab704b028037": {
+    "locales": {
+      "en": "Den"
+    },
+    "name": "Den",
+    "addVoiceToPlayer": false,
+    "bundlePath": "assets/content/audio/phrases/bear_07_den_voice.bundle"
+  },
+  "6acf6e6e35ee26cb5b0a5ab1": {
+    "locales": {
+      "en": "Scourge"
+    },
+    "name": "BossScourge",
+    "addVoiceToPlayer": false,
+    "bundlePath": "assets/content/audio/phrases/bossscourge_voice.bundle"
+  }
+}

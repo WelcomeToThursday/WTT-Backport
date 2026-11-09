@@ -1,0 +1,48 @@
+[
+  {
+    "type": "top",
+    "suiteId": "6a8c2246ddc39e4f340bab46",
+    "outfitId": "6a8c2246ddc39e4f340bab46",
+    "topId": "6a8c21bf61c6a8017503f304",
+    "handsId": "6a8c21fbcb11b9901f009d08",
+    "locales": {
+      "en": {
+        "name": "PMC Operator",
+        "description": "Upper"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_longsleeve_referal.bundle",
+    "handsBundlePath": "assets/content/hands/hands_longsleeve_referal/hands_longsleeve_referal.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  },
+  {
+    "type": "top",
+    "suiteId": "6ad8df9f4578133ca60e8c7d",
+    "outfitId": "6ad8df9f4578133ca60e8c7d",
+    "topId": "6aaa8bc754f92159de03ab24",
+    "handsId": "6ab56407dc1d792dbf052ed6",
+    "locales": {
+      "en": {
+        "name": "BEAR Cocktail Criminal",
+        "description": "Hawaiian shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bear_hawaii_blue.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bear_hawaii_01/hands_bear_hawaii_blue.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  }
+]

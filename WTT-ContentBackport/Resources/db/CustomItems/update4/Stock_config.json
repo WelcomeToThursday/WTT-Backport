@@ -863,7 +863,7 @@
     "traders": {}
   },
   "698b337c49b46ae2d0092e7f": {
-    "itemTplToClone": "638de3603a1a4031d8260b8c",
+    "itemTplToClone": "6761777a1f08ed5e8800b7ac",
     "parentId": "55818a594bdc2db9688b456a",
     "handbookParentId": "5b5f757486f774093e6cb507",
     "overrideProperties": {
@@ -987,11 +987,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_stock",
-      "mod_stock_000",
-      "mod_stock_001"
-    ],
+    "modSlot": ["mod_stock", "mod_stock_000", "mod_stock_001"],
     "fleaPriceRoubles": 4430,
     "handbookPriceRoubles": 3800,
     "addtoBots": false,

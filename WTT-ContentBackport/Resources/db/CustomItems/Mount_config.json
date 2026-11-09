@@ -1215,7 +1215,7 @@
     "traders": {}
   },
   "689c8a2b4b91399db3085f27": {
-    "itemTplToClone": "59e0bdb186f774156f04ce82",
+    "itemTplToClone": "5a9d6d00a2750c5c985b5305",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -1333,14 +1333,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_mount_000",
-      "mod_mount_001",
-      "mod_mount_002",
-      "mod_mount_003",
-      "mod_mount_004",
-      "mod_mount_005"
-    ],
+    "modSlot": ["mod_mount_000", "mod_mount_001", "mod_mount_002", "mod_mount_003", "mod_mount_004", "mod_mount_005"],
     "fleaPriceRoubles": 8400,
     "handbookPriceRoubles": 2000,
     "addtoBots": false,
@@ -1384,7 +1377,7 @@
     "traders": {}
   },
   "689c8b454b91399db3085f2a": {
-    "itemTplToClone": "6269220d70b6c02e665f2635",
+    "itemTplToClone": "5b7be47f5acfc400170e2dd2",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -1502,14 +1495,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_mount",
-      "mod_mount_000",
-      "mod_mount_001",
-      "mod_mount_002",
-      "mod_mount_003",
-      "mod_mount_004"
-    ],
+    "modSlot": ["mod_mount", "mod_mount_000", "mod_mount_001", "mod_mount_002", "mod_mount_003", "mod_mount_004", "mod_tactical_001", "mod_tactical_002", "mod_tactical_003"],
     "fleaPriceRoubles": 12000,
     "handbookPriceRoubles": 2200,
     "addtoBots": false,
@@ -1737,7 +1723,7 @@
     "traders": {}
   },
   "68d159d46c606e46b605094d": {
-    "itemTplToClone": "5a16b93dfcdbcbcae6687261",
+    "itemTplToClone": "5c0695860db834001b735461",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -1858,9 +1844,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_nvg"
-    ],
+    "modSlot": ["mod_nvg"],
     "fleaPriceRoubles": 27323,
     "handbookPriceRoubles": 3551,
     "addtoBots": false,
@@ -1883,7 +1867,7 @@
     "traders": {}
   },
   "68caacc7933990601c07f479": {
-    "itemTplToClone": "5b3b99265acfc4704b4a1afb",
+    "itemTplToClone": "618b9643526131765025ab35",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -2030,10 +2014,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_scope",
-      "mod_scope_000"
-    ],
+    "modSlot": ["mod_scope", "mod_scope_000"],
     "fleaPriceRoubles": 36786,
     "handbookPriceRoubles": 6453,
     "addtoBots": false,
@@ -2309,7 +2290,7 @@
     "traders": {}
   },
   "688a0bf28cdd409ce60911ce": {
-    "itemTplToClone": "5c7d55f52e221644f31bff6a",
+    "itemTplToClone": "67641a851b2899700609901a",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -2427,14 +2408,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_mount_003",
-      "mod_scope",
-      "mod_scope_000",
-      "mod_tactical",
-      "mod_tactical_000",
-      "mod_tactical_002"
-    ],
+    "modSlot": ["mod_scope", "mod_scope_000", "mod_tactical", "mod_tactical_002"],
     "fleaPriceRoubles": 16089,
     "handbookPriceRoubles": 2200,
     "addtoBots": false,
@@ -3888,7 +3862,7 @@
     "traders": {}
   },
   "689c8981bce76ccfbf01862f": {
-    "itemTplToClone": "57d17e212459775a1179a0f5",
+    "itemTplToClone": "6267c6396b642f77f56f5c1c",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -4006,22 +3980,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_equipment",
-      "mod_foregrip",
-      "mod_mount",
-      "mod_mount_001",
-      "mod_mount_002",
-      "mod_tactical",
-      "mod_tactical001",
-      "mod_tactical002",
-      "mod_tactical_000",
-      "mod_tactical_001",
-      "mod_tactical_002",
-      "mod_tactical_003",
-      "mod_tactical_004",
-      "mod_tactical_2"
-    ],
+    "modSlot": ["mod_mount_001", "mod_mount_002", "mod_tactical", "mod_tactical001", "mod_tactical002", "mod_tactical_000", "mod_tactical_001", "mod_tactical_002", "mod_tactical_003", "mod_tactical_004", "mod_tactical_2"],
     "fleaPriceRoubles": 73333,
     "handbookPriceRoubles": 1900,
     "addtoBots": false,

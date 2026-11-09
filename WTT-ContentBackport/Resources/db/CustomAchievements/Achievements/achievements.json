@@ -2430,5 +2430,96 @@
     "progressBarEnabled": true,
     "side": "Pmc",
     "index": 9001
+  },
+  {
+    "id": "6af0fd88f31e06338eee7800",
+    "imageUrl": "/files/achievement/pvestigeicon.png",
+    "assetPath": "",
+    "rewards": [
+      {
+        "id": "6af0fc63f31e06338eee77fc",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "6ab2d50ed788b98b9e0ed79e",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "6af0fc64f31e06338eee77fd",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "6ab2d6d2b498e98ee00d9b65",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "6af0fc66f31e06338eee77fe",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "6ab65b4106cd626cda0a2e3c",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "6af0fde0f31e06338eee7802",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "6ab65b5245e09f045f049cbd",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "6af0fddff31e06338eee7801",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "6ab65b7a2c7569c54d06b14e",
+        "type": "CustomizationDirect"
+      },
+      {
+        "id": "6af0fdedf31e06338eee7804",
+        "unknown": false,
+        "gameMode": [],
+        "availableInGameEditions": [],
+        "illustrationConfig": null,
+        "isHidden": false,
+        "target": "6ab65b9d8e917e918e07e85e",
+        "type": "CustomizationDirect"
+      }
+    ],
+    "conditions": {
+      "availableForFinish": [
+        {
+          "id": "6af0fd81f31e06338eee77ff",
+          "index": 0,
+          "dynamicLocale": false,
+          "visibilityConditions": [],
+          "globalQuestCounterId": "",
+          "parentId": "",
+          "conditionType": "Block"
+        }
+      ],
+      "fail": []
+    },
+    "instantComplete": true,
+    "showNotificationsInGame": true,
+    "showProgress": false,
+    "prefab": "",
+    "rarity": "Legendary",
+    "hidden": true,
+    "showConditions": false,
+    "progressBarEnabled": true,
+    "side": "Pmc",
+    "index": 19001
   }
 ]  
