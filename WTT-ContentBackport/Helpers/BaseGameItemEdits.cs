@@ -21,7 +21,7 @@ public class BaseGameItemEdits(
 {
     private static readonly string[] CultistCircleIds =
 {
-                  "5733279d245977289b77ec24",
+                                   "5733279d245977289b77ec24",
                   "5d03794386f77420415576f5",
                   "5e2aee0a86f774755a234b62",
                   "5e2aedd986f7746d404f3aa4",
@@ -829,10 +829,30 @@ public class BaseGameItemEdits(
                   "6a461bf82b2264dbe10d0ee6",
                   "6a461aed7391ab085a093760",
                   "543be6674bdc2df1348b4569",
-                  "6a3563dacdaebb512e0a009c"
+                  "6a3563dacdaebb512e0a009c",
+                  "6937eccbfd921faceb0dfecd",
+                  "6a9980872a87c16fef04789f",
+                  "6aa2d537cfc9b36b300da067",
+                  "6aa2d55e0b4e81daf20cd212",
+                  "6aa2d585cfc9b36b300da06a",
+                  "6aa2d5af0b4e81daf20cd215",
+                  "6aa2d5d3667ebebca605d8f6",
+                  "6aa2d5ee11d6c6361804dd57",
+                  "6ab2d6031c7d617b290dd2b0",
+                  "6ab2d68819b981e6870f35d3",
+                  "6ab60a252bc101093f05029f",
+                  "6ab60a4d5c0779ba1e0aabad",
+                  "6ab60a57615ae75bdd0e39ce",
+                  "6ab60a62d60e0dec3e04ff2c",
+                  "69bb3ec9f609db77390b0e1a",
+                  "69bb3e54d6c67f6265004ab9",
+                  "67ab3d4b83869afd170fdd3f",
+                  "69f07893e761ac1c200ae15b",
+                  "69a0174087a75d2cbd0842e8",
+                  "6a8c4c7999baf8bd5802f7fe"
 };
     private static readonly string[] CultistCircleExcludedIds = {
-                  "675aaae75a3ab8372d0b02a7",
+                        "675aaae75a3ab8372d0b02a7",
                   "675aaaf674a7619a5304c233",
                   "675aab0d6b6addc02a08f097",
                   "675aaae1dcf102478202c537",
@@ -1273,5 +1293,1236 @@ public class BaseGameItemEdits(
                         break; //Manually add new mod_sight_front to g36 template
                     }
         }
+
+        slotHelper.RemoveIdFromNamedSlots(
+    templates,
+    "mod_muzzle",
+    "68540aae1e5c6ff6f1051477",
+    [
+        "5cf67a1bd7f00c06585fb6f3",
+        "628b5638ad252a16da6dd245",
+        "628b9c37a733087d0d7fe84b"
+    ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_muzzle",
+            "68540aae1e5c6ff6f1051477",
+            [
+                "5cf67cadd7f00c065a5abab7"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope",
+            "688a0bf28cdd409ce60911ce",
+            [
+                "622efdf8ec80d870d349b4e5",
+        "68caacb4c8ac87b10507c5a6"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_scope",
+            "688a0bf28cdd409ce60911ce",
+            [
+                "57ffb0062459777a045af529",
+        "58272b392459774b4c7b3ccd",
+        "593d1fa786f7746da62d61ac",
+        "5a78948ec5856700177b1124",
+        "5a957c3fa2750c00137fa5f7",
+        "5ab24ef9e5b5b00fe93c9209",
+        "5addbfbb5acfc400194dbcf7",
+        "5addbfd15acfc40015621bde",
+        "5addc7005acfc4001669f275",
+        "5bc5a372d4351e44f824d17f",
+        "5dfe14f30b92095fd441edaf",
+        "5f6331e097199b7db2128dc2",
+        "633ec7c2a6918cb895019c6c",
+        "6389f1dfc879ce63f72fc43e",
+        "6492c8bba6e68e06fb0bae87",
+        "6568a6bf2c5fb7afc70bc424",
+        "6698c90829e062525d0ad8ad",
+        "674fe8b9362ea1f88b0e278d"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_tactical",
+            "688a0bf28cdd409ce60911ce",
+            [
+                "653ece125a1690d9d90491e8"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_nvg",
+            "689b8883b49f27df1c0873f8",
+            [
+                "5ea058e01dbce517f324b3e2",
+        "5ea18c84ecf1982c7712d9a2",
+        "68a9a85c3e1ee5a70504c12e",
+        "68a9a92b838d65bcb3050176",
+        "68a9be93f260f4e1c2038686",
+        "68a9beecbba00932ed0bc256",
+        "68bee2d9af253218c00ebbb4",
+        "68bee2e0ede5c8489f08e1b5",
+        "693be8f650fafa102607aed4"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_nvg",
+            "689b889473ebd6871805edd6",
+            [
+                "5a16b8a9fcdbcb00165aa6ca"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical",
+            "689c8981bce76ccfbf01862f",
+            [
+                "65ae4f57e343f0acc00824da",
+        "6698c8f4710a4525fe0e9e57",
+        "67c542ecac40c36449066508"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical_000",
+            "689c8981bce76ccfbf01862f",
+            [
+                "5eeb2ff5ea4f8b73c827350b",
+        "6491c6f6ef312a876705191b",
+        "6a182c0fae175e037a0be40c"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical_001",
+            "689c8981bce76ccfbf01862f",
+            [
+                "5e81ebcd8e146c7080625e15",
+        "61965d9058ef8c428c287e0d",
+        "68a63cdac92ee33ffa01bf5f"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical_002",
+            "689c8981bce76ccfbf01862f",
+            [
+                "5e81ebcd8e146c7080625e15",
+        "61965d9058ef8c428c287e0d",
+        "68a63cdac92ee33ffa01bf5f"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical_003",
+            "689c8981bce76ccfbf01862f",
+            [
+                "5c78f2612e221600114c9f0d",
+        "61965d9058ef8c428c287e0d"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_tactical",
+            "689c8981bce76ccfbf01862f",
+            [
+                "6269545d0e57f218e4548ca2",
+        "62e7c72df68e7a0676050c77",
+        "633ec7c2a6918cb895019c6c",
+        "67110d8d388bded67304ceb4",
+        "68a63ce2e1fb670852024667"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_tactical_001",
+            "689c8981bce76ccfbf01862f",
+            [
+                "6275303a9f372d6ea97f9ec7"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_tactical_002",
+            "689c8981bce76ccfbf01862f",
+            [
+                "6275303a9f372d6ea97f9ec7"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_tactical_003",
+            "689c8981bce76ccfbf01862f",
+            [
+                "638f2003bbd47aeb9e0ff637",
+        "68caac28f42a4476cf0be2ac",
+        "68caac360bfe742288085e16",
+        "68cc2ae66e59cb54f4054f47"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_mount_002",
+            "689c8a2b4b91399db3085f27",
+            [
+                "6711107e1ad01bb88705347e"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_mount_000",
+            "689c8a2b4b91399db3085f27",
+            [
+                "652910ef50dc782999054b97"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_mount_001",
+            "689c8a2b4b91399db3085f27",
+            [
+                "652910ef50dc782999054b97"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_mount_002",
+            "689c8a2b4b91399db3085f27",
+            [
+                "652910ef50dc782999054b97"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_mount",
+            "689c8b454b91399db3085f2a",
+            [
+                "65709d2d21b9f815e208ff95",
+        "68a9be93f260f4e1c2038686",
+        "68a9beecbba00932ed0bc256",
+        "69cd423343c6b278a2076cca",
+        "69ce47ca49b447e32200cbe9",
+        "6a156ac407619a15b1023bf0",
+        "6a1571b8060f61ca2c03e06f",
+        "6a83392e992762b7bf08ffb8",
+        "6a8339b9512ae66ef40af89b",
+        "6a8339d551cfbe231b091a24"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_mount_000",
+            "689c8b454b91399db3085f2a",
+            [
+                "5c78f2492e221600114c9f04",
+        "5c78f2612e221600114c9f0d",
+        "628a83c29179c324ed269508",
+        "652910ef50dc782999054b97",
+        "676177df1f08ed5e8800b7ae",
+        "67d417c023ec241bb70d4896",
+        "6895bd19d55f0ebf6a0c0306",
+        "68c1707983e2d814b0093f7e",
+        "68c170e383e2d814b0093f87",
+        "68c2989dc9061bb2f50478f6",
+        "6a147ad5eff5b3bf690c2c0d",
+        "6a1567ce0cce01965f0bee01",
+        "6a156a75cbb8d0c82606c525",
+        "6a156a9407619a15b1023be7",
+        "6a158e90bf497aade10030e4",
+        "6a687e38e1ad1bac01015418"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_mount_001",
+            "689c8b454b91399db3085f2a",
+            [
+                "5c78f2492e221600114c9f04",
+        "5c78f2612e221600114c9f0d",
+        "5cdeac22d7f00c000f26168f",
+        "628a83c29179c324ed269508",
+        "652910ef50dc782999054b97",
+        "676177df1f08ed5e8800b7ae",
+        "67d417c023ec241bb70d4896",
+        "6895bd19d55f0ebf6a0c0306",
+        "68a5dc4eed35a7eac1048ff6",
+        "68a6fbfdd31595bb360c73bd",
+        "68c1707983e2d814b0093f7e",
+        "68c170e383e2d814b0093f87",
+        "68c2989dc9061bb2f50478f6",
+        "6a147ad5eff5b3bf690c2c0d",
+        "6a1567ce0cce01965f0bee01",
+        "6a156a75cbb8d0c82606c525",
+        "6a156a9407619a15b1023be7",
+        "6a158e90bf497aade10030e4",
+        "6a687e38e1ad1bac01015418"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_mount_002",
+            "689c8b454b91399db3085f2a",
+            [
+                "5cdeac22d7f00c000f26168f",
+        "652910ef50dc782999054b97",
+        "67c5429fac40c364490664f8",
+        "67c542aeb032bbdb530201c6",
+        "67c542baac40c36449066500",
+        "67d417c023ec241bb70d4896",
+        "67ff24b9079850d544096ea6",
+        "67ff24c0abb53266190dfc66",
+        "67ff26a2abb53266190dfc6c",
+        "67ff2792ea587611b0080956",
+        "67ff279dea587611b008095d",
+        "6895bd19d55f0ebf6a0c0306",
+        "68a5dc4eed35a7eac1048ff6",
+        "68a6fbfdd31595bb360c73bd",
+        "68c170e383e2d814b0093f87",
+        "6a158e90bf497aade10030e4"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_mount_003",
+            "689c8b454b91399db3085f2a",
+            [
+                "5cdeac22d7f00c000f26168f",
+        "681096b551511048940afed9",
+        "68109a1f327033533604170a"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_tactical_001",
+            "689c8b454b91399db3085f2a",
+            [
+                "61965d9058ef8c428c287e0d"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_tactical_002",
+            "689c8b454b91399db3085f2a",
+            [
+                "61965d9058ef8c428c287e0d"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_tactical_003",
+            "689c8b454b91399db3085f2a",
+            [
+                "61965d9058ef8c428c287e0d"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_nvg",
+            "689dbded6c7e684817080c29",
+            [
+                "5ea058e01dbce517f324b3e2",
+        "5ea18c84ecf1982c7712d9a2",
+        "68a9a85c3e1ee5a70504c12e",
+        "68a9a92b838d65bcb3050176",
+        "68a9be93f260f4e1c2038686",
+        "68a9beecbba00932ed0bc256",
+        "68bee2d9af253218c00ebbb4",
+        "68bee2e0ede5c8489f08e1b5",
+        "693be8f650fafa102607aed4"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_reciever",
+            "68a63b90e1fb670852024659",
+            [
+                "5d43021ca4b9362eab4b5e25"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_reciever",
+            "68a63b9b8e1fe612970728f7",
+            [
+                "5d43021ca4b9362eab4b5e25"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_stock",
+            "68a63c5ce1fb670852024661",
+            [
+                "5447a9cd4bdc2dbd208b4567",
+        "5a367e5dc4a282000e49738f",
+        "5ab372a310e891001717f0d8",
+        "5c07c60e0db834002330051f",
+        "5d43021ca4b9362eab4b5e25",
+        "628a6678ccaab13006640e49"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_stock_001",
+            "68a63c5ce1fb670852024661",
+            [
+                "5fc22d7c187fea44d52eda44",
+        "606587252535c57a13424cfd"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_stock",
+            "68a63c7322b1e0bd360afe65",
+            [
+                "5beec8b20db834001961942a",
+        "628b9a40717774443b15e9f2"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_stock_000",
+            "68a63c7322b1e0bd360afe65",
+            [
+                "6878ccf4181ac8a5b5077236",
+        "68c17005ba442c8112076088",
+        "68c1701cba442c811207608b"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_handguard",
+            "68a63cb3e1fb670852024664",
+            [
+                "59bfe68886f7746004266202"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_handguard",
+            "68a63cc0c92ee33ffa01bf5c",
+            [
+                "59bfe68886f7746004266202"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_handguard",
+            "68a63ccc8a85019a82087956",
+            [
+                "59bfe68886f7746004266202"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_handguard",
+            "68a63cdac92ee33ffa01bf5f",
+            [
+                "59bfe68886f7746004266202"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_stock",
+            "68c17005ba442c8112076088",
+            [
+                "5ab372a310e891001717f0d8"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_stock",
+            "68c1701cba442c811207608b",
+            [
+                "5ab372a310e891001717f0d8"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_muzzle",
+            "68c294b9eb59c46bf6070536",
+            [
+                "630f27f04f3f6281050b94d7"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_barrel",
+            "68caaa93269e10396503acf6",
+            [
+                "5c07a8770db8340023300450"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_barrel",
+            "68caabc3f42a4476cf0be2a6",
+            [
+                "5c07a8770db8340023300450"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_charge",
+            "68caabebc71156cf470bc186",
+            [
+                "5c07c60e0db834002330051f"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_gas_block",
+            "68caac02269e10396503acfa",
+            [
+                "5c471cb32e221602b177afaa"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_gas_block",
+            "68caac02269e10396503acfa",
+            [
+                "5d440b93a4b9364276578d4b"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_pistol_grip",
+            "68caac14f42a4476cf0be2aa",
+            [
+                "5447a9cd4bdc2dbd208b4567",
+        "5c07c60e0db834002330051f"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_pistolgrip",
+            "68caac14f42a4476cf0be2aa",
+            [
+                "5ab372a310e891001717f0d8"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope",
+            "68caacc7933990601c07f479",
+            [
+                "5a966ec8a2750c00171b3f36",
+        "5ab372a310e891001717f0d8",
+        "5addbfef5acfc400185c2857",
+        "5caf1691ae92152ac412efb9",
+        "6389f1dfc879ce63f72fc43e",
+        "6415c694da439c6a97048b56",
+        "67c541fcb032bbdb530201be"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_sight_rear",
+            "68caad70269e10396503ad00",
+            [
+                "5ab372a310e891001717f0d8",
+        "5c488a752e221602b412af63",
+        "5cadfbf7ae92152ac412eeef",
+        "5dcbd56fdbd3d91b3e5468d5",
+        "67d416e19bd76ef20f0e743b",
+        "68712bd4251b8d4c6c04ec19",
+        "68aee8f8130c00663d08aeb3"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope",
+            "68caad7f933990601c07f47c",
+            [
+                "57c69dd424597774c03b7bbc"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_stock",
+            "68d566f3f3d7cd248f0a06db",
+            [
+                "58948c8e86f77409493f7266"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_pistol_grip",
+            "68d5674bb2573b07dc0d225f",
+            [
+                "576165642459773c7a400233",
+        "674d6121c09f69dfb201a888",
+        "674fe9a75e51f1c47c04ec23",
+        "6981d72ed009ad83920da43a"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_stock",
+            "6932ac8fbccfa5c5a00b5a76",
+            [
+                "68a63c5ce1fb670852024661"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_muzzle",
+            "6932af0bbe542622170428bd",
+            [
+                "5df917564a9f347bc92edca3",
+        "5dfa397fb11454561e39246c"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_stock",
+            "6981f3e2f819a41431029302",
+            [
+                "5afd7e095acfc40017541f61",
+        "5beec8b20db834001961942a",
+        "5cf50fc5d7f00c056c53f83c",
+        "5cf518cfd7f00c065b422214",
+        "628b9a40717774443b15e9f2",
+        "649ec87d8007560a9001ab36",
+        "66ffbfb1a73a7bce3d0b45a8",
+        "66ffc20ba73a7bce3d0b45ab"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_pistolgrip",
+            "6981f8ca1d2e2070560b7275",
+            [
+                "64637076203536ad5600c990",
+        "64ca3d3954fc657e230529cc"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_foregrip",
+            "6984b690b457c5047e0c01fa",
+            [
+                "5bd70322209c4d00d7167b8f",
+        "6275303a9f372d6ea97f9ec7",
+        "65ae4f57e343f0acc00824da",
+        "66012d003dff5074ed002e2c",
+        "66012d64c752a02bbe05e69b",
+        "661fbe066751ee51930b01f2",
+        "682317428639961c6001dbf1"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_foregrip",
+            "6984b690b457c5047e0c01fa",
+            [
+                "688c86420e99e554a90c0fd6"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_foregrip",
+            "6984b74a5aab442620032fe6",
+            [
+                "5bd70322209c4d00d7167b8f",
+        "6275303a9f372d6ea97f9ec7",
+        "65ae4f57e343f0acc00824da",
+        "66012d003dff5074ed002e2c",
+        "66012d64c752a02bbe05e69b",
+        "661fbe066751ee51930b01f2",
+        "682317428639961c6001dbf1",
+        "6a6877f566f77e6757083db5"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_foregrip",
+            "6984b74a5aab442620032fe6",
+            [
+                "688c86420e99e554a90c0fd6"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_pistolgrip",
+            "6984b7bf0baed1fc0a0594f6",
+            [
+                "64637076203536ad5600c990",
+        "64ca3d3954fc657e230529cc"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope",
+            "6985beb1812f88c79b0eed39",
+            [
+                "58272b842459774abc128d50",
+        "5addc7005acfc4001669f275",
+        "5f63418ef5750b524b45f116",
+        "633ec7c2a6918cb895019c6c",
+        "65fb023261d5829b2d090755",
+        "661ceb1b9311543c7104149b",
+        "661cec09b2c6356b4d0c7a36",
+        "668fe5f62a0f85eea407cc18",
+        "6698c90829e062525d0ad8ad",
+        "669fa47da0bab4e8510d9526",
+        "669fa48fa0bab4e8510d952a",
+        "68712bd4251b8d4c6c04ec19"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical",
+            "6985beb1812f88c79b0eed39",
+            [
+                "687128c4505fed5f370b1625"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical_000",
+            "6985beb1812f88c79b0eed39",
+            [
+                "5f6331e097199b7db2128dc2"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical_002",
+            "6985beb1812f88c79b0eed39",
+            [
+                "5a957c3fa2750c00137fa5f7"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope",
+            "6985bed26be2752c150e6898",
+            [
+                "5addc7005acfc4001669f275",
+        "5f63418ef5750b524b45f116",
+        "633ec7c2a6918cb895019c6c",
+        "65fb023261d5829b2d090755",
+        "661ceb1b9311543c7104149b",
+        "661cec09b2c6356b4d0c7a36",
+        "668fe5f62a0f85eea407cc18",
+        "6698c90829e062525d0ad8ad",
+        "669fa47da0bab4e8510d9526",
+        "669fa48fa0bab4e8510d952a",
+        "669fa4ba1bd4416eaa09b3c6",
+        "669fa4c61bd4416eaa09b3ca",
+        "68712bd4251b8d4c6c04ec19"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical",
+            "6985bed26be2752c150e6898",
+            [
+                "687128c4505fed5f370b1625"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical_002",
+            "6985bed26be2752c150e6898",
+            [
+                "5a957c3fa2750c00137fa5f7"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_scope",
+            "6985bed26be2752c150e6898",
+            [
+                "5649a2464bdc2d91118b45a8",
+        "5a9fc7e6a2750c0032157184",
+        "5beec3e30db8340019619424",
+        "622efdf8ec80d870d349b4e5",
+        "638db77630c4240f9e06f8b6"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_stock",
+            "698b337c49b46ae2d0092e7f",
+            [
+                "683060403b1bb49282023611",
+        "6932abeb5403890d0c09c926",
+        "6a15ae2ae5267ba21c07f98f"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_stock_000",
+            "698b337c49b46ae2d0092e7f",
+            [
+                "68b966e44b7f808d5609ac04"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_stock",
+            "698b337c49b46ae2d0092e7f",
+            [
+                "5cde739cd7f00c0010373bd3"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_stock_000",
+            "698b337c49b46ae2d0092e7f",
+            [
+                "5b099bf25acfc4001637e683",
+        "5fb655b748c711690e3a8d5a"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_equipment_001",
+            "69cbd37c33d1df198600bfec",
+            [
+                "69ce70a321c1fc42cd01affa",
+        "69ce70df606696c00301a760",
+        "6a568340263768e2ae0c9696"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_equipment_001",
+            "69cbd389c0c2364a330c6474",
+            [
+                "69ce70a321c1fc42cd01affa",
+        "69ce70df606696c00301a760",
+        "6a568340263768e2ae0c9696"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope",
+            "69f9ec80aae020b0db02f670",
+            [
+                "5ba26383d4351e00334c93d9",
+        "5bd70322209c4d00d7167b8f",
+        "5cadfbf7ae92152ac412eeef",
+        "5caf1691ae92152ac412efb9",
+        "5dfcd0e547101c39625f66f9",
+        "5fc3e272f8b6a877a729eac5",
+        "65fb023261d5829b2d090755",
+        "661ceb1b9311543c7104149b",
+        "661cec09b2c6356b4d0c7a36",
+        "6680326874b8f2050c0b9178",
+        "68a63d1522b1e0bd360afe67"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_scope",
+            "69f9ec80aae020b0db02f670",
+            [
+                "593d1fa786f7746da62d61ac",
+        "61f804acfcba9556ea304cb8",
+        "62ebba1fb658e07ef9082b5a",
+        "67110dd41ad01bb88705347b"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_handguard",
+            "6a147ad5eff5b3bf690c2c0d",
+            [
+                "6895becad55f0ebf6a0c0311",
+        "68a63b9b8e1fe612970728f7"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_handguard",
+            "6a1567ce0cce01965f0bee01",
+            [
+                "68a63b9b8e1fe612970728f7"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_handguard",
+            "6a156a75cbb8d0c82606c525",
+            [
+                "68a63b9b8e1fe612970728f7"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_handguard",
+            "6a156a9407619a15b1023be7",
+            [
+                "68a63b9b8e1fe612970728f7"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_sight_front",
+            "6a15785370efdef7be017253",
+            [
+                "5ab372a310e891001717f0d8",
+        "6810d2c6485a5ea11b01e3ad"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_sight_rear",
+            "6a1578658d059ca69c0a7853",
+            [
+                "5ab372a310e891001717f0d8",
+        "68712bd4251b8d4c6c04ec19"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_muzzle",
+            "6a158e63060f61ca2c03e096",
+            [
+                "5b099a765acfc47a8607efe3",
+        "5b7be1125acfc4001876c0e5",
+        "5b7be1265acfc400161d0798",
+        "5cf79599d7f00c10875d9212",
+        "5df256570dee1b22f862e9c4",
+        "5f2aa43ba9b91d26f20ae6d2",
+        "660126f7c752a02bbe05e688",
+        "681245a31eb182c02f0d7f09"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_muzzle",
+            "6a158e63060f61ca2c03e096",
+            [
+                "628a60ae6b1d481ff772e9c8"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_stock",
+            "6a15aef607619a15b1023c51",
+            [
+                "5beec8b20db834001961942a",
+        "628b9a40717774443b15e9f2",
+        "649ec87d8007560a9001ab36"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_stock",
+            "6a15bf94e5267ba21c07f9b1",
+            [
+                "5beec8b20db834001961942a",
+        "649ec87d8007560a9001ab36"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_stock",
+            "6a15bfa58d059ca69c0a78c0",
+            [
+                "5beec8b20db834001961942a",
+        "649ec87d8007560a9001ab36"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope",
+            "6a16dc0b82cfbdc3ab09f58a",
+            [
+                "5649d9a14bdc2d79388b4580",
+        "5a7b4900e899ef197b331a2a",
+        "5caf1691ae92152ac412efb9",
+        "5d4405aaa4b9361e6a4e6bd3",
+        "5e5699df2161e06ac158df6f",
+        "647dba3142c479dde701b654",
+        "6568a6bf2c5fb7afc70bc424",
+        "65fb023261d5829b2d090755",
+        "661ceb1b9311543c7104149b",
+        "661cec09b2c6356b4d0c7a36",
+        "668fe5f62a0f85eea407cc18",
+        "669fa47da0bab4e8510d9526",
+        "669fa48fa0bab4e8510d952a",
+        "669fa4ba1bd4416eaa09b3c6",
+        "669fa4c61bd4416eaa09b3ca",
+        "67124dcfa3541f2a1f0e788b",
+        "674d6121c09f69dfb201a888",
+        "680b884f1a335f66240ecde7",
+        "688c86420e99e554a90c0fd6",
+        "68aee8f8130c00663d08aeb3"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical",
+            "6a16dc0b82cfbdc3ab09f58a",
+            [
+                "649ec127c93611967b034957",
+        "689166debd91cc17c109c753",
+        "6a1708253dfad1cb790c91ed"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope",
+            "6a16dc17b7b9778bee072c65",
+            [
+                "5caf1691ae92152ac412efb9",
+        "5d4405aaa4b9361e6a4e6bd3",
+        "633ec7c2a6918cb895019c6c",
+        "6568a6bf2c5fb7afc70bc424",
+        "65fb023261d5829b2d090755",
+        "661ceb1b9311543c7104149b",
+        "661cec09b2c6356b4d0c7a36",
+        "669fa47da0bab4e8510d9526",
+        "674d6121c09f69dfb201a888",
+        "68aee8f8130c00663d08aeb3"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope_001",
+            "6a16dc17b7b9778bee072c65",
+            [
+                "61713cc4d8e3106d9806c109",
+        "6171407e50224f204c1da3c5"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_tactical",
+            "6a16dc17b7b9778bee072c65",
+            [
+                "676177df1f08ed5e8800b7ae",
+        "687128c4505fed5f370b1625"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_mount",
+            "6a16dc17b7b9778bee072c65",
+            [
+                "5ab372a310e891001717f0d8",
+        "5eeb2ff5ea4f8b73c827350b"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_scope",
+            "6a16dc17b7b9778bee072c65",
+            [
+                "56083a334bdc2dc8488b4571",
+        "5649a2464bdc2d91118b45a8",
+        "57ffb0062459777a045af529",
+        "5a7ad4af51dfba0013379717",
+        "5a7ad55551dfba0015068f42",
+        "5a7b4900e899ef197b331a2a",
+        "5a9fc7e6a2750c0032157184",
+        "5b7bebc85acfc43bca706666",
+        "5b7bedd75acfc43d825283f9",
+        "5e56991336989c75ab4f03f6",
+        "6492c8bba6e68e06fb0bae87",
+        "6698c90829e062525d0ad8ad"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_tactical",
+            "6a16dc17b7b9778bee072c65",
+            [
+                "68b97e7fd9dbc47f4808b09d"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_muzzle",
+            "6a16dc8b12144b7727017dad",
+            [
+                "583990e32459771419544dd2",
+        "5839a40f24597726f856b511",
+        "5ab8e9fcd8ce870019439434",
+        "5bf3e0490db83400196199af",
+        "5cf67a1bd7f00c06585fb6f3",
+        "68235b0b7d3ccc3ca20f4d01"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_foregrip",
+            "6a16f3711c209e26040a5410",
+            [
+                "5fbb976df9986c4cff3fe5f2",
+        "6932aec6cccd2b808a043856"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_foregrip",
+            "6a16f3811c209e26040a5413",
+            [
+                "5fbb976df9986c4cff3fe5f2",
+        "6932aec6cccd2b808a043856"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_handguard",
+            "6a1708253dfad1cb790c91ed",
+            [
+                "689166b6c2d6fa42e7044756"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_handguard",
+            "6a182c0fae175e037a0be40c",
+            [
+                "657857faeff4c850222dff1b"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_stock",
+            "6a182c39b913af92800d8b5d",
+            [
+                "657857faeff4c850222dff1b"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope",
+            "6a18508bae175e037a0be420",
+            [
+                "5caf1691ae92152ac412efb9",
+        "5d4405aaa4b9361e6a4e6bd3",
+        "6415d33eda439c6a97048b5b",
+        "65fb023261d5829b2d090755",
+        "661ceb1b9311543c7104149b",
+        "661cec09b2c6356b4d0c7a36"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_stock",
+            "6a1d4c9246a6dc414a014973",
+            [
+                "5beec8b20db834001961942a",
+        "649ec87d8007560a9001ab36"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_charge",
+            "6a1d4dae46b486ac34084778",
+            [
+                "60339954d62c9b14ed777c06"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_muzzle",
+            "6a3cea96194a2625b40c863d",
+            [
+                "630f27f04f3f6281050b94d7"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_sight_rear",
+            "6a3ceacd8ce058e3a2059b28",
+            [
+                "5ab372a310e891001717f0d8",
+        "5ba26383d4351e00334c93d9",
+        "5bd70322209c4d00d7167b8f",
+        "5cadfbf7ae92152ac412eeef",
+        "63f5ed14534b2c3d5479a677",
+        "65f064eec4da400cbb0dc1fe"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_sight_front",
+            "6a3ceadb6280cb85bc03f99a",
+            [
+                "56ea8d2fd2720b7c698b4570",
+        "5a34fbadc4a28200741e230a",
+        "5ab372a310e891001717f0d8",
+        "5ba26383d4351e00334c93d9",
+        "5bd70322209c4d00d7167b8f",
+        "5cadfbf7ae92152ac412eeef",
+        "673cb5d1280680de5e02ff3b",
+        "67405ef125beb509e8070276",
+        "67405fd0812f476fb2020066",
+        "67d417c023ec241bb70d4896",
+        "681096b551511048940afed9",
+        "6810d2c6485a5ea11b01e3ad",
+        "68aee9fe130c00663d08aeb6",
+        "68d5676f43adc7372a0c8ae0"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope",
+            "6a3ceaf01ac10a22850e295a",
+            [
+                "5cadfbf7ae92152ac412eeef",
+        "5caf1691ae92152ac412efb9",
+        "5dfcd0e547101c39625f66f9",
+        "65fb023261d5829b2d090755",
+        "661ceb1b9311543c7104149b",
+        "661cec09b2c6356b4d0c7a36",
+        "68a63d1522b1e0bd360afe67"
+            ]);
+
+        slotHelper.AddIdToNamedSlots(
+            templates,
+            "mod_scope",
+            "6a3ceaf01ac10a22850e295a",
+            [
+                "5827272a24597748c74bdeea",
+        "591ee00d86f774592f7b841e",
+        "59985a6c86f77414ec448d17",
+        "5cc700ede4a949033c734315",
+        "5fb64bc92b1b027b1f50bcf2",
+        "5fc3f2d5900b1d5091531e57",
+        "609a4b4fe2ff132951242d04"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_foregrip",
+            "6a675e0706a5419b2508f26c",
+            [
+                "5d19cd96d7ad1a4a992c9f52",
+        "65ae4f57e343f0acc00824da",
+        "68caac360bfe742288085e16",
+        "6a6877f566f77e6757083db5"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_scope",
+            "6a675e25dfb2de5e320d454e",
+            [
+                "5a32aa0cc4a28232996e405f",
+        "5d7b6bafa4b93652786f4c76"
+            ]);
+
+        slotHelper.RemoveIdFromNamedSlots(
+            templates,
+            "mod_muzzle",
+            "6a6880680934ae00be0d5f9a",
+            [
+                "630f27f04f3f6281050b94d7"
+            ]);
     }
 }

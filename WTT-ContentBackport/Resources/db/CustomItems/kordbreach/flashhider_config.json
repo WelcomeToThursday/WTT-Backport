@@ -131,7 +131,7 @@
         "registerInFleaPrices": true
     },
     "6a3cea96194a2625b40c863d": {
-        "itemTplToClone": "544a38634bdc2d58388b4568",
+        "itemTplToClone": "56ea6fafd2720b844b8b4593",
         "parentId": "550aa4bf4bdc2dd6348b456b",
         "handbookParentId": "5b5f724c86f774093f2ecf15",
         "overrideProperties": {
@@ -252,9 +252,7 @@
         },
         "addtoInventorySlots": [],
         "addtoModSlots": true,
-        "modSlot": [
-            "mod_muzzle"
-        ],
+        "modSlot": ["mod_muzzle"],
         "fleaPriceRoubles": 20240,
         "handbookPriceRoubles": 9200,
         "addtoBots": false,
@@ -427,7 +425,7 @@
     "registerInFleaPrices": true
   },
     "6a158e63060f61ca2c03e096": {
-        "itemTplToClone": "59bffc1f86f77435b128b872",
+        "itemTplToClone": "6642f63667f5cb56a00662eb",
         "parentId": "550aa4bf4bdc2dd6348b456b",
         "handbookParentId": "5b5f724c86f774093f2ecf15",
         "overrideProperties": {
@@ -549,9 +547,7 @@
         },
         "addtoInventorySlots": [],
         "addtoModSlots": true,
-        "modSlot": [
-            "mod_muzzle"
-        ],
+        "modSlot": ["mod_muzzle"],
         "fleaPriceRoubles": 16236,
         "handbookPriceRoubles": 7380,
         "addtoBots": false,

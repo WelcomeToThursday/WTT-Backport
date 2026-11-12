@@ -1,6 +1,6 @@
 {
   "689b889473ebd6871805edd6": {
-    "itemTplToClone": "5a16b93dfcdbcbcae6687261",
+    "itemTplToClone": "67506ca81f18589016006aa6",
     "parentId": "5a2c3a9486f774688b05e574",
     "handbookParentId": "5b5f749986f774094242f199",
     "overrideProperties": {
@@ -148,9 +148,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_nvg"
-    ],
+    "modSlot": ["mod_nvg"],
     "fleaPriceRoubles": 374000,
     "handbookPriceRoubles": 145004,
     "addtoBots": false,

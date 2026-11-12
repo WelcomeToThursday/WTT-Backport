@@ -1,6 +1,6 @@
 {
     "6a675e0706a5419b2508f26c": {
-        "itemTplToClone": "558032614bdc2de7118b4585",
+        "itemTplToClone": "5f6340d3ca442212f4047eb2",
         "parentId": "55818af64bdc2d5b648b4570",
         "overrideProperties": {
             "Grids": [],
@@ -95,9 +95,7 @@
         },
         "addtoInventorySlots": [],
         "addtoModSlots": true,
-        "modSlot": [
-            "mod_foregrip"
-        ],
+        "modSlot": ["mod_foregrip"],
         "addtoBots": false,
         "addtoStaticLootContainers": false,
         "staticLootContainers": [],

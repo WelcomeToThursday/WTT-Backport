@@ -26,7 +26,14 @@
             "6a354a9a9cd7a91b45027a89",
             "6a354abe73339990030ca469",
             "6a354aa56632508bd10476dc",
-            "6a3549435288a3fe6e085224"
+            "6a3549435288a3fe6e085224",
+            "6aa2d537cfc9b36b300da067",
+            "6aa2d55e0b4e81daf20cd212",
+            "6aa2d585cfc9b36b300da06a",
+            "6aa2d5af0b4e81daf20cd215",
+            "6aa2d5d3667ebebca605d8f6",
+            "6aa2d5ee11d6c6361804dd57",
+            "6ab60a4d5c0779ba1e0aabad"
 
         };
     public static readonly List<MongoId> _usecDogtags = new()
@@ -46,7 +53,12 @@
             "6a354a6240e6797a930312e5",
             "6a354a7e6632508bd10476d8",
             "6a354a6f8d465a55c70065c8",
-            "6a3548e72a963bcdd8098649"
+            "6a3548e72a963bcdd8098649",
+            "6ab2d6031c7d617b290dd2b0",
+            "6ab2d68819b981e6870f35d3",
+            "6ab60a252bc101093f05029f",
+            "6ab60a57615ae75bdd0e39ce",
+            "6ab60a62d60e0dec3e04ff2c"
 
         };
 

@@ -1,0 +1,128 @@
+{
+  "6ab2d50ed788b98b9e0ed79e": {
+    "_id": "6ab2d50ed788b98b9e0ed79e",
+    "_name": "dogtag_prestige_1_pve",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_prestige_1_pve",
+      "Name": "dogtag_prestige_1_pve",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "dogtag_prestige_1_pve",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "6aa2d537cfc9b36b300da067",
+      "UsecTemplateId": "6ab2d6031c7d617b290dd2b0"
+    }
+  },
+  "6ab2d6d2b498e98ee00d9b65": {
+    "_id": "6ab2d6d2b498e98ee00d9b65",
+    "_name": "dogtag_prestige_2_pve",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_prestige_2_pve",
+      "Name": "dogtag_prestige_2_pve",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "dogtag_prestige_2_pve",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "6aa2d55e0b4e81daf20cd212",
+      "UsecTemplateId": "6ab2d68819b981e6870f35d3"
+    }
+  },
+  "6ab65b4106cd626cda0a2e3c": {
+    "_id": "6ab65b4106cd626cda0a2e3c",
+    "_name": "dogtag_prestige_3_pve",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_prestige_3_pve",
+      "Name": "dogtag_prestige_3_pve",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "dogtag_prestige_3_pve",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "6aa2d585cfc9b36b300da06a",
+      "UsecTemplateId": "6ab60a252bc101093f05029f"
+    }
+  },
+  "6ab65b5245e09f045f049cbd": {
+    "_id": "6ab65b5245e09f045f049cbd",
+    "_name": "dogtag_prestige_4_pve",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_prestige_4_pve",
+      "Name": "dogtag_prestige_4_pve",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "dogtag_prestige_4_pve",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "6aa2d5af0b4e81daf20cd215",
+      "UsecTemplateId": "6ab60a4d5c0779ba1e0aabad"
+    }
+  },
+  "6ab65b7a2c7569c54d06b14e": {
+    "_id": "6ab65b7a2c7569c54d06b14e",
+    "_name": "dogtag_prestige_5_pve",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_prestige_5_pve",
+      "Name": "dogtag_prestige_5_pve",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "dogtag_prestige_5_pve",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "6aa2d5d3667ebebca605d8f6",
+      "UsecTemplateId": "6ab60a57615ae75bdd0e39ce"
+    }
+  },
+  "6ab65b9d8e917e918e07e85e": {
+    "_id": "6ab65b9d8e917e918e07e85e",
+    "_name": "dogtag_prestige_6_pve",
+    "_parent": "6746fafabafff8500804880e",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "dogtag_prestige_6_pve",
+      "Name": "dogtag_prestige_6_pve",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "dogtag_prestige_6_pve",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "BearTemplateId": "6aa2d5ee11d6c6361804dd57",
+      "UsecTemplateId": "6ab60a62d60e0dec3e04ff2c"
+    }
+  }
+}

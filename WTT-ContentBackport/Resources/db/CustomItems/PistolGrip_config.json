@@ -584,7 +584,7 @@
     "traders": {}
   },
   "68caac14f42a4476cf0be2aa": {
-    "itemTplToClone": "6113cce3d92c473c770200c7",
+    "itemTplToClone": "5bfe86a20db834001d23e8f7",
     "parentId": "55818a684bdc2ddd698b456d",
     "handbookParentId": "5b5f761f86f774094242f1a1",
     "overrideProperties": {
@@ -681,11 +681,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_pistol_grip",
-      "mod_pistolgrip",
-      "mod_pistolgrip_000"
-    ],
+    "modSlot": ["mod_pistol_grip", "mod_pistolgrip"],
     "fleaPriceRoubles": 24690,
     "handbookPriceRoubles": 7846,
     "addtoBots": false,

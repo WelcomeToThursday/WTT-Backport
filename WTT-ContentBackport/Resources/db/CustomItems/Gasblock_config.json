@@ -145,7 +145,7 @@
     "traders": {}
   },
   "68caac02269e10396503acfa": {
-    "itemTplToClone": "56eabcd4d2720b66698b4574",
+    "itemTplToClone": "5c471c842e221615214259b5",
     "parentId": "56ea9461d2720b67698b456f",
     "handbookParentId": "5b5f760586f774093e6cb509",
     "overrideProperties": {
@@ -279,9 +279,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_gas_block"
-    ],
+    "modSlot": ["mod_gas_block"],
     "fleaPriceRoubles": 27833,
     "handbookPriceRoubles": 7800,
     "addtoBots": false,

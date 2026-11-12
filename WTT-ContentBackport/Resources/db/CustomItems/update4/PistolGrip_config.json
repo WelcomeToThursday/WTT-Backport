@@ -1,6 +1,6 @@
 {
   "6984b7bf0baed1fc0a0594f6": {
-    "itemTplToClone": "651580dc71a4f10aec4b6056",
+    "itemTplToClone": "5998517986f7746017232f7e",
     "parentId": "55818a684bdc2ddd698b456d",
     "handbookParentId": "5b5f761f86f774094242f1a1",
     "overrideProperties": {
@@ -96,11 +96,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_pistol_grip",
-      "mod_pistol_grip_akms",
-      "mod_pistolgrip"
-    ],
+    "modSlot": ["mod_pistol_grip", "mod_pistol_grip_akms", "mod_pistolgrip"],
     "fleaPriceRoubles": 13230,
     "handbookPriceRoubles": 11799,
     "addtoBots": false,
@@ -125,7 +121,7 @@
     "traders": {}
   },
   "6984b7d56be2752c150e6895": {
-    "itemTplToClone": "652911675ae2ae97b80fdf3c",
+    "itemTplToClone": "615d8faecabb9b7ad90f4d5d",
     "parentId": "55818a684bdc2ddd698b456d",
     "handbookParentId": "5b5f761f86f774094242f1a1",
     "overrideProperties": {
@@ -221,9 +217,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_pistol_grip"
-    ],
+    "modSlot": ["mod_pistol_grip", "mod_pistolgrip", "mod_pistolgrip_000"],
     "fleaPriceRoubles": 7890,
     "handbookPriceRoubles": 7000,
     "addtoBots": false,
@@ -248,7 +242,7 @@
     "traders": {}
   },
   "698dac21772d6f3dc00e4284": {
-    "itemTplToClone": "652911675ae2ae97b80fdf3c",
+    "itemTplToClone": "615d8faecabb9b7ad90f4d5d",
     "parentId": "55818a684bdc2ddd698b456d",
     "handbookParentId": "5b5f761f86f774094242f1a1",
     "overrideProperties": {
@@ -344,9 +338,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_pistol_grip"
-    ],
+    "modSlot": ["mod_pistol_grip", "mod_pistolgrip", "mod_pistolgrip_000"],
     "fleaPriceRoubles": 7890,
     "handbookPriceRoubles": 7000,
     "addtoBots": false,
@@ -371,7 +363,7 @@
     "traders": {}
   },
   "6985eb089edef67ade080b72": {
-    "itemTplToClone": "652911675ae2ae97b80fdf3c",
+    "itemTplToClone": "615d8faecabb9b7ad90f4d5d",
     "parentId": "55818a684bdc2ddd698b456d",
     "handbookParentId": "5b5f761f86f774094242f1a1",
     "overrideProperties": {
@@ -467,9 +459,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_pistol_grip"
-    ],
+    "modSlot": ["mod_pistol_grip", "mod_pistolgrip", "mod_pistolgrip_000"],
     "fleaPriceRoubles": 7890,
     "handbookPriceRoubles": 7000,
     "addtoBots": false,
@@ -494,7 +484,7 @@
     "traders": {}
   },
   "6981f8ca1d2e2070560b7275": {
-    "itemTplToClone": "651580dc71a4f10aec4b6056",
+    "itemTplToClone": "5998517986f7746017232f7e",
     "parentId": "55818a684bdc2ddd698b456d",
     "handbookParentId": "5b5f761f86f774094242f1a1",
     "overrideProperties": {
@@ -590,11 +580,7 @@
     },
     "addtoInventorySlots": [],
     "addtoModSlots": true,
-    "modSlot": [
-      "mod_pistol_grip",
-      "mod_pistol_grip_akms",
-      "mod_pistolgrip"
-    ],
+    "modSlot": ["mod_pistol_grip", "mod_pistol_grip_akms", "mod_pistolgrip"],
     "fleaPriceRoubles": 0,
     "handbookPriceRoubles": 15300,
     "addtoBots": false,

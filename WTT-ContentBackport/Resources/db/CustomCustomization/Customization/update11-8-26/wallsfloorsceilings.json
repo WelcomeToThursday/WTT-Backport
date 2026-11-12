@@ -1,0 +1,224 @@
+{
+  "6aa8414c151289a0fb022a41": {
+    "_id": "6aa8414c151289a0fb022a41",
+    "_name": "ReferralCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "",
+      "Name": "",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_referral.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "6acf394bd5e58156f10a8f6a": {
+    "_id": "6acf394bd5e58156f10a8f6a",
+    "_name": "AsiaCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "AsiaCeiling",
+      "Name": "AsiaCeiling",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "AsiaCeiling",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_asia.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "6acf353f544ea940ab09344b": {
+    "_id": "6acf353f544ea940ab09344b",
+    "_name": "MilitaryUSCeiling",
+    "_parent": "673b3f595bf6b605c90fcdc2",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "MilitaryUSCeiling",
+      "Name": "MilitaryUSCeiling",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "MilitaryUSCeiling",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_military_us.bundle",
+        "rcid": ""
+      }
+    }
+  },
+  "6aa84285a2113a960901f1a7": {
+    "_id": "6aa84285a2113a960901f1a7",
+    "_name": "ReferralFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "",
+      "Name": "",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_referral.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "6acf39694a8e45c81506a6e9": {
+    "_id": "6acf39694a8e45c81506a6e9",
+    "_name": "AsiaFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "AsiaFloor",
+      "Name": "AsiaFloor",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "AsiaFloor",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_asia.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "6acf3564544ea940ab09344e": {
+    "_id": "6acf3564544ea940ab09344e",
+    "_name": "MilitaryUSFloor",
+    "_parent": "67373f170eca6e03ab0d5391",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "MilitaryUSFloor",
+      "Name": "MilitaryUSFloor",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "MilitaryUSFloor",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_military_us.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "6aa842e1a6a6fa9766035bed": {
+    "_id": "6aa842e1a6a6fa9766035bed",
+    "_name": "ReferralWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "",
+      "Name": "",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_referral.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "6acf399973cbffda7101405b": {
+    "_id": "6acf399973cbffda7101405b",
+    "_name": "AsiaWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "AsiaWall",
+      "Name": "AsiaWall",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "AsiaWall",
+      "Side": [
+        "Usec",
+        "Bear"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_asia.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  },
+  "6acf358d343a6539f304b8fc": {
+    "_id": "6acf358d343a6539f304b8fc",
+    "_name": "MilitaryUSWall",
+    "_parent": "67373f1e5a5ee73f2a081baf",
+    "_type": "Item",
+    "_props": {
+      "AvailableAsDefault": false,
+      "Description": "MilitaryUSWall",
+      "Name": "MilitaryUSWall",
+      "ProfileVersions": [],
+      "ProfileVersionsIgnoresSide": [],
+      "ShopCustomizationUrl": "",
+      "ShortName": "MilitaryUSWall",
+      "Side": [
+        "Bear",
+        "Usec"
+      ],
+      "HiddenByDefault": false,
+      "AssetPath": {
+        "path": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_military_us.bundle",
+        "rcid": ""
+      },
+      "HideGarbage": true
+    }
+  }
+}
