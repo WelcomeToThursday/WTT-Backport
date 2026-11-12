@@ -3697,7 +3697,23 @@
       ]
     },
     {
+      "key": "assets/content/items/equipment/helmet_altyn/item_equipment_helmet_altyn.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/items/equipment/helmet_altyn/item_equipment_helmet_altyn_damaged_bp_04.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_altyn_shield/item_equipment_helmet_altyn_shield.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps",
@@ -3841,6 +3857,14 @@
       ]
     },
     {
+      "key": "assets/content/items/equipment/helmet_crye_airframe/item_equipment_helmet_crye_airframe_tan.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -3897,7 +3921,6 @@
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_snake_skin_bp03.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
-        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
         "shaders",
         "cubemaps"
       ]
@@ -3962,7 +3985,6 @@
     {
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears_snake_skin_bp03.bundle",
       "dependencyKeys": [
-        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
@@ -4037,6 +4059,22 @@
       ]
     },
     {
+      "key": "assets/content/items/equipment/helmet_neosteel/item_equipment_helmet_neosteel.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_neosteel/item_equipment_helmet_neosteel_aces_bp2.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/items/equipment/helmet_neosteel/item_equipment_helmet_neosteel_gen2_od_bp_04.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -4054,6 +4092,14 @@
     },
     {
       "key": "assets/content/items/equipment/helmet_neosteel/item_equipment_helmet_neosteel_gen2_toxin_bp_04.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_neosteel/item_equipment_helmet_neosteel_orange_stains_bp2.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps",
@@ -4093,6 +4139,46 @@
       ]
     },
     {
+      "key": "assets/content/items/equipment/helmet_neosteel_mandible/item_equipment_helmet_neosteel_mandible.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_neosteel_mandible/item_equipment_helmet_neosteel_mandible_aces_bp2.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_neosteel_mandible/item_equipment_helmet_neosteel_mandible_black_bp2.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_rys_t/item_equipment_helmet_rys_t.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_rys_t_shield/item_equipment_helmet_rys_t_shield.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/items/equipment/helmet_strike_ballistic/item_equipment_helmet_strike_ballistic_carbon_bp_04.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -4101,7 +4187,30 @@
       ]
     },
     {
+      "key": "assets/content/items/equipment/helmet_strike_ballistic/item_equipment_helmet_strike_ballistic_coyote.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_strike_ballistic/item_equipment_helmet_strike_ballistic_coyote_camouflage.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/equipment/helmet_team_wendy_exfil/item_equipment_helmet_team_wendy_exfil_black.bundle",
+      "dependencyKeys": [
+        "assets/content/items/equipment/helmet_team_wendy_exfil.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_team_wendy_exfil/item_equipment_helmet_team_wendy_exfil_coyote.bundle",
       "dependencyKeys": [
         "assets/content/items/equipment/helmet_team_wendy_exfil.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
@@ -4170,6 +4279,60 @@
         "cubemaps",
         "shaders"
       ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_ulach/item_equipment_helmet_ulach_black.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_ulach/item_equipment_helmet_ulach_textures.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_ulach/item_equipment_helmet_ulach_bp2_coyote_stripes.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_ulach/item_equipment_helmet_ulach_bp2_green_dot.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_ulach/item_equipment_helmet_ulach_bp2_green_stripes.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_ulach/item_equipment_helmet_ulach_bp2_sand.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_ulach/item_equipment_helmet_ulach_coyote.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_ulach/item_equipment_helmet_ulach_textures.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_ulach/item_equipment_helmet_ulach_textures.bundle",
+      "dependencyKeys": []
     },
     {
       "key": "assets/content/items/equipment/helmet_wedge_boss_cover/item_equipment_helmet_wedge_boss_cover.bundle",
@@ -10109,32 +10272,17 @@
     {
       "key": "assets/content/weapons/dagger/weapon_semin_push_dagger_container.bundle",
       "dependencyKeys": [
-        "assets/content/weapons/animations/simple_animations.bundle",
-        "assets/content/weapons/additional_hands/client_assets.bundle",
-        "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/content/weapons/fulcrum/client_assets.bundle",
-        "assets/content/weapons/dagger/client_assets.bundle",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "assets/content/weapons/dagger/textures/client_assets.bundle",
-        "cubemaps",
+        "assets/content/weapons/finka_nkvd/weapon_finka_nkvd_ivory_container.bundle",
         "shaders",
-        "assets/content/weapons/animations/spirit_animations.bundle",
-        "assets/content/audio/weapons/knife_bayonet.bundle",
-        "assets/content/audio/weapons/generic",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle"
+        "assets/content/weapons/additional_hands/client_assets.bundle"
       ]
     },
     {
       "key": "assets/content/weapons/dagger/weapon_semin_push_dagger_light_wood_container.bundle",
       "dependencyKeys": [
+        "assets/content/weapons/finka_nkvd/weapon_finka_nkvd_ivory_container.bundle",
         "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "assets/content/weapons/dagger/weapon_semin_push_dagger_container.bundle",
-        "assets/content/weapons/dagger/client_assets.bundle",
-        "assets/content/audio/weapons/knife_bayonet.bundle",
-        "assets/content/audio/weapons/generic",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle"
+        "assets/content/weapons/additional_hands/client_assets.bundle"
       ]
     },
     {
@@ -10161,12 +10309,7 @@
     {
       "key": "assets/content/weapons/finka_nkvd/weapon_finka_nkvd_ivory_container.bundle",
       "dependencyKeys": [
-        "assets/content/weapons/finka_nkvd/weapon_finka_nkvd_container.bundle",
-        "assets/content/audio/weapons/knife_bayonet.bundle",
-        "assets/content/audio/weapons/generic",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "shaders",
-        "assets/commonassets/physics/physicsmaterials.bundle"
+        "shaders"
       ]
     },
     {
@@ -10912,10 +11055,8 @@
     {
       "key": "assets/content/weapons/zombiehands/weapon_zombie_hands_container.bundle",
       "dependencyKeys": [
-        "assets/content/weapons/6x5/client_assets.bundle",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "assets/content/weapons/knife_ritual/weapon_knife_ritual_container.bundle",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle"
+        "assets/content/weapons/finka_nkvd/weapon_finka_nkvd_ivory_container.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle"
       ]
     },
     {
