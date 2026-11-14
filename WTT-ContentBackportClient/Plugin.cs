@@ -7,7 +7,7 @@ using WTTContentBackportClient.Patches;
 
 namespace WTTContentBackportClient
 {
-    [BepInPlugin("com.wtt.contentbackport", "WTT-ContentBackportClient", "2.0.6")]
+    [BepInPlugin("com.wtt.contentbackport", "WTT-ContentBackportClient", "2.0.7")]
     public class Plugin : BaseUnityPlugin
     {
         internal static RuntimeAnimatorController MannequinController { get; private set; }
@@ -21,6 +21,7 @@ namespace WTTContentBackportClient
             new MannequinPatch().Enable();
             new EnvironmentUIAwakePatch().Enable();
             new EnvironmentUISetEnvironmentPatch().Enable();
+
             if (!LoadBundle())
             {
                 Log.LogError("Bundle setup failed.");

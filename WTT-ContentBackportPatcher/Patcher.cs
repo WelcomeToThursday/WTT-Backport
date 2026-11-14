@@ -3,7 +3,7 @@
 namespace PunisherBossModPreloader
 {
 
-    [BepInPlugin("com.wtt.contentbackport", "Content Backport Preloader Patch", "2.0.6")]
+    [BepInPlugin("com.wtt.contentbackport", "Content Backport Preloader Patch", "2.0.7")]
     public class Patcher : BaseUnityPlugin
     {
 

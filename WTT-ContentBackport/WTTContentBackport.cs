@@ -19,7 +19,7 @@ public record ModMetadata : IModMetadata
     public Range SptVersion { get; init; } = new("~4.1.6");
     public List<string>? Incompatibilities { get; init; }
     public Dictionary<string, Range>? ModDependencies { get; init; } =
-        new() { { "com.wtt.commonlib", new Range("~3.0.6") } };
+        new() { { "com.wtt.commonlib", new Range("~3.0.7") } };
     public string? Url { get; init; }
     public string License { get; init; } = "MIT";
 
