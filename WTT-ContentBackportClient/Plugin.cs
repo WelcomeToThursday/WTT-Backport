@@ -21,6 +21,7 @@ namespace WTTContentBackportClient
             new MannequinPatch().Enable();
             new EnvironmentUIAwakePatch().Enable();
             new EnvironmentUISetEnvironmentPatch().Enable();
+            new FullBundlePathPatch().Enable();
             if (!LoadBundle())
             {
                 Log.LogError("Bundle setup failed.");
